@@ -1,0 +1,1438 @@
+Order,Family,Genus,Species,Binomial,Species.Name,vertebrate,invertebrate,fibrousplant,nonfibrousplant,Adult_bodymass_g,Diet_category,Adult_bodymass_kg,Diet category based on prey type
+Artiodactyla,Antilocapridae,Antilocapra,americana,Antilocapra americana,Antilocapra_americana,0,0,1,0,46082.9,Fibrous,46.0829,Herbivore
+Artiodactyla,Bovidae,Addax,nasomaculatus,Addax nasomaculatus,Addax_nasomaculatus,0,0,1,0,70000.3,Fibrous,70.0003,Herbivore
+Artiodactyla,Bovidae,Aepyceros,melampus,Aepyceros melampus,Aepyceros_melampus,0,0,1,1,52500.1,Nonfibrous/Fibrous,52.5001,Herbivore
+Artiodactyla,Bovidae,Alcelaphus,buselaphus,Alcelaphus buselaphus,Alcelaphus_buselaphus,0,0,1,1,171001.5,Nonfibrous/Fibrous,171.0015,Herbivore
+Artiodactyla,Bovidae,Ammodorcas,clarkei,Ammodorcas clarkei,Ammodorcas_clarkei,0,0,1,1,28049.8,Nonfibrous/Fibrous,28.0498,Herbivore
+Artiodactyla,Bovidae,Ammotragus,lervia,Ammotragus lervia,Ammotragus_lervia,0,0,1,0,48000,Fibrous,48,Herbivore
+Artiodactyla,Bovidae,Antidorcas,marsupialis,Antidorcas marsupialis,Antidorcas_marsupialis,0,0,1,0,39049.9,Fibrous,39.0499,Herbivore
+Artiodactyla,Bovidae,Antilope,cervicapra,Antilope cervicapra,Antilope_cervicapra,0,0,1,0,37500,Fibrous,37.5,Herbivore
+Artiodactyla,Bovidae,Beatragus,hunteri,Beatragus hunteri,Beatragus_hunteri,0,0,1,0,80000,Fibrous,80,Herbivore
+Artiodactyla,Bovidae,Bison,bison,Bison bison,Bison_bison,0,0,1,0,579255.3,Fibrous,579.2553,Herbivore
+Artiodactyla,Bovidae,Bison,bonasus,Bison bonasus,Bison_bonasus,0,0,1,0,500000,Fibrous,500,Herbivore
+Artiodactyla,Bovidae,Bos,javanicus,Bos javanicus,Bos_javanicus,0,0,1,0,700000,Fibrous,700,Herbivore
+Artiodactyla,Bovidae,Bos,sauveli,Bos sauveli,Bos_sauveli,0,0,1,0,800000,Fibrous,800,Herbivore
+Artiodactyla,Bovidae,Boselaphus,tragocamelus,Boselaphus tragocamelus,Boselaphus_tragocamelus,0,0,1,0,169000,Fibrous,169,Herbivore
+Artiodactyla,Bovidae,Budorcas,taxicolor,Budorcas taxicolor,Budorcas_taxicolor,0,0,1,0,302000,Fibrous,302,Herbivore
+Artiodactyla,Bovidae,Capra,ibex,Capra ibex,Capra_ibex,0,0,1,0,85166,Fibrous,85.166,Herbivore
+Artiodactyla,Bovidae,Capricornis,sumatraensis,Capricornis sumatraensis,Capricornis_sumatraensis,0,0,1,0,87500,Fibrous,87.5,Herbivore
+Artiodactyla,Bovidae,Cephalophus,adersi,Cephalophus adersi,Cephalophus_adersi,0,0,1,1,9250,Nonfibrous/Fibrous,9.25,Herbivore
+Artiodactyla,Bovidae,Cephalophus,callipygus,Cephalophus callipygus,Cephalophus_callipygus,0,0,1,1,18249.9,Nonfibrous/Fibrous,18.2499,Herbivore
+Artiodactyla,Bovidae,Cephalophus,jentinki,Cephalophus jentinki,Cephalophus_jentinki,0,0,1,1,70000.3,Nonfibrous/Fibrous,70.0003,Herbivore
+Artiodactyla,Bovidae,Cephalophus,leucogaster,Cephalophus leucogaster,Cephalophus_leucogaster,0,0,1,1,12699.9,Nonfibrous/Fibrous,12.6999,Herbivore
+Artiodactyla,Bovidae,Cephalophus,natalensis,Cephalophus natalensis,Cephalophus_natalensis,0,0,1,1,12000,Nonfibrous/Fibrous,12,Herbivore
+Artiodactyla,Bovidae,Cephalophus,niger,Cephalophus niger,Cephalophus_niger,0,0,1,1,20400,Nonfibrous/Fibrous,20.4,Herbivore
+Artiodactyla,Bovidae,Cephalophus,nigrifrons,Cephalophus nigrifrons,Cephalophus_nigrifrons,0,0,1,1,13899.8,Nonfibrous/Fibrous,13.8998,Herbivore
+Artiodactyla,Bovidae,Cephalophus,ogilbyi,Cephalophus ogilbyi,Cephalophus_ogilbyi,0,0,1,1,20000,Nonfibrous/Fibrous,20,Herbivore
+Artiodactyla,Bovidae,Cephalophus,rufilatus,Cephalophus rufilatus,Cephalophus_rufilatus,0,0,1,1,12000,Nonfibrous/Fibrous,12,Herbivore
+Artiodactyla,Bovidae,Cephalophus,silvicultor,Cephalophus silvicultor,Cephalophus_silvicultor,0,0,1,1,72500.3,Nonfibrous/Fibrous,72.5003,Herbivore
+Artiodactyla,Bovidae,Cephalophus,spadix,Cephalophus spadix,Cephalophus_spadix,0,0,1,1,56000.3,Nonfibrous/Fibrous,56.0003,Herbivore
+Artiodactyla,Bovidae,Cephalophus,zebra,Cephalophus zebra,Cephalophus_zebra,0,0,1,1,17500.1,Nonfibrous/Fibrous,17.5001,Herbivore
+Artiodactyla,Bovidae,Connochaetes,gnou,Connochaetes gnou,Connochaetes_gnou,0,0,1,0,179999,Fibrous,179.999,Herbivore
+Artiodactyla,Bovidae,Connochaetes,taurinus,Connochaetes taurinus,Connochaetes_taurinus,0,0,1,0,179999,Fibrous,179.999,Herbivore
+Artiodactyla,Bovidae,Damaliscus,lunatus,Damaliscus lunatus,Damaliscus_lunatus,0,0,1,0,136000.3,Fibrous,136.0003,Herbivore
+Artiodactyla,Bovidae,Damaliscus,pygargus,Damaliscus pygargus,Damaliscus_pygargus,0,0,1,0,102000,Fibrous,102,Herbivore
+Artiodactyla,Bovidae,Dorcatragus,megalotis,Dorcatragus megalotis,Dorcatragus_megalotis,0,0,1,1,10249.9,Nonfibrous/Fibrous,10.2499,Herbivore
+Artiodactyla,Bovidae,Eudorcas,rufifrons,Eudorcas rufifrons,Eudorcas_rufifrons,0,0,1,0,26999.8,Fibrous,26.9998,Herbivore
+Artiodactyla,Bovidae,Eudorcas,thomsonii,Eudorcas thomsonii,Eudorcas_thomsonii,0,0,1,1,20499.8,Nonfibrous/Fibrous,20.4998,Herbivore
+Artiodactyla,Bovidae,Gazella,cuvieri,Gazella cuvieri,Gazella_cuvieri,0,0,1,0,25000,Fibrous,25,Herbivore
+Artiodactyla,Bovidae,Gazella,dorcas,Gazella dorcas,Gazella_dorcas,0,0,1,1,23000.1,Nonfibrous/Fibrous,23.0001,Herbivore
+Artiodactyla,Bovidae,Gazella,gazella,Gazella gazella,Gazella_gazella,0,0,1,0,22749,Fibrous,22.749,Herbivore
+Artiodactyla,Bovidae,Gazella,leptoceros,Gazella leptoceros,Gazella_leptoceros,0,0,1,0,22200,Fibrous,22.2,Herbivore
+Artiodactyla,Bovidae,Gazella,spekei,Gazella spekei,Gazella_spekei,0,0,1,0,20000,Fibrous,20,Herbivore
+Artiodactyla,Bovidae,Hippotragus,equinus,Hippotragus equinus,Hippotragus_equinus,0,0,1,1,269997.7,Nonfibrous/Fibrous,269.9977,Herbivore
+Artiodactyla,Bovidae,Hippotragus,niger,Hippotragus niger,Hippotragus_niger,0,0,1,1,227499.3,Nonfibrous/Fibrous,227.4993,Herbivore
+Artiodactyla,Bovidae,Kobus,ellipsiprymnus,Kobus ellipsiprymnus,Kobus_ellipsiprymnus,0,0,1,0,210000.3,Fibrous,210.0003,Herbivore
+Artiodactyla,Bovidae,Kobus,kob,Kobus kob,Kobus_kob,0,0,1,0,78500.1,Fibrous,78.5001,Herbivore
+Artiodactyla,Bovidae,Kobus,leche,Kobus leche,Kobus_leche,0,0,1,0,110749,Fibrous,110.749,Herbivore
+Artiodactyla,Bovidae,Kobus,megaceros,Kobus megaceros,Kobus_megaceros,0,0,1,0,87500.4,Fibrous,87.5004,Herbivore
+Artiodactyla,Bovidae,Kobus,vardonii,Kobus vardonii,Kobus_vardonii,0,0,1,0,71500.7,Fibrous,71.5007,Herbivore
+Artiodactyla,Bovidae,Litocranius,walleri,Litocranius walleri,Litocranius_walleri,0,0,1,1,37999.7,Nonfibrous/Fibrous,37.9997,Herbivore
+Artiodactyla,Bovidae,Madoqua,guentheri,Madoqua guentheri,Madoqua_guentheri,0,0,1,1,7500,Nonfibrous/Fibrous,7.5,Herbivore
+Artiodactyla,Bovidae,Madoqua,kirkii,Madoqua kirkii,Madoqua_kirkii,0,0,1,0,5300.1,Fibrous,5.3001,Herbivore
+Artiodactyla,Bovidae,Madoqua,piacentinii,Madoqua piacentinii,Madoqua_piacentinii,0,0,1,1,2500,Nonfibrous/Fibrous,2.5,Herbivore
+Artiodactyla,Bovidae,Madoqua,saltiana,Madoqua saltiana,Madoqua_saltiana,0,0,1,1,3250,Nonfibrous/Fibrous,3.25,Herbivore
+Artiodactyla,Bovidae,Naemorhedus,goral,Naemorhedus goral,Naemorhedus_goral,0,0,1,0,28500,Fibrous,28.5,Herbivore
+Artiodactyla,Bovidae,Nanger,dama,Nanger dama,Nanger_dama,0,0,1,1,72999.5,Nonfibrous/Fibrous,72.9995,Herbivore
+Artiodactyla,Bovidae,Nanger,granti,Nanger granti,Nanger_granti,0,0,1,1,54999.7,Nonfibrous/Fibrous,54.9997,Herbivore
+Artiodactyla,Bovidae,Nanger,soemmerringii,Nanger soemmerringii,Nanger_soemmerringii,0,0,1,0,40000,Fibrous,40,Herbivore
+Artiodactyla,Bovidae,Neotragus,batesi,Neotragus batesi,Neotragus_batesi,0,0,1,1,3000,Nonfibrous/Fibrous,3,Herbivore
+Artiodactyla,Bovidae,Neotragus,pygmaeus,Neotragus pygmaeus,Neotragus_pygmaeus,0,0,1,1,4000,Nonfibrous/Fibrous,4,Herbivore
+Artiodactyla,Bovidae,Oreamnos,americanus,Oreamnos americanus,Oreamnos_americanus,0,0,1,1,72500.3,Nonfibrous/Fibrous,72.5003,Herbivore
+Artiodactyla,Bovidae,Oreotragus,oreotragus,Oreotragus oreotragus,Oreotragus_oreotragus,0,0,1,1,12999.9,Nonfibrous/Fibrous,12.9999,Herbivore
+Artiodactyla,Bovidae,Oryx,dammah,Oryx dammah,Oryx_dammah,0,0,1,1,200000,Nonfibrous/Fibrous,200,Herbivore
+Artiodactyla,Bovidae,Oryx,gazella,Oryx gazella,Oryx_gazella,0,0,1,1,169001.3,Nonfibrous/Fibrous,169.0013,Herbivore
+Artiodactyla,Bovidae,Oryx,leucoryx,Oryx leucoryx,Oryx_leucoryx,0,0,1,1,87700,Nonfibrous/Fibrous,87.7,Herbivore
+Artiodactyla,Bovidae,Ourebia,ourebi,Ourebia ourebi,Ourebia_ourebi,0,0,1,0,17250,Fibrous,17.25,Herbivore
+Artiodactyla,Bovidae,Ovibos,moschatus,Ovibos moschatus,Ovibos_moschatus,0,0,1,0,340501,Fibrous,340.501,Herbivore
+Artiodactyla,Bovidae,Ovis,ammon,Ovis ammon,Ovis_ammon,0,0,1,0,180000,Fibrous,180,Herbivore
+Artiodactyla,Bovidae,Ovis,canadensis,Ovis canadensis,Ovis_canadensis,0,0,1,0,74644.9,Fibrous,74.6449,Herbivore
+Artiodactyla,Bovidae,Ovis,dalli,Ovis dalli,Ovis_dalli,0,0,1,0,55650.6,Fibrous,55.6506,Herbivore
+Artiodactyla,Bovidae,Pantholops,hodgsonii,Pantholops hodgsonii,Pantholops_hodgsonii,0,0,1,0,27500,Fibrous,27.5,Herbivore
+Artiodactyla,Bovidae,Pelea,capreolus,Pelea capreolus,Pelea_capreolus,0,0,1,0,20000,Fibrous,20,Herbivore
+Artiodactyla,Bovidae,Philantomba,maxwellii,Philantomba maxwellii,Philantomba_maxwellii,0,0,1,1,12000,Nonfibrous/Fibrous,12,Herbivore
+Artiodactyla,Bovidae,Procapra,gutturosa,Procapra gutturosa,Procapra_gutturosa,0,0,1,1,27750,Nonfibrous/Fibrous,27.75,Herbivore
+Artiodactyla,Bovidae,Raphicerus,campestris,Raphicerus campestris,Raphicerus_campestris,0,0,1,1,10500,Nonfibrous/Fibrous,10.5,Herbivore
+Artiodactyla,Bovidae,Raphicerus,melanotis,Raphicerus melanotis,Raphicerus_melanotis,0,0,1,1,10249.9,Nonfibrous/Fibrous,10.2499,Herbivore
+Artiodactyla,Bovidae,Raphicerus,sharpei,Raphicerus sharpei,Raphicerus_sharpei,0,0,1,1,9499.9,Nonfibrous/Fibrous,9.4999,Herbivore
+Artiodactyla,Bovidae,Redunca,arundinum,Redunca arundinum,Redunca_arundinum,0,0,1,0,58000.3,Fibrous,58.0003,Herbivore
+Artiodactyla,Bovidae,Redunca,fulvorufula,Redunca fulvorufula,Redunca_fulvorufula,0,0,1,0,29499.9,Fibrous,29.4999,Herbivore
+Artiodactyla,Bovidae,Redunca,redunca,Redunca redunca,Redunca_redunca,0,0,1,0,44050.4,Fibrous,44.0504,Herbivore
+Artiodactyla,Bovidae,Rupicapra,rupicapra,Rupicapra rupicapra,Rupicapra_rupicapra,0,0,1,0,26100,Fibrous,26.1,Herbivore
+Artiodactyla,Bovidae,Saiga,tatarica,Saiga tatarica,Saiga_tatarica,0,0,1,0,29000,Fibrous,29,Herbivore
+Artiodactyla,Bovidae,Sylvicapra,grimmia,Sylvicapra grimmia,Sylvicapra_grimmia,0,0,1,1,19499.8,Nonfibrous/Fibrous,19.4998,Herbivore
+Artiodactyla,Bovidae,Syncerus,caffer,Syncerus caffer,Syncerus_caffer,0,0,1,0,580002.7,Fibrous,580.0027,Herbivore
+Artiodactyla,Bovidae,Tetracerus,quadricornis,Tetracerus quadricornis,Tetracerus_quadricornis,0,0,1,0,19000,Fibrous,19,Herbivore
+Artiodactyla,Bovidae,Tragelaphus,angasii,Tragelaphus angasii,Tragelaphus_angasii,0,0,1,1,86600.4,Nonfibrous/Fibrous,86.6004,Herbivore
+Artiodactyla,Bovidae,Tragelaphus,buxtoni,Tragelaphus buxtoni,Tragelaphus_buxtoni,0,0,1,1,215000.8,Nonfibrous/Fibrous,215.0008,Herbivore
+Artiodactyla,Bovidae,Tragelaphus,eurycerus,Tragelaphus eurycerus,Tragelaphus_eurycerus,0,0,1,1,329003.1,Nonfibrous/Fibrous,329.0031,Herbivore
+Artiodactyla,Bovidae,Tragelaphus,imberbis,Tragelaphus imberbis,Tragelaphus_imberbis,0,0,1,0,81575.5,Fibrous,81.5755,Herbivore
+Artiodactyla,Bovidae,Tragelaphus,scriptus,Tragelaphus scriptus,Tragelaphus_scriptus,0,0,1,1,43250.4,Nonfibrous/Fibrous,43.2504,Herbivore
+Artiodactyla,Bovidae,Tragelaphus,spekii,Tragelaphus spekii,Tragelaphus_spekii,0,0,1,0,77999.2,Fibrous,77.9992,Herbivore
+Artiodactyla,Bovidae,Tragelaphus,strepsiceros,Tragelaphus strepsiceros,Tragelaphus_strepsiceros,0,0,1,1,213501,Nonfibrous/Fibrous,213.501,Herbivore
+Artiodactyla,Camelidae,Camelus,dromedarius,Camelus dromedarius,Camelus_dromedarius,0,0,1,0,NA,Fibrous,NA,Herbivore
+Artiodactyla,Camelidae,Vicugna,vicugna,Vicugna vicugna,Vicugna_vicugna,0,0,1,0,47499.6,Fibrous,47.4996,Herbivore
+Artiodactyla,Cervidae,Alces,alces,Alces alces,Alces_alces,0,0,1,0,356998,Fibrous,356.998,Herbivore
+Artiodactyla,Cervidae,Axis,axis,Axis axis,Axis_axis,0,0,1,0,69500,Fibrous,69.5,Herbivore
+Artiodactyla,Cervidae,Axis,calamianensis,Axis calamianensis,Axis_calamianensis,0,0,1,0,40500,Fibrous,40.5,Herbivore
+Artiodactyla,Cervidae,Axis,kuhlii,Axis kuhlii,Axis_kuhlii,0,0,1,0,55000,Fibrous,55,Herbivore
+Artiodactyla,Cervidae,Axis,porcinus,Axis porcinus,Axis_porcinus,0,0,1,0,35000,Fibrous,35,Herbivore
+Artiodactyla,Cervidae,Blastocerus,dichotomus,Blastocerus dichotomus,Blastocerus_dichotomus,0,0,1,0,86666.2,Fibrous,86.6662,Herbivore
+Artiodactyla,Cervidae,Capreolus,capreolus,Capreolus capreolus,Capreolus_capreolus,0,0,1,0,22500,Fibrous,22.5,Herbivore
+Artiodactyla,Cervidae,Cervus,elaphus,Cervus elaphus,Cervus_elaphus,0,0,1,0,161406,Fibrous,161.406,Herbivore
+Artiodactyla,Cervidae,Cervus,nippon,Cervus nippon,Cervus_nippon,0,0,1,0,53000,Fibrous,53,Herbivore
+Artiodactyla,Cervidae,Dama,dama,Dama dama,Dama_dama,0,0,1,0,52375,Fibrous,52.375,Herbivore
+Artiodactyla,Cervidae,Elaphodus,cephalophus,Elaphodus cephalophus,Elaphodus_cephalophus,0,0,1,0,33500,Fibrous,33.5,Herbivore
+Artiodactyla,Cervidae,Elaphurus,davidianus,Elaphurus davidianus,Elaphurus_davidianus,0,0,1,0,149000,Fibrous,149,Herbivore
+Artiodactyla,Cervidae,Hippocamelus,antisensis,Hippocamelus antisensis,Hippocamelus_antisensis,0,0,1,0,68599.3,Fibrous,68.5993,Herbivore
+Artiodactyla,Cervidae,Hippocamelus,bisulcus,Hippocamelus bisulcus,Hippocamelus_bisulcus,0,0,1,0,70000.3,Fibrous,70.0003,Herbivore
+Artiodactyla,Cervidae,Hydropotes,inermis,Hydropotes inermis,Hydropotes_inermis,0,0,1,1,14000,Nonfibrous/Fibrous,14,Herbivore
+Artiodactyla,Cervidae,Mazama,americana,Mazama americana,Mazama_americana,0,0,1,1,22799.7,Nonfibrous/Fibrous,22.7997,Herbivore
+Artiodactyla,Cervidae,Mazama,bricenii,Mazama bricenii,Mazama_bricenii,0,0,1,1,16499.9,Nonfibrous/Fibrous,16.4999,Herbivore
+Artiodactyla,Cervidae,Mazama,chunyi,Mazama chunyi,Mazama_chunyi,0,0,1,1,16499.9,Nonfibrous/Fibrous,16.4999,Herbivore
+Artiodactyla,Cervidae,Mazama,gouazoubira,Mazama gouazoubira,Mazama_gouazoubira,0,0,1,1,16300.1,Nonfibrous/Fibrous,16.3001,Herbivore
+Artiodactyla,Cervidae,Mazama,nana,Mazama nana,Mazama_nana,0,0,1,1,16499.9,Nonfibrous/Fibrous,16.4999,Herbivore
+Artiodactyla,Cervidae,Mazama,rufina,Mazama rufina,Mazama_rufina,0,0,1,1,25999.8,Nonfibrous/Fibrous,25.9998,Herbivore
+Artiodactyla,Cervidae,Muntiacus,atherodes,Muntiacus atherodes,Muntiacus_atherodes,0,0,1,1,15600,Nonfibrous/Fibrous,15.6,Herbivore
+Artiodactyla,Cervidae,Muntiacus,crinifrons,Muntiacus crinifrons,Muntiacus_crinifrons,0,0,1,1,23100,Nonfibrous/Fibrous,23.1,Herbivore
+Artiodactyla,Cervidae,Muntiacus,feae,Muntiacus feae,Muntiacus_feae,0,0,1,1,22000,Nonfibrous/Fibrous,22,Herbivore
+Artiodactyla,Cervidae,Muntiacus,muntjak,Muntiacus muntjak,Muntiacus_muntjak,0,0,1,1,16888,Nonfibrous/Fibrous,16.888,Herbivore
+Artiodactyla,Cervidae,Muntiacus,reevesi,Muntiacus reevesi,Muntiacus_reevesi,0,0,1,0,13500,Fibrous,13.5,Herbivore
+Artiodactyla,Cervidae,Odocoileus,hemionus,Odocoileus hemionus,Odocoileus_hemionus,0,0,1,1,54212.6,Nonfibrous/Fibrous,54.2126,Herbivore
+Artiodactyla,Cervidae,Odocoileus,virginianus,Odocoileus virginianus,Odocoileus_virginianus,0,0,1,1,55508.6,Nonfibrous/Fibrous,55.5086,Herbivore
+Artiodactyla,Cervidae,Ozotoceros,bezoarticus,Ozotoceros bezoarticus,Ozotoceros_bezoarticus,0,0,1,0,40000,Fibrous,40,Herbivore
+Artiodactyla,Cervidae,Pudu,mephistophiles,Pudu mephistophiles,Pudu_mephistophiles,0,0,1,0,9600,Fibrous,9.6,Herbivore
+Artiodactyla,Cervidae,Pudu,puda,Pudu puda,Pudu_puda,0,0,1,1,9749.9,Nonfibrous/Fibrous,9.7499,Herbivore
+Artiodactyla,Cervidae,Rangifer,tarandus,Rangifer tarandus,Rangifer_tarandus,0,0,1,0,86034,Fibrous,86.034,Herbivore
+Artiodactyla,Cervidae,Rucervus,duvaucelii,Rucervus duvaucelii,Rucervus_duvaucelii,0,0,1,0,143000,Fibrous,143,Herbivore
+Artiodactyla,Cervidae,Rucervus,eldii,Rucervus eldii,Rucervus_eldii,0,0,1,1,73000,Nonfibrous/Fibrous,73,Herbivore
+Artiodactyla,Cervidae,Rusa,timorensis,Rusa timorensis,Rusa_timorensis,0,0,1,0,63000,Fibrous,63,Herbivore
+Artiodactyla,Cervidae,Rusa,unicolor,Rusa unicolor,Rusa_unicolor,0,0,1,1,169000,Nonfibrous/Fibrous,169,Herbivore
+Artiodactyla,Giraffidae,Giraffa,camelopardalis,Giraffa camelopardalis,Giraffa_camelopardalis,0,0,1,0,899994.8,Fibrous,899.9948,Herbivore
+Artiodactyla,Giraffidae,Okapia,johnstoni,Okapia johnstoni,Okapia_johnstoni,0,0,1,1,230001.1,Nonfibrous/Fibrous,230.0011,Herbivore
+Artiodactyla,Hippopotamidae,Hippopotamus,amphibius,Hippopotamus amphibius,Hippopotamus_amphibius,0,0,1,0,1417490,Fibrous,1417.49,Herbivore
+Artiodactyla,Moschidae,Moschus,chrysogaster,Moschus chrysogaster,Moschus_chrysogaster,0,0,1,1,14500,Nonfibrous/Fibrous,14.5,Herbivore
+Artiodactyla,Moschidae,Moschus,fuscus,Moschus fuscus,Moschus_fuscus,0,0,1,1,12500,Nonfibrous/Fibrous,12.5,Herbivore
+Artiodactyla,Moschidae,Moschus,moschiferus,Moschus moschiferus,Moschus_moschiferus,0,0,1,1,13000,Nonfibrous/Fibrous,13,Herbivore
+Artiodactyla,Suidae,Hylochoerus,meinertzhageni,Hylochoerus meinertzhageni,Hylochoerus_meinertzhageni,0,0,1,1,188500,Nonfibrous/Fibrous,188.5,Herbivore
+Artiodactyla,Suidae,Phacochoerus,aethiopicus,Phacochoerus aethiopicus,Phacochoerus_aethiopicus,0,0,1,1,71000.3,Nonfibrous/Fibrous,71.0003,Herbivore
+Artiodactyla,Suidae,Phacochoerus,africanus,Phacochoerus africanus,Phacochoerus_africanus,0,0,1,1,82500,Nonfibrous/Fibrous,82.5,Herbivore
+Artiodactyla,Tayassuidae,Catagonus,wagneri,Catagonus wagneri,Catagonus_wagneri,0,0,1,1,35566.4,Nonfibrous/Fibrous,35.5664,Herbivore
+Artiodactyla,Tragulidae,Hyemoschus,aquaticus,Hyemoschus aquaticus,Hyemoschus_aquaticus,0,0,1,0,10850,Fibrous,10.85,Herbivore
+Artiodactyla,Tragulidae,Moschiola,meminna,Moschiola meminna,Moschiola_meminna,0,0,1,1,2938,Nonfibrous/Fibrous,2.938,Herbivore
+Artiodactyla,Tragulidae,Tragulus,javanicus,Tragulus javanicus,Tragulus_javanicus,0,0,1,1,2775,Nonfibrous/Fibrous,2.775,Herbivore
+Carnivora,Procyonidae,Bassaricyon,gabbii,Bassaricyon gabbii,Bassaricyon_gabbii,0,0,0,1,1250,Nonfibrous,1.25,Herbivore
+Carnivora,Viverridae,Paradoxurus,zeylonensis,Paradoxurus zeylonensis,Paradoxurus_zeylonensis,0,0,1,1,2821.3,Nonfibrous/Fibrous,2.8213,Herbivore
+Chiroptera,Phyllostomidae,Ariteus,flavescens,Ariteus flavescens,Ariteus_flavescens,0,0,0,1,11.15,Nonfibrous,0.01115,Herbivore
+Chiroptera,Phyllostomidae,Artibeus,fimbriatus,Artibeus fimbriatus,Artibeus_fimbriatus,0,0,0,1,63.9,Nonfibrous,0.0639,Herbivore
+Chiroptera,Phyllostomidae,Artibeus,glaucus,Artibeus glaucus,Artibeus_glaucus,0,0,0,1,11.1,Nonfibrous,0.0111,Herbivore
+Chiroptera,Phyllostomidae,Artibeus,jamaicensis,Artibeus jamaicensis,Artibeus_jamaicensis,0,0,1,1,42.2,Nonfibrous/Fibrous,0.0422,Herbivore
+Chiroptera,Phyllostomidae,Artibeus,lituratus,Artibeus lituratus,Artibeus_lituratus,0,0,0,1,60.3,Nonfibrous,0.0603,Herbivore
+Chiroptera,Phyllostomidae,Artibeus,phaeotis,Artibeus phaeotis,Artibeus_phaeotis,0,0,0,1,11.6,Nonfibrous,0.0116,Herbivore
+Chiroptera,Phyllostomidae,Carollia,brevicauda,Carollia brevicauda,Carollia_brevicauda,0,0,0,1,14.4,Nonfibrous,0.0144,Herbivore
+Chiroptera,Phyllostomidae,Carollia,castanea,Carollia castanea,Carollia_castanea,0,0,0,1,13.3,Nonfibrous,0.0133,Herbivore
+Chiroptera,Phyllostomidae,Centurio,senex,Centurio senex,Centurio_senex,0,0,0,1,21.3,Nonfibrous,0.0213,Herbivore
+Chiroptera,Phyllostomidae,Chiroderma,doriae,Chiroderma doriae,Chiroderma_doriae,0,0,0,1,19.9,Nonfibrous,0.0199,Herbivore
+Chiroptera,Phyllostomidae,Chiroderma,villosum,Chiroderma villosum,Chiroderma_villosum,0,0,0,1,23.1,Nonfibrous,0.0231,Herbivore
+Chiroptera,Phyllostomidae,Choeronycteris,mexicana,Choeronycteris mexicana,Choeronycteris_mexicana,0,0,0,1,16.6,Nonfibrous,0.0166,Herbivore
+Chiroptera,Phyllostomidae,Ectophylla,alba,Ectophylla alba,Ectophylla_alba,0,0,0,1,5.8,Nonfibrous,0.0058,Herbivore
+Chiroptera,Phyllostomidae,Enchisthenes,hartii,Enchisthenes hartii,Enchisthenes_hartii,0,0,0,1,16,Nonfibrous,0.016,Herbivore
+Chiroptera,Phyllostomidae,Hylonycteris,underwoodi,Hylonycteris underwoodi,Hylonycteris_underwoodi,0,0,0,1,6.7,Nonfibrous,0.0067,Herbivore
+Chiroptera,Phyllostomidae,Leptonycteris,curasoae,Leptonycteris curasoae,Leptonycteris_curasoae,0,0,0,1,23.4,Nonfibrous,0.0234,Herbivore
+Chiroptera,Phyllostomidae,Lionycteris,spurrelli,Lionycteris spurrelli,Lionycteris_spurrelli,0,0,0,1,8.4,Nonfibrous,0.0084,Herbivore
+Chiroptera,Phyllostomidae,Mesophylla,macconnelli,Mesophylla macconnelli,Mesophylla_macconnelli,0,0,0,1,6.9,Nonfibrous,0.0069,Herbivore
+Chiroptera,Phyllostomidae,Musonycteris,harrisoni,Musonycteris harrisoni,Musonycteris_harrisoni,0,0,0,1,12.6,Nonfibrous,0.0126,Herbivore
+Chiroptera,Phyllostomidae,Platyrrhinus,lineatus,Platyrrhinus lineatus,Platyrrhinus_lineatus,0,0,0,1,24.4,Nonfibrous,0.0244,Herbivore
+Chiroptera,Phyllostomidae,Pygoderma,bilabiatum,Pygoderma bilabiatum,Pygoderma_bilabiatum,0,0,0,1,18.5,Nonfibrous,0.0185,Herbivore
+Chiroptera,Phyllostomidae,Sturnira,aratathomasi,Sturnira aratathomasi,Sturnira_aratathomasi,0,0,0,1,48.6,Nonfibrous,0.0486,Herbivore
+Chiroptera,Phyllostomidae,Sturnira,bidens,Sturnira bidens,Sturnira_bidens,0,0,0,1,17.6,Nonfibrous,0.0176,Herbivore
+Chiroptera,Phyllostomidae,Sturnira,erythromos,Sturnira erythromos,Sturnira_erythromos,0,0,0,1,15.1,Nonfibrous,0.0151,Herbivore
+Chiroptera,Phyllostomidae,Uroderma,bilobatum,Uroderma bilobatum,Uroderma_bilobatum,0,0,0,1,16.6,Nonfibrous,0.0166,Herbivore
+Chiroptera,Phyllostomidae,Vampyressa,nymphaea,Vampyressa nymphaea,Vampyressa_nymphaea,0,0,0,1,13.7,Nonfibrous,0.0137,Herbivore
+Chiroptera,Phyllostomidae,Vampyressa,pusilla,Vampyressa pusilla,Vampyressa_pusilla,0,0,0,1,8.6,Nonfibrous,0.0086,Herbivore
+Chiroptera,Phyllostomidae,Vampyrodes,caraccioli,Vampyrodes caraccioli,Vampyrodes_caraccioli,0,0,0,1,34.7,Nonfibrous,0.0347,Herbivore
+Chiroptera,Pteropodidae,Acerodon,jubatus,Acerodon jubatus,Acerodon_jubatus,0,0,1,1,1075,Nonfibrous/Fibrous,1.075,Herbivore
+Chiroptera,Pteropodidae,Aethalops,alecto,Aethalops alecto,Aethalops_alecto,0,0,0,1,15,Nonfibrous,0.015,Herbivore
+Chiroptera,Pteropodidae,Aproteles,bulmerae,Aproteles bulmerae,Aproteles_bulmerae,0,0,0,1,600,Nonfibrous,0.6,Herbivore
+Chiroptera,Pteropodidae,Chironax,melanocephalus,Chironax melanocephalus,Chironax_melanocephalus,0,0,0,1,17.6,Nonfibrous,0.0176,Herbivore
+Chiroptera,Pteropodidae,Cynopterus,sphinx,Cynopterus sphinx,Cynopterus_sphinx,0,0,0,1,43.7,Nonfibrous,0.0437,Herbivore
+Chiroptera,Pteropodidae,Dobsonia,inermis,Dobsonia inermis,Dobsonia_inermis,0,0,0,1,149.5,Nonfibrous,0.1495,Herbivore
+Chiroptera,Pteropodidae,Dobsonia,minor,Dobsonia minor,Dobsonia_minor,0,0,0,1,78.2,Nonfibrous,0.0782,Herbivore
+Chiroptera,Pteropodidae,Dobsonia,moluccensis,Dobsonia moluccensis,Dobsonia_moluccensis,0,0,0,1,381.4,Nonfibrous,0.3814,Herbivore
+Chiroptera,Pteropodidae,Dobsonia,praedatrix,Dobsonia praedatrix,Dobsonia_praedatrix,0,0,0,1,188.7,Nonfibrous,0.1887,Herbivore
+Chiroptera,Pteropodidae,Eidolon,dupreanum,Eidolon dupreanum,Eidolon_dupreanum,0,0,0,1,283.8,Nonfibrous,0.2838,Herbivore
+Chiroptera,Pteropodidae,Eidolon,helvum,Eidolon helvum,Eidolon_helvum,0,0,0,1,253.3,Nonfibrous,0.2533,Herbivore
+Chiroptera,Pteropodidae,Epomophorus,gambianus,Epomophorus gambianus,Epomophorus_gambianus,0,0,0,1,128.9,Nonfibrous,0.1289,Herbivore
+Chiroptera,Pteropodidae,Hypsignathus,monstrosus,Hypsignathus monstrosus,Hypsignathus_monstrosus,0,0,0,1,335.1,Nonfibrous,0.3351,Herbivore
+Chiroptera,Pteropodidae,Lissonycteris,angolensis,Lissonycteris angolensis,Lissonycteris_angolensis,0,0,0,1,78.9,Nonfibrous,0.0789,Herbivore
+Chiroptera,Pteropodidae,Melonycteris,melanops,Melonycteris melanops,Melonycteris_melanops,0,0,0,1,49,Nonfibrous,0.049,Herbivore
+Chiroptera,Pteropodidae,Melonycteris,woodfordi,Melonycteris woodfordi,Melonycteris_woodfordi,0,0,0,1,36.9,Nonfibrous,0.0369,Herbivore
+Chiroptera,Pteropodidae,Micropteropus,pusillus,Micropteropus pusillus,Micropteropus_pusillus,0,0,0,1,26.6,Nonfibrous,0.0266,Herbivore
+Chiroptera,Pteropodidae,Nanonycteris,veldkampii,Nanonycteris veldkampii,Nanonycteris_veldkampii,0,0,0,1,21.4,Nonfibrous,0.0214,Herbivore
+Chiroptera,Pteropodidae,Nyctimene,aello,Nyctimene aello,Nyctimene_aello,0,0,0,1,84.3,Nonfibrous,0.0843,Herbivore
+Chiroptera,Pteropodidae,Nyctimene,cephalotes,Nyctimene cephalotes,Nyctimene_cephalotes,0,0,0,1,44.5,Nonfibrous,0.0445,Herbivore
+Chiroptera,Pteropodidae,Nyctimene,cyclotis,Nyctimene cyclotis,Nyctimene_cyclotis,0,0,0,1,48,Nonfibrous,0.048,Herbivore
+Chiroptera,Pteropodidae,Nyctimene,major,Nyctimene major,Nyctimene_major,0,0,0,1,104.2,Nonfibrous,0.1042,Herbivore
+Chiroptera,Pteropodidae,Nyctimene,robinsoni,Nyctimene robinsoni,Nyctimene_robinsoni,0,0,0,1,49.5,Nonfibrous,0.0495,Herbivore
+Chiroptera,Pteropodidae,Nyctimene,vizcaccia,Nyctimene vizcaccia,Nyctimene_vizcaccia,0,0,0,1,40,Nonfibrous,0.04,Herbivore
+Chiroptera,Pteropodidae,Penthetor,lucasi,Penthetor lucasi,Penthetor_lucasi,0,0,0,1,38.2,Nonfibrous,0.0382,Herbivore
+Chiroptera,Pteropodidae,Pteralopex,anceps,Pteralopex anceps,Pteralopex_anceps,0,0,0,1,560.4,Nonfibrous,0.5604,Herbivore
+Chiroptera,Pteropodidae,Pteropus,alecto,Pteropus alecto,Pteropus_alecto,0,0,0,1,672.1,Nonfibrous,0.6721,Herbivore
+Chiroptera,Pteropodidae,Pteropus,conspicillatus,Pteropus conspicillatus,Pteropus_conspicillatus,0,0,0,1,775.7,Nonfibrous,0.7757,Herbivore
+Chiroptera,Pteropodidae,Pteropus,gilliardorum,Pteropus gilliardorum,Pteropus_gilliardorum,0,0,1,1,400,Nonfibrous/Fibrous,0.4,Herbivore
+Chiroptera,Pteropodidae,Pteropus,hypomelanus,Pteropus hypomelanus,Pteropus_hypomelanus,0,0,0,1,430,Nonfibrous,0.43,Herbivore
+Chiroptera,Pteropodidae,Pteropus,macrotis,Pteropus macrotis,Pteropus_macrotis,0,0,0,1,357,Nonfibrous,0.357,Herbivore
+Chiroptera,Pteropodidae,Pteropus,neohibernicus,Pteropus neohibernicus,Pteropus_neohibernicus,0,0,0,1,966.8,Nonfibrous,0.9668,Herbivore
+Chiroptera,Pteropodidae,Pteropus,rayneri,Pteropus rayneri,Pteropus_rayneri,0,0,0,1,724.5,Nonfibrous,0.7245,Herbivore
+Chiroptera,Pteropodidae,Pteropus,rufus,Pteropus rufus,Pteropus_rufus,0,0,0,1,361,Nonfibrous,0.361,Herbivore
+Chiroptera,Pteropodidae,Pteropus,samoensis,Pteropus samoensis,Pteropus_samoensis,0,0,1,1,310,Nonfibrous/Fibrous,0.31,Herbivore
+Chiroptera,Pteropodidae,Pteropus,scapulatus,Pteropus scapulatus,Pteropus_scapulatus,0,0,0,1,443.4,Nonfibrous,0.4434,Herbivore
+Chiroptera,Pteropodidae,Pteropus,temminckii,Pteropus temminckii,Pteropus_temminckii,0,0,0,1,250,Nonfibrous,0.25,Herbivore
+Chiroptera,Pteropodidae,Pteropus,tonganus,Pteropus tonganus,Pteropus_tonganus,0,0,0,1,418.3,Nonfibrous,0.4183,Herbivore
+Chiroptera,Pteropodidae,Pteropus,vampyrus,Pteropus vampyrus,Pteropus_vampyrus,0,0,1,1,1039.3,Nonfibrous/Fibrous,1.0393,Herbivore
+Chiroptera,Pteropodidae,Rousettus,aegyptiacus,Rousettus aegyptiacus,Rousettus_aegyptiacus,0,0,1,1,56.3,Nonfibrous/Fibrous,0.0563,Herbivore
+Chiroptera,Pteropodidae,Rousettus,amplexicaudatus,Rousettus amplexicaudatus,Rousettus_amplexicaudatus,0,0,0,1,132.2,Nonfibrous,0.1322,Herbivore
+Chiroptera,Pteropodidae,Syconycteris,australis,Syconycteris australis,Syconycteris_australis,0,0,0,1,17.1,Nonfibrous,0.0171,Herbivore
+Didelphimorphia,Didelphidae,Caluromysiops,irrupta,Caluromysiops irrupta,Caluromysiops_irrupta,0,0,0,1,250,Nonfibrous,0.25,Herbivore
+Diprotodontia,Macropodidae,Dendrolagus,bennettianus,Dendrolagus bennettianus,Dendrolagus_bennettianus,0,0,1,1,10950,Nonfibrous/Fibrous,10.95,Herbivore
+Diprotodontia,Macropodidae,Dendrolagus,lumholtzi,Dendrolagus lumholtzi,Dendrolagus_lumholtzi,0,0,1,0,6750,Fibrous,6.75,Herbivore
+Diprotodontia,Macropodidae,Lagorchestes,conspicillatus,Lagorchestes conspicillatus,Lagorchestes_conspicillatus,0,0,1,0,3050,Fibrous,3.05,Herbivore
+Diprotodontia,Macropodidae,Lagorchestes,hirsutus,Lagorchestes hirsutus,Lagorchestes_hirsutus,0,0,1,1,1265,Nonfibrous/Fibrous,1.265,Herbivore
+Diprotodontia,Macropodidae,Lagostrophus,fasciatus,Lagostrophus fasciatus,Lagostrophus_fasciatus,0,0,1,0,1700,Fibrous,1.7,Herbivore
+Diprotodontia,Macropodidae,Macropus,agilis,Macropus agilis,Macropus_agilis,0,0,1,0,15000,Fibrous,15,Herbivore
+Diprotodontia,Macropodidae,Macropus,antilopinus,Macropus antilopinus,Macropus_antilopinus,0,0,1,0,27250,Fibrous,27.25,Herbivore
+Diprotodontia,Macropodidae,Macropus,bernardus,Macropus bernardus,Macropus_bernardus,0,0,1,0,17000,Fibrous,17,Herbivore
+Diprotodontia,Macropodidae,Macropus,dorsalis,Macropus dorsalis,Macropus_dorsalis,0,0,1,0,11250,Fibrous,11.25,Herbivore
+Diprotodontia,Macropodidae,Macropus,eugenii,Macropus eugenii,Macropus_eugenii,0,0,1,0,6500,Fibrous,6.5,Herbivore
+Diprotodontia,Macropodidae,Macropus,fuliginosus,Macropus fuliginosus,Macropus_fuliginosus,0,0,1,0,22000,Fibrous,22,Herbivore
+Diprotodontia,Macropodidae,Macropus,giganteus,Macropus giganteus,Macropus_giganteus,0,0,1,0,25875,Fibrous,25.875,Herbivore
+Diprotodontia,Macropodidae,Macropus,irma,Macropus irma,Macropus_irma,0,0,1,0,8000,Fibrous,8,Herbivore
+Diprotodontia,Macropodidae,Macropus,parma,Macropus parma,Macropus_parma,0,0,1,0,4500,Fibrous,4.5,Herbivore
+Diprotodontia,Macropodidae,Macropus,parryi,Macropus parryi,Macropus_parryi,0,0,1,0,13500,Fibrous,13.5,Herbivore
+Diprotodontia,Macropodidae,Macropus,robustus,Macropus robustus,Macropus_robustus,0,0,1,0,21262.5,Fibrous,21.2625,Herbivore
+Diprotodontia,Macropodidae,Macropus,rufogriseus,Macropus rufogriseus,Macropus_rufogriseus,0,0,1,0,16850,Fibrous,16.85,Herbivore
+Diprotodontia,Macropodidae,Macropus,rufus,Macropus rufus,Macropus_rufus,0,0,1,0,46250,Fibrous,46.25,Herbivore
+Diprotodontia,Macropodidae,Onychogalea,fraenata,Onychogalea fraenata,Onychogalea_fraenata,0,0,1,0,5500,Fibrous,5.5,Herbivore
+Diprotodontia,Macropodidae,Onychogalea,unguifera,Onychogalea unguifera,Onychogalea_unguifera,0,0,1,1,6650,Nonfibrous/Fibrous,6.65,Herbivore
+Diprotodontia,Macropodidae,Petrogale,assimilis,Petrogale assimilis,Petrogale_assimilis,0,0,1,1,4500,Nonfibrous/Fibrous,4.5,Herbivore
+Diprotodontia,Macropodidae,Petrogale,brachyotis,Petrogale brachyotis,Petrogale_brachyotis,0,0,1,1,4050,Nonfibrous/Fibrous,4.05,Herbivore
+Diprotodontia,Macropodidae,Petrogale,burbidgei,Petrogale burbidgei,Petrogale_burbidgei,0,0,1,1,1258,Nonfibrous/Fibrous,1.258,Herbivore
+Diprotodontia,Macropodidae,Petrogale,concinna,Petrogale concinna,Petrogale_concinna,0,0,1,1,1400,Nonfibrous/Fibrous,1.4,Herbivore
+Diprotodontia,Macropodidae,Petrogale,godmani,Petrogale godmani,Petrogale_godmani,0,0,1,1,4750,Nonfibrous/Fibrous,4.75,Herbivore
+Diprotodontia,Macropodidae,Petrogale,lateralis,Petrogale lateralis,Petrogale_lateralis,0,0,1,1,4625,Nonfibrous/Fibrous,4.625,Herbivore
+Diprotodontia,Macropodidae,Petrogale,penicillata,Petrogale penicillata,Petrogale_penicillata,0,0,1,1,7100,Nonfibrous/Fibrous,7.1,Herbivore
+Diprotodontia,Macropodidae,Petrogale,persephone,Petrogale persephone,Petrogale_persephone,0,0,1,1,6200,Nonfibrous/Fibrous,6.2,Herbivore
+Diprotodontia,Macropodidae,Petrogale,rothschildi,Petrogale rothschildi,Petrogale_rothschildi,0,0,1,1,3400,Nonfibrous/Fibrous,3.4,Herbivore
+Diprotodontia,Macropodidae,Petrogale,xanthopus,Petrogale xanthopus,Petrogale_xanthopus,0,0,1,0,8500,Fibrous,8.5,Herbivore
+Diprotodontia,Macropodidae,Setonix,brachyurus,Setonix brachyurus,Setonix_brachyurus,0,0,1,0,3250,Fibrous,3.25,Herbivore
+Diprotodontia,Macropodidae,Thylogale,billardierii,Thylogale billardierii,Thylogale_billardierii,0,0,1,0,5450,Fibrous,5.45,Herbivore
+Diprotodontia,Macropodidae,Thylogale,stigmatica,Thylogale stigmatica,Thylogale_stigmatica,0,0,1,1,4600,Nonfibrous/Fibrous,4.6,Herbivore
+Diprotodontia,Macropodidae,Thylogale,thetis,Thylogale thetis,Thylogale_thetis,0,0,1,0,5400,Fibrous,5.4,Herbivore
+Diprotodontia,Macropodidae,Wallabia,bicolor,Wallabia bicolor,Wallabia_bicolor,0,0,1,0,15000,Fibrous,15,Herbivore
+Diprotodontia,Phalangeridae,Phalanger,gymnotis,Phalanger gymnotis,Phalanger_gymnotis,0,0,1,1,2705,Nonfibrous/Fibrous,2.705,Herbivore
+Diprotodontia,Phalangeridae,Phalanger,orientalis,Phalanger orientalis,Phalanger_orientalis,0,0,1,1,2168,Nonfibrous/Fibrous,2.168,Herbivore
+Diprotodontia,Phalangeridae,Trichosurus,caninus,Trichosurus caninus,Trichosurus_caninus,0,0,1,1,3500,Nonfibrous/Fibrous,3.5,Herbivore
+Diprotodontia,Phalangeridae,Trichosurus,vulpecula,Trichosurus vulpecula,Trichosurus_vulpecula,0,0,1,0,2650,Fibrous,2.65,Herbivore
+Diprotodontia,Phalangeridae,Wyulda,squamicaudata,Wyulda squamicaudata,Wyulda_squamicaudata,0,0,1,1,1675,Nonfibrous/Fibrous,1.675,Herbivore
+Diprotodontia,Phascolarctidae,Phascolarctos,cinereus,Phascolarctos cinereus,Phascolarctos_cinereus,0,0,1,0,10250,Fibrous,10.25,Herbivore
+Diprotodontia,Potoroidae,Aepyprymnus,rufescens,Aepyprymnus rufescens,Aepyprymnus_rufescens,0,0,1,1,3250,Nonfibrous/Fibrous,3.25,Herbivore
+Diprotodontia,Potoroidae,Bettongia,lesueur,Bettongia lesueur,Bettongia_lesueur,0,0,1,1,1500,Nonfibrous/Fibrous,1.5,Herbivore
+Diprotodontia,Potoroidae,Bettongia,penicillata,Bettongia penicillata,Bettongia_penicillata,0,0,0,1,1300,Nonfibrous,1.3,Herbivore
+Diprotodontia,Pseudocheiridae,Hemibelideus,lemuroides,Hemibelideus lemuroides,Hemibelideus_lemuroides,0,0,1,0,952.5,Fibrous,0.9525,Herbivore
+Diprotodontia,Pseudocheiridae,Petauroides,volans,Petauroides volans,Petauroides_volans,0,0,1,0,1300,Fibrous,1.3,Herbivore
+Diprotodontia,Pseudocheiridae,Petropseudes,dahli,Petropseudes dahli,Petropseudes_dahli,0,0,1,1,1640,Nonfibrous/Fibrous,1.64,Herbivore
+Diprotodontia,Pseudocheiridae,Pseudocheirus,peregrinus,Pseudocheirus peregrinus,Pseudocheirus_peregrinus,0,0,1,0,900,Fibrous,0.9,Herbivore
+Diprotodontia,Pseudocheiridae,Pseudochirulus,forbesi,Pseudochirulus forbesi,Pseudochirulus_forbesi,0,0,1,0,649,Fibrous,0.649,Herbivore
+Diprotodontia,Pseudocheiridae,Pseudochirulus,herbertensis,Pseudochirulus herbertensis,Pseudochirulus_herbertensis,0,0,1,0,1115,Fibrous,1.115,Herbivore
+Diprotodontia,Tarsipedidae,Tarsipes,rostratus,Tarsipes rostratus,Tarsipes_rostratus,0,0,0,1,9,Nonfibrous,0.009,Herbivore
+Diprotodontia,Vombatidae,Lasiorhinus,krefftii,Lasiorhinus krefftii,Lasiorhinus_krefftii,0,0,1,0,2900,Fibrous,2.9,Herbivore
+Diprotodontia,Vombatidae,Lasiorhinus,latifrons,Lasiorhinus latifrons,Lasiorhinus_latifrons,0,0,1,0,25500,Fibrous,25.5,Herbivore
+Diprotodontia,Vombatidae,Vombatus,ursinus,Vombatus ursinus,Vombatus_ursinus,0,0,1,0,26000,Fibrous,26,Herbivore
+Hyracoidea,Procaviidae,Dendrohyrax,dorsalis,Dendrohyrax dorsalis,Dendrohyrax_dorsalis,0,0,1,1,3175,Nonfibrous/Fibrous,3.175,Herbivore
+Hyracoidea,Procaviidae,Heterohyrax,brucei,Heterohyrax brucei,Heterohyrax_brucei,0,0,1,1,2625,Nonfibrous/Fibrous,2.625,Herbivore
+Hyracoidea,Procaviidae,Procavia,capensis,Procavia capensis,Procavia_capensis,0,0,1,1,3030,Nonfibrous/Fibrous,3.03,Herbivore
+Lagomorpha,Leporidae,Brachylagus,idahoensis,Brachylagus idahoensis,Brachylagus_idahoensis,0,0,1,0,421.3,Fibrous,0.4213,Herbivore
+Lagomorpha,Leporidae,Bunolagus,monticularis,Bunolagus monticularis,Bunolagus_monticularis,0,0,1,0,1750,Fibrous,1.75,Herbivore
+Lagomorpha,Leporidae,Lepus,alleni,Lepus alleni,Lepus_alleni,0,0,1,0,3685,Fibrous,3.685,Herbivore
+Lagomorpha,Leporidae,Lepus,americanus,Lepus americanus,Lepus_americanus,0,0,1,0,1710,Fibrous,1.71,Herbivore
+Lagomorpha,Leporidae,Lepus,arcticus,Lepus arcticus,Lepus_arcticus,0,0,1,0,4405,Fibrous,4.405,Herbivore
+Lagomorpha,Leporidae,Lepus,californicus,Lepus californicus,Lepus_californicus,0,0,1,0,2422.5,Fibrous,2.4225,Herbivore
+Lagomorpha,Leporidae,Lepus,callotis,Lepus callotis,Lepus_callotis,0,0,1,0,2500,Fibrous,2.5,Herbivore
+Lagomorpha,Leporidae,Lepus,capensis,Lepus capensis,Lepus_capensis,0,0,1,0,4000,Fibrous,4,Herbivore
+Lagomorpha,Leporidae,Lepus,europaeus,Lepus europaeus,Lepus_europaeus,0,0,1,0,3740,Fibrous,3.74,Herbivore
+Lagomorpha,Leporidae,Lepus,flavigularis,Lepus flavigularis,Lepus_flavigularis,0,0,1,1,3000,Nonfibrous/Fibrous,3,Herbivore
+Lagomorpha,Leporidae,Lepus,microtis,Lepus microtis,Lepus_microtis,0,0,1,0,1750,Fibrous,1.75,Herbivore
+Lagomorpha,Leporidae,Lepus,othus,Lepus othus,Lepus_othus,0,0,1,1,4806,Nonfibrous/Fibrous,4.806,Herbivore
+Lagomorpha,Leporidae,Lepus,saxatilis,Lepus saxatilis,Lepus_saxatilis,0,0,1,0,2225,Fibrous,2.225,Herbivore
+Lagomorpha,Leporidae,Lepus,timidus,Lepus timidus,Lepus_timidus,0,0,1,1,3048,Nonfibrous/Fibrous,3.048,Herbivore
+Lagomorpha,Leporidae,Lepus,townsendii,Lepus townsendii,Lepus_townsendii,0,0,1,1,1555,Nonfibrous/Fibrous,1.555,Herbivore
+Lagomorpha,Leporidae,Oryctolagus,cuniculus,Oryctolagus cuniculus,Oryctolagus_cuniculus,0,0,1,0,1750,Fibrous,1.75,Herbivore
+Lagomorpha,Leporidae,Poelagus,marjorita,Poelagus marjorita,Poelagus_marjorita,0,0,1,1,2500,Nonfibrous/Fibrous,2.5,Herbivore
+Lagomorpha,Leporidae,Pronolagus,crassicaudatus,Pronolagus crassicaudatus,Pronolagus_crassicaudatus,0,0,1,0,2230,Fibrous,2.23,Herbivore
+Lagomorpha,Leporidae,Pronolagus,randensis,Pronolagus randensis,Pronolagus_randensis,0,0,1,0,2335,Fibrous,2.335,Herbivore
+Lagomorpha,Leporidae,Pronolagus,rupestris,Pronolagus rupestris,Pronolagus_rupestris,0,0,1,0,2250,Fibrous,2.25,Herbivore
+Lagomorpha,Leporidae,Romerolagus,diazi,Romerolagus diazi,Romerolagus_diazi,0,0,1,1,476.7,Nonfibrous/Fibrous,0.4767,Herbivore
+Lagomorpha,Leporidae,Sylvilagus,aquaticus,Sylvilagus aquaticus,Sylvilagus_aquaticus,0,0,1,0,2135.8,Fibrous,2.1358,Herbivore
+Lagomorpha,Leporidae,Sylvilagus,audubonii,Sylvilagus audubonii,Sylvilagus_audubonii,0,0,1,1,889.6,Nonfibrous/Fibrous,0.8896,Herbivore
+Lagomorpha,Leporidae,Sylvilagus,bachmani,Sylvilagus bachmani,Sylvilagus_bachmani,0,0,1,1,643.3,Nonfibrous/Fibrous,0.6433,Herbivore
+Lagomorpha,Leporidae,Sylvilagus,brasiliensis,Sylvilagus brasiliensis,Sylvilagus_brasiliensis,0,0,1,0,950,Fibrous,0.95,Herbivore
+Lagomorpha,Leporidae,Sylvilagus,cunicularius,Sylvilagus cunicularius,Sylvilagus_cunicularius,0,0,1,1,3000,Nonfibrous/Fibrous,3,Herbivore
+Lagomorpha,Leporidae,Sylvilagus,floridanus,Sylvilagus floridanus,Sylvilagus_floridanus,0,0,1,0,1172.8,Fibrous,1.1728,Herbivore
+Lagomorpha,Leporidae,Sylvilagus,nuttallii,Sylvilagus nuttallii,Sylvilagus_nuttallii,0,0,1,0,755.1,Fibrous,0.7551,Herbivore
+Lagomorpha,Leporidae,Sylvilagus,palustris,Sylvilagus palustris,Sylvilagus_palustris,0,0,1,0,1500,Fibrous,1.5,Herbivore
+Lagomorpha,Leporidae,Sylvilagus,transitionalis,Sylvilagus transitionalis,Sylvilagus_transitionalis,0,0,1,1,656.7,Nonfibrous/Fibrous,0.6567,Herbivore
+Lagomorpha,Ochotonidae,Ochotona,alpina,Ochotona alpina,Ochotona_alpina,0,0,1,0,150,Fibrous,0.15,Herbivore
+Lagomorpha,Ochotonidae,Ochotona,collaris,Ochotona collaris,Ochotona_collaris,0,0,1,0,129,Fibrous,0.129,Herbivore
+Lagomorpha,Ochotonidae,Ochotona,dauurica,Ochotona dauurica,Ochotona_dauurica,0,0,1,0,128,Fibrous,0.128,Herbivore
+Lagomorpha,Ochotonidae,Ochotona,hyperborea,Ochotona hyperborea,Ochotona_hyperborea,0,0,1,0,120,Fibrous,0.12,Herbivore
+Lagomorpha,Ochotonidae,Ochotona,princeps,Ochotona princeps,Ochotona_princeps,0,0,1,0,157.6,Fibrous,0.1576,Herbivore
+Lagomorpha,Ochotonidae,Ochotona,rufescens,Ochotona rufescens,Ochotona_rufescens,0,0,1,1,250,Nonfibrous/Fibrous,0.25,Herbivore
+Perissodactyla,Equidae,Equus,grevyi,Equus grevyi,Equus_grevyi,0,0,1,0,407999.8,Fibrous,407.9998,Herbivore
+Perissodactyla,Rhinocerotidae,Ceratotherium,simum,Ceratotherium simum,Ceratotherium_simum,0,0,1,0,2949986.3,Fibrous,2949.9863,Herbivore
+Perissodactyla,Rhinocerotidae,Dicerorhinus,sumatrensis,Dicerorhinus sumatrensis,Dicerorhinus_sumatrensis,0,0,1,1,1266667,Nonfibrous/Fibrous,1266.667,Herbivore
+Perissodactyla,Rhinocerotidae,Diceros,bicornis,Diceros bicornis,Diceros_bicornis,0,0,1,0,1180510.9,Fibrous,1180.5109,Herbivore
+Perissodactyla,Rhinocerotidae,Rhinoceros,unicornis,Rhinoceros unicornis,Rhinoceros_unicornis,0,0,1,1,1602333,Nonfibrous/Fibrous,1602.333,Herbivore
+Perissodactyla,Tapiridae,Tapirus,bairdii,Tapirus bairdii,Tapirus_bairdii,0,0,1,1,299999.1,Nonfibrous/Fibrous,299.9991,Herbivore
+Perissodactyla,Tapiridae,Tapirus,indicus,Tapirus indicus,Tapirus_indicus,0,0,1,1,296250,Nonfibrous/Fibrous,296.25,Herbivore
+Perissodactyla,Tapiridae,Tapirus,pinchaque,Tapirus pinchaque,Tapirus_pinchaque,0,0,1,1,148949.8,Nonfibrous/Fibrous,148.9498,Herbivore
+Perissodactyla,Tapiridae,Tapirus,terrestris,Tapirus terrestris,Tapirus_terrestris,0,0,1,1,207500.9,Nonfibrous/Fibrous,207.5009,Herbivore
+Pilosa,Bradypodidae,Bradypus,torquatus,Bradypus torquatus,Bradypus_torquatus,0,0,1,0,3900,Fibrous,3.9,Herbivore
+Pilosa,Megalonychidae,Choloepus,hoffmanni,Choloepus hoffmanni,Choloepus_hoffmanni,0,0,1,1,4750,Nonfibrous/Fibrous,4.75,Herbivore
+Primates,Atelidae,Alouatta,belzebul,Alouatta belzebul,Alouatta_belzebul,0,0,1,1,6400,Nonfibrous/Fibrous,6.4,Herbivore
+Primates,Atelidae,Alouatta,caraya,Alouatta caraya,Alouatta_caraya,0,0,1,1,5862.5,Nonfibrous/Fibrous,5.8625,Herbivore
+Primates,Atelidae,Alouatta,guariba,Alouatta guariba,Alouatta_guariba,0,0,1,1,8000,Nonfibrous/Fibrous,8,Herbivore
+Primates,Atelidae,Alouatta,palliata,Alouatta palliata,Alouatta_palliata,0,0,1,1,7274.9,Nonfibrous/Fibrous,7.2749,Herbivore
+Primates,Atelidae,Alouatta,pigra,Alouatta pigra,Alouatta_pigra,0,0,1,1,7000,Nonfibrous/Fibrous,7,Herbivore
+Primates,Atelidae,Alouatta,seniculus,Alouatta seniculus,Alouatta_seniculus,0,0,1,1,6145.5,Nonfibrous/Fibrous,6.1455,Herbivore
+Primates,Atelidae,Ateles,belzebuth,Ateles belzebuth,Ateles_belzebuth,0,0,1,1,5000,Nonfibrous/Fibrous,5,Herbivore
+Primates,Atelidae,Ateles,chamek,Ateles chamek,Ateles_chamek,0,0,0,1,6000,Nonfibrous,6,Herbivore
+Primates,Atelidae,Ateles,geoffroyi,Ateles geoffroyi,Ateles_geoffroyi,0,0,0,1,5284.9,Nonfibrous,5.2849,Herbivore
+Primates,Atelidae,Ateles,paniscus,Ateles paniscus,Ateles_paniscus,0,0,1,1,7900.1,Nonfibrous/Fibrous,7.9001,Herbivore
+Primates,Atelidae,Brachyteles,arachnoides,Brachyteles arachnoides,Brachyteles_arachnoides,0,0,1,1,13499.9,Nonfibrous/Fibrous,13.4999,Herbivore
+Primates,Atelidae,Oreonax,flavicauda,Oreonax flavicauda,Oreonax_flavicauda,0,0,0,1,6800,Nonfibrous,6.8,Herbivore
+Primates,Cebidae,Saguinus,labiatus,Saguinus labiatus,Saguinus_labiatus,0,0,0,1,575,Nonfibrous,0.575,Herbivore
+Primates,Cercopithecidae,Cercopithecus,diana,Cercopithecus diana,Cercopithecus_diana,0,0,0,1,4175,Nonfibrous,4.175,Herbivore
+Primates,Cercopithecidae,Cercopithecus,erythrotis,Cercopithecus erythrotis,Cercopithecus_erythrotis,0,0,1,1,3255,Nonfibrous/Fibrous,3.255,Herbivore
+Primates,Cercopithecidae,Cercopithecus,lhoesti,Cercopithecus lhoesti,Cercopithecus_lhoesti,0,0,1,1,5375,Nonfibrous/Fibrous,5.375,Herbivore
+Primates,Cercopithecidae,Cercopithecus,petaurista,Cercopithecus petaurista,Cercopithecus_petaurista,0,0,1,1,2775,Nonfibrous/Fibrous,2.775,Herbivore
+Primates,Cercopithecidae,Cercopithecus,preussi,Cercopithecus preussi,Cercopithecus_preussi,0,0,1,1,5250,Nonfibrous/Fibrous,5.25,Herbivore
+Primates,Cercopithecidae,Colobus,angolensis,Colobus angolensis,Colobus_angolensis,0,0,1,1,9850,Nonfibrous/Fibrous,9.85,Herbivore
+Primates,Cercopithecidae,Colobus,guereza,Colobus guereza,Colobus_guereza,0,0,1,1,10200,Nonfibrous/Fibrous,10.2,Herbivore
+Primates,Cercopithecidae,Colobus,polykomos,Colobus polykomos,Colobus_polykomos,0,0,1,1,9834.9,Nonfibrous/Fibrous,9.8349,Herbivore
+Primates,Cercopithecidae,Colobus,satanas,Colobus satanas,Colobus_satanas,0,0,1,1,4320,Nonfibrous/Fibrous,4.32,Herbivore
+Primates,Cercopithecidae,Macaca,fascicularis,Macaca fascicularis,Macaca_fascicularis,0,0,1,1,3991.5,Nonfibrous/Fibrous,3.9915,Herbivore
+Primates,Cercopithecidae,Nasalis,larvatus,Nasalis larvatus,Nasalis_larvatus,0,0,1,1,9000,Nonfibrous/Fibrous,9,Herbivore
+Primates,Cercopithecidae,Papio,hamadryas,Papio hamadryas,Papio_hamadryas,0,0,1,1,21250.1,Nonfibrous/Fibrous,21.2501,Herbivore
+Primates,Cercopithecidae,Presbytis,comata,Presbytis comata,Presbytis_comata,0,0,1,1,6250,Nonfibrous/Fibrous,6.25,Herbivore
+Primates,Cercopithecidae,Presbytis,melalophos,Presbytis melalophos,Presbytis_melalophos,0,0,1,1,6300,Nonfibrous/Fibrous,6.3,Herbivore
+Primates,Cercopithecidae,Presbytis,potenziani,Presbytis potenziani,Presbytis_potenziani,0,0,1,1,6450,Nonfibrous/Fibrous,6.45,Herbivore
+Primates,Cercopithecidae,Presbytis,rubicunda,Presbytis rubicunda,Presbytis_rubicunda,0,0,1,1,6300,Nonfibrous/Fibrous,6.3,Herbivore
+Primates,Cercopithecidae,Presbytis,thomasi,Presbytis thomasi,Presbytis_thomasi,0,0,1,1,6690,Nonfibrous/Fibrous,6.69,Herbivore
+Primates,Cercopithecidae,Procolobus,verus,Procolobus verus,Procolobus_verus,0,0,1,1,4000,Nonfibrous/Fibrous,4,Herbivore
+Primates,Cercopithecidae,Rhinopithecus,bieti,Rhinopithecus bieti,Rhinopithecus_bieti,0,0,1,1,9960,Nonfibrous/Fibrous,9.96,Herbivore
+Primates,Cercopithecidae,Rhinopithecus,roxellana,Rhinopithecus roxellana,Rhinopithecus_roxellana,0,0,1,1,14000,Nonfibrous/Fibrous,14,Herbivore
+Primates,Cercopithecidae,Semnopithecus,entellus,Semnopithecus entellus,Semnopithecus_entellus,0,0,1,1,11009.5,Nonfibrous/Fibrous,11.0095,Herbivore
+Primates,Cercopithecidae,Trachypithecus,cristatus,Trachypithecus cristatus,Trachypithecus_cristatus,0,0,1,1,8350,Nonfibrous/Fibrous,8.35,Herbivore
+Primates,Cercopithecidae,Trachypithecus,geei,Trachypithecus geei,Trachypithecus_geei,0,0,1,1,8350,Nonfibrous/Fibrous,8.35,Herbivore
+Primates,Cercopithecidae,Trachypithecus,johnii,Trachypithecus johnii,Trachypithecus_johnii,0,0,1,1,11921,Nonfibrous/Fibrous,11.921,Herbivore
+Primates,Cercopithecidae,Trachypithecus,obscurus,Trachypithecus obscurus,Trachypithecus_obscurus,0,0,1,1,6420,Nonfibrous/Fibrous,6.42,Herbivore
+Primates,Cercopithecidae,Trachypithecus,phayrei,Trachypithecus phayrei,Trachypithecus_phayrei,0,0,1,1,8400,Nonfibrous/Fibrous,8.4,Herbivore
+Primates,Cercopithecidae,Trachypithecus,pileatus,Trachypithecus pileatus,Trachypithecus_pileatus,0,0,0,1,11450,Nonfibrous,11.45,Herbivore
+Primates,Cercopithecidae,Trachypithecus,vetulus,Trachypithecus vetulus,Trachypithecus_vetulus,0,0,1,1,8830,Nonfibrous/Fibrous,8.83,Herbivore
+Primates,Hominidae,Gorilla,gorilla,Gorilla gorilla,Gorilla_gorilla,0,0,1,1,124251,Nonfibrous/Fibrous,124.251,Herbivore
+Primates,Hominidae,Pan,paniscus,Pan paniscus,Pan_paniscus,0,0,1,1,34000.1,Nonfibrous/Fibrous,34.0001,Herbivore
+Primates,Hylobatidae,Hylobates,agilis,Hylobates agilis,Hylobates_agilis,0,0,1,1,5650,Nonfibrous/Fibrous,5.65,Herbivore
+Primates,Hylobatidae,Hylobates,moloch,Hylobates moloch,Hylobates_moloch,0,0,1,1,6500,Nonfibrous/Fibrous,6.5,Herbivore
+Primates,Hylobatidae,Hylobates,muelleri,Hylobates muelleri,Hylobates_muelleri,0,0,1,1,6000,Nonfibrous/Fibrous,6,Herbivore
+Primates,Hylobatidae,Nomascus,concolor,Nomascus concolor,Nomascus_concolor,0,0,1,1,5700,Nonfibrous/Fibrous,5.7,Herbivore
+Primates,Indriidae,Avahi,laniger,Avahi laniger,Avahi_laniger,0,0,1,1,900,Nonfibrous/Fibrous,0.9,Herbivore
+Primates,Indriidae,Indri,indri,Indri indri,Indri_indri,0,0,1,1,8000,Nonfibrous/Fibrous,8,Herbivore
+Primates,Indriidae,Propithecus,diadema,Propithecus diadema,Propithecus_diadema,0,0,1,1,7500,Nonfibrous/Fibrous,7.5,Herbivore
+Primates,Indriidae,Propithecus,tattersalli,Propithecus tattersalli,Propithecus_tattersalli,0,0,1,1,3500,Nonfibrous/Fibrous,3.5,Herbivore
+Primates,Indriidae,Propithecus,verreauxi,Propithecus verreauxi,Propithecus_verreauxi,0,0,1,1,3480,Nonfibrous/Fibrous,3.48,Herbivore
+Primates,Lemuridae,Eulemur,coronatus,Eulemur coronatus,Eulemur_coronatus,0,0,1,1,1650,Nonfibrous/Fibrous,1.65,Herbivore
+Primates,Lemuridae,Eulemur,fulvus,Eulemur fulvus,Eulemur_fulvus,0,0,1,1,3150,Nonfibrous/Fibrous,3.15,Herbivore
+Primates,Lemuridae,Eulemur,macaco,Eulemur macaco,Eulemur_macaco,0,0,1,1,2040,Nonfibrous/Fibrous,2.04,Herbivore
+Primates,Lemuridae,Eulemur,mongoz,Eulemur mongoz,Eulemur_mongoz,0,0,0,1,1600,Nonfibrous,1.6,Herbivore
+Primates,Lemuridae,Eulemur,rubriventer,Eulemur rubriventer,Eulemur_rubriventer,0,0,1,1,1400,Nonfibrous/Fibrous,1.4,Herbivore
+Primates,Lemuridae,Hapalemur,aureus,Hapalemur aureus,Hapalemur_aureus,0,0,1,1,1575,Nonfibrous/Fibrous,1.575,Herbivore
+Primates,Lemuridae,Hapalemur,griseus,Hapalemur griseus,Hapalemur_griseus,0,0,1,1,1400,Nonfibrous/Fibrous,1.4,Herbivore
+Primates,Lemuridae,Lemur,catta,Lemur catta,Lemur_catta,0,0,1,1,2900,Nonfibrous/Fibrous,2.9,Herbivore
+Primates,Lemuridae,Prolemur,simus,Prolemur simus,Prolemur_simus,0,0,1,1,2350,Nonfibrous/Fibrous,2.35,Herbivore
+Primates,Lemuridae,Varecia,variegata,Varecia variegata,Varecia_variegata,0,0,1,1,3850,Nonfibrous/Fibrous,3.85,Herbivore
+Primates,Lepilemuridae,Lepilemur,leucopus,Lepilemur leucopus,Lepilemur_leucopus,0,0,1,1,650,Nonfibrous/Fibrous,0.65,Herbivore
+Primates,Lepilemuridae,Lepilemur,mustelinus,Lepilemur mustelinus,Lepilemur_mustelinus,0,0,1,1,773,Nonfibrous/Fibrous,0.773,Herbivore
+Primates,Lepilemuridae,Lepilemur,ruficaudatus,Lepilemur ruficaudatus,Lepilemur_ruficaudatus,0,0,1,1,700,Nonfibrous/Fibrous,0.7,Herbivore
+Primates,Pitheciidae,Cacajao,melanocephalus,Cacajao melanocephalus,Cacajao_melanocephalus,0,0,0,1,3800,Nonfibrous,3.8,Herbivore
+Primates,Pitheciidae,Callicebus,moloch,Callicebus moloch,Callicebus_moloch,0,0,1,1,854.7,Nonfibrous/Fibrous,0.8547,Herbivore
+Primates,Pitheciidae,Callicebus,personatus,Callicebus personatus,Callicebus_personatus,0,0,1,1,1350,Nonfibrous/Fibrous,1.35,Herbivore
+Primates,Pitheciidae,Chiropotes,albinasus,Chiropotes albinasus,Chiropotes_albinasus,0,0,0,1,2900,Nonfibrous,2.9,Herbivore
+Primates,Pitheciidae,Chiropotes,satanas,Chiropotes satanas,Chiropotes_satanas,0,0,0,1,3000,Nonfibrous,3,Herbivore
+Primates,Pitheciidae,Pithecia,albicans,Pithecia albicans,Pithecia_albicans,0,0,1,1,2800,Nonfibrous/Fibrous,2.8,Herbivore
+Primates,Pitheciidae,Pithecia,pithecia,Pithecia pithecia,Pithecia_pithecia,0,0,1,1,1375.5,Nonfibrous/Fibrous,1.3755,Herbivore
+Proboscidea,Elephantidae,Elephas,maximus,Elephas maximus,Elephas_maximus,0,0,1,1,2720000,Nonfibrous/Fibrous,2720,Herbivore
+Proboscidea,Elephantidae,Loxodonta,africana,Loxodonta africana,Loxodonta_africana,0,0,1,1,3940034.3,Nonfibrous/Fibrous,3940.0343,Herbivore
+Rodentia,Anomaluridae,Anomalurus,beecrofti,Anomalurus beecrofti,Anomalurus_beecrofti,0,0,1,0,389,Fibrous,0.389,Herbivore
+Rodentia,Anomaluridae,Anomalurus,pelii,Anomalurus pelii,Anomalurus_pelii,0,0,1,1,1770,Nonfibrous/Fibrous,1.77,Herbivore
+Rodentia,Anomaluridae,Anomalurus,pusillus,Anomalurus pusillus,Anomalurus_pusillus,0,0,1,0,250,Fibrous,0.25,Herbivore
+Rodentia,Anomaluridae,Idiurus,zenkeri,Idiurus zenkeri,Idiurus_zenkeri,0,0,1,0,100,Fibrous,0.1,Herbivore
+Rodentia,Aplodontiidae,Aplodontia,rufa,Aplodontia rufa,Aplodontia_rufa,0,0,1,1,1004,Nonfibrous/Fibrous,1.004,Herbivore
+Rodentia,Bathyergidae,Bathyergus,janetta,Bathyergus janetta,Bathyergus_janetta,0,0,0,1,332,Nonfibrous,0.332,Herbivore
+Rodentia,Bathyergidae,Bathyergus,suillus,Bathyergus suillus,Bathyergus_suillus,0,0,1,1,625,Nonfibrous/Fibrous,0.625,Herbivore
+Rodentia,Bathyergidae,Cryptomys,damarensis,Cryptomys damarensis,Cryptomys_damarensis,0,0,0,1,76,Nonfibrous,0.076,Herbivore
+Rodentia,Bathyergidae,Cryptomys,hottentotus,Cryptomys hottentotus,Cryptomys_hottentotus,0,0,0,1,126.5,Nonfibrous,0.1265,Herbivore
+Rodentia,Bathyergidae,Georychus,capensis,Georychus capensis,Georychus_capensis,0,0,1,1,239.3,Nonfibrous/Fibrous,0.2393,Herbivore
+Rodentia,Bathyergidae,Heliophobius,argenteocinereus,Heliophobius argenteocinereus,Heliophobius_argenteocinereus,0,0,0,1,181,Nonfibrous,0.181,Herbivore
+Rodentia,Bathyergidae,Heterocephalus,glaber,Heterocephalus glaber,Heterocephalus_glaber,0,0,0,1,55,Nonfibrous,0.055,Herbivore
+Rodentia,Capromyidae,Geocapromys,brownii,Geocapromys brownii,Geocapromys_brownii,0,0,1,1,1500,Nonfibrous/Fibrous,1.5,Herbivore
+Rodentia,Castoridae,Castor,canadensis,Castor canadensis,Castor_canadensis,0,0,1,1,21820,Nonfibrous/Fibrous,21.82,Herbivore
+Rodentia,Caviidae,Cavia,aperea,Cavia aperea,Cavia_aperea,0,0,1,0,549,Fibrous,0.549,Herbivore
+Rodentia,Caviidae,Dolichotis,patagonum,Dolichotis patagonum,Dolichotis_patagonum,0,0,1,1,8000,Nonfibrous/Fibrous,8,Herbivore
+Rodentia,Caviidae,Hydrochoerus,hydrochaeris,Hydrochoerus hydrochaeris,Hydrochoerus_hydrochaeris,0,0,1,0,62449.6,Fibrous,62.4496,Herbivore
+Rodentia,Caviidae,Microcavia,australis,Microcavia australis,Microcavia_australis,0,0,1,1,286.1,Nonfibrous/Fibrous,0.2861,Herbivore
+Rodentia,Chinchillidae,Chinchilla,lanigera,Chinchilla lanigera,Chinchilla_lanigera,0,0,1,1,485,Nonfibrous/Fibrous,0.485,Herbivore
+Rodentia,Chinchillidae,Lagostomus,maximus,Lagostomus maximus,Lagostomus_maximus,0,0,1,0,4647.5,Fibrous,4.6475,Herbivore
+Rodentia,Cricetidae,Alticola,argentatus,Alticola argentatus,Alticola_argentatus,0,0,1,1,37.7,Nonfibrous/Fibrous,0.0377,Herbivore
+Rodentia,Cricetidae,Alticola,strelzowi,Alticola strelzowi,Alticola_strelzowi,0,0,1,1,50,Nonfibrous/Fibrous,0.05,Herbivore
+Rodentia,Cricetidae,Arborimus,albipes,Arborimus albipes,Arborimus_albipes,0,0,1,0,23,Fibrous,0.023,Herbivore
+Rodentia,Cricetidae,Arborimus,longicaudus,Arborimus longicaudus,Arborimus_longicaudus,0,0,1,0,21.8,Fibrous,0.0218,Herbivore
+Rodentia,Cricetidae,Arborimus,pomo,Arborimus pomo,Arborimus_pomo,0,0,1,0,32.5,Fibrous,0.0325,Herbivore
+Rodentia,Cricetidae,Arvicola,amphibius,Arvicola amphibius,Arvicola_amphibius,0,0,1,1,120,Nonfibrous/Fibrous,0.12,Herbivore
+Rodentia,Cricetidae,Arvicola,sapidus,Arvicola sapidus,Arvicola_sapidus,0,0,1,1,220,Nonfibrous/Fibrous,0.22,Herbivore
+Rodentia,Cricetidae,Baiomys,musculus,Baiomys musculus,Baiomys_musculus,0,0,1,1,9,Nonfibrous/Fibrous,0.009,Herbivore
+Rodentia,Cricetidae,Dicrostonyx,torquatus,Dicrostonyx torquatus,Dicrostonyx_torquatus,0,0,1,1,85,Nonfibrous/Fibrous,0.085,Herbivore
+Rodentia,Cricetidae,Dinaromys,bogdanovi,Dinaromys bogdanovi,Dinaromys_bogdanovi,0,0,1,0,56,Fibrous,0.056,Herbivore
+Rodentia,Cricetidae,Ellobius,talpinus,Ellobius talpinus,Ellobius_talpinus,0,0,0,1,40,Nonfibrous,0.04,Herbivore
+Rodentia,Cricetidae,Holochilus,sciureus,Holochilus sciureus,Holochilus_sciureus,0,0,1,1,163.5,Nonfibrous/Fibrous,0.1635,Herbivore
+Rodentia,Cricetidae,Irenomys,tarsalis,Irenomys tarsalis,Irenomys_tarsalis,0,0,1,1,43.1,Nonfibrous/Fibrous,0.0431,Herbivore
+Rodentia,Cricetidae,Lasiopodomys,brandtii,Lasiopodomys brandtii,Lasiopodomys_brandtii,0,0,1,1,40.2,Nonfibrous/Fibrous,0.0402,Herbivore
+Rodentia,Cricetidae,Lemmiscus,curtatus,Lemmiscus curtatus,Lemmiscus_curtatus,0,0,1,1,28.3,Nonfibrous/Fibrous,0.0283,Herbivore
+Rodentia,Cricetidae,Lemmus,sibiricus,Lemmus sibiricus,Lemmus_sibiricus,0,0,1,1,52.3,Nonfibrous/Fibrous,0.0523,Herbivore
+Rodentia,Cricetidae,Microtus,agrestis,Microtus agrestis,Microtus_agrestis,0,0,1,1,42.5,Nonfibrous/Fibrous,0.0425,Herbivore
+Rodentia,Cricetidae,Microtus,arvalis,Microtus arvalis,Microtus_arvalis,0,0,1,0,28,Fibrous,0.028,Herbivore
+Rodentia,Cricetidae,Microtus,breweri,Microtus breweri,Microtus_breweri,0,0,1,0,54,Fibrous,0.054,Herbivore
+Rodentia,Cricetidae,Microtus,chrotorrhinus,Microtus chrotorrhinus,Microtus_chrotorrhinus,0,0,1,1,39,Nonfibrous/Fibrous,0.039,Herbivore
+Rodentia,Cricetidae,Microtus,longicaudus,Microtus longicaudus,Microtus_longicaudus,0,0,1,1,46.7,Nonfibrous/Fibrous,0.0467,Herbivore
+Rodentia,Cricetidae,Microtus,montanus,Microtus montanus,Microtus_montanus,0,0,1,1,36.3,Nonfibrous/Fibrous,0.0363,Herbivore
+Rodentia,Cricetidae,Microtus,multiplex,Microtus multiplex,Microtus_multiplex,0,0,1,1,23.2,Nonfibrous/Fibrous,0.0232,Herbivore
+Rodentia,Cricetidae,Microtus,oaxacensis,Microtus oaxacensis,Microtus_oaxacensis,0,0,1,1,39.2,Nonfibrous/Fibrous,0.0392,Herbivore
+Rodentia,Cricetidae,Microtus,oregoni,Microtus oregoni,Microtus_oregoni,0,0,1,1,20.3,Nonfibrous/Fibrous,0.0203,Herbivore
+Rodentia,Cricetidae,Microtus,pinetorum,Microtus pinetorum,Microtus_pinetorum,0,0,1,1,26.3,Nonfibrous/Fibrous,0.0263,Herbivore
+Rodentia,Cricetidae,Microtus,socialis,Microtus socialis,Microtus_socialis,0,0,1,1,48,Nonfibrous/Fibrous,0.048,Herbivore
+Rodentia,Cricetidae,Microtus,townsendii,Microtus townsendii,Microtus_townsendii,0,0,1,1,64.8,Nonfibrous/Fibrous,0.0648,Herbivore
+Rodentia,Cricetidae,Microtus,xanthognathus,Microtus xanthognathus,Microtus_xanthognathus,0,0,1,1,125.8,Nonfibrous/Fibrous,0.1258,Herbivore
+Rodentia,Cricetidae,Myodes,californicus,Myodes californicus,Myodes_californicus,0,0,0,1,18.3,Nonfibrous,0.0183,Herbivore
+Rodentia,Cricetidae,Myodes,rufocanus,Myodes rufocanus,Myodes_rufocanus,0,0,1,1,37,Nonfibrous/Fibrous,0.037,Herbivore
+Rodentia,Cricetidae,Myodes,rutilus,Myodes rutilus,Myodes_rutilus,0,0,1,1,28.25,Nonfibrous/Fibrous,0.02825,Herbivore
+Rodentia,Cricetidae,Neofiber,alleni,Neofiber alleni,Neofiber_alleni,0,0,1,1,266,Nonfibrous/Fibrous,0.266,Herbivore
+Rodentia,Cricetidae,Neotoma,albigula,Neotoma albigula,Neotoma_albigula,0,0,1,1,206,Nonfibrous/Fibrous,0.206,Herbivore
+Rodentia,Cricetidae,Neotoma,cinerea,Neotoma cinerea,Neotoma_cinerea,0,0,1,1,299.2,Nonfibrous/Fibrous,0.2992,Herbivore
+Rodentia,Cricetidae,Neotoma,floridana,Neotoma floridana,Neotoma_floridana,0,0,1,1,244.7,Nonfibrous/Fibrous,0.2447,Herbivore
+Rodentia,Cricetidae,Neotoma,fuscipes,Neotoma fuscipes,Neotoma_fuscipes,0,0,1,1,229.8,Nonfibrous/Fibrous,0.2298,Herbivore
+Rodentia,Cricetidae,Neotoma,lepida,Neotoma lepida,Neotoma_lepida,0,0,1,1,163.7,Nonfibrous/Fibrous,0.1637,Herbivore
+Rodentia,Cricetidae,Neotoma,mexicana,Neotoma mexicana,Neotoma_mexicana,0,0,1,1,203,Nonfibrous/Fibrous,0.203,Herbivore
+Rodentia,Cricetidae,Neotoma,micropus,Neotoma micropus,Neotoma_micropus,0,0,1,1,237.5,Nonfibrous/Fibrous,0.2375,Herbivore
+Rodentia,Cricetidae,Neotoma,phenax,Neotoma phenax,Neotoma_phenax,0,0,1,1,227.5,Nonfibrous/Fibrous,0.2275,Herbivore
+Rodentia,Cricetidae,Neotoma,stephensi,Neotoma stephensi,Neotoma_stephensi,0,0,1,1,152.5,Nonfibrous/Fibrous,0.1525,Herbivore
+Rodentia,Cricetidae,Ondatra,zibethicus,Ondatra zibethicus,Ondatra_zibethicus,0,0,1,1,1065.75,Nonfibrous/Fibrous,1.06575,Herbivore
+Rodentia,Cricetidae,Ototylomys,phyllotis,Ototylomys phyllotis,Ototylomys_phyllotis,0,0,1,1,120,Nonfibrous/Fibrous,0.12,Herbivore
+Rodentia,Cricetidae,Peromyscus,melanophrys,Peromyscus melanophrys,Peromyscus_melanophrys,0,0,0,1,40,Nonfibrous,0.04,Herbivore
+Rodentia,Cricetidae,Peromyscus,pectoralis,Peromyscus pectoralis,Peromyscus_pectoralis,0,0,0,1,39,Nonfibrous,0.039,Herbivore
+Rodentia,Cricetidae,Phenacomys,intermedius,Phenacomys intermedius,Phenacomys_intermedius,0,0,1,1,25.2,Nonfibrous/Fibrous,0.0252,Herbivore
+Rodentia,Cricetidae,Phodopus,campbelli,Phodopus campbelli,Phodopus_campbelli,0,0,0,1,23.4,Nonfibrous,0.0234,Herbivore
+Rodentia,Cricetidae,Reithrodon,auritus,Reithrodon auritus,Reithrodon_auritus,0,0,1,0,70.9,Fibrous,0.0709,Herbivore
+Rodentia,Cricetidae,Reithrodontomys,mexicanus,Reithrodontomys mexicanus,Reithrodontomys_mexicanus,0,0,1,0,16,Fibrous,0.016,Herbivore
+Rodentia,Cricetidae,Sigmodon,leucotis,Sigmodon leucotis,Sigmodon_leucotis,0,0,1,0,135.5,Fibrous,0.1355,Herbivore
+Rodentia,Cricetidae,Sigmodon,ochrognathus,Sigmodon ochrognathus,Sigmodon_ochrognathus,0,0,1,0,122,Fibrous,0.122,Herbivore
+Rodentia,Cricetidae,Synaptomys,cooperi,Synaptomys cooperi,Synaptomys_cooperi,0,0,1,1,31.9,Nonfibrous/Fibrous,0.0319,Herbivore
+Rodentia,Cricetidae,Wilfredomys,oenax,Wilfredomys oenax,Wilfredomys_oenax,0,0,1,1,46.8,Nonfibrous/Fibrous,0.0468,Herbivore
+Rodentia,Cricetidae,Xenomys,nelsoni,Xenomys nelsoni,Xenomys_nelsoni,0,0,1,0,130,Fibrous,0.13,Herbivore
+Rodentia,Cricetidae,Zygodontomys,brevicauda,Zygodontomys brevicauda,Zygodontomys_brevicauda,0,0,1,1,52.2,Nonfibrous/Fibrous,0.0522,Herbivore
+Rodentia,Ctenodactylidae,Ctenodactylus,vali,Ctenodactylus vali,Ctenodactylus_vali,0,0,1,1,175,Nonfibrous/Fibrous,0.175,Herbivore
+Rodentia,Ctenodactylidae,Felovia,vae,Felovia vae,Felovia_vae,0,0,1,1,205,Nonfibrous/Fibrous,0.205,Herbivore
+Rodentia,Ctenodactylidae,Massoutiera,mzabi,Massoutiera mzabi,Massoutiera_mzabi,0,0,1,1,194,Nonfibrous/Fibrous,0.194,Herbivore
+Rodentia,Ctenodactylidae,Pectinator,spekei,Pectinator spekei,Pectinator_spekei,0,0,1,1,160,Nonfibrous/Fibrous,0.16,Herbivore
+Rodentia,Ctenomyidae,Ctenomys,mendocinus,Ctenomys mendocinus,Ctenomys_mendocinus,0,0,1,1,177.5,Nonfibrous/Fibrous,0.1775,Herbivore
+Rodentia,Ctenomyidae,Ctenomys,talarum,Ctenomys talarum,Ctenomys_talarum,0,0,1,0,132.3,Fibrous,0.1323,Herbivore
+Rodentia,Ctenomyidae,Ctenomys,torquatus,Ctenomys torquatus,Ctenomys_torquatus,0,0,1,1,209.5,Nonfibrous/Fibrous,0.2095,Herbivore
+Rodentia,Cuniculidae,Cuniculus,paca,Cuniculus paca,Cuniculus_paca,0,0,0,1,8000,Nonfibrous,8,Herbivore
+Rodentia,Dasyproctidae,Dasyprocta,fuliginosa,Dasyprocta fuliginosa,Dasyprocta_fuliginosa,0,0,0,1,3500,Nonfibrous,3.5,Herbivore
+Rodentia,Dasyproctidae,Dasyprocta,leporina,Dasyprocta leporina,Dasyprocta_leporina,0,0,0,1,3020,Nonfibrous,3.02,Herbivore
+Rodentia,Dasyproctidae,Dasyprocta,punctata,Dasyprocta punctata,Dasyprocta_punctata,0,0,0,1,2675,Nonfibrous,2.675,Herbivore
+Rodentia,Dasyproctidae,Myoprocta,acouchy,Myoprocta acouchy,Myoprocta_acouchy,0,0,0,1,600,Nonfibrous,0.6,Herbivore
+Rodentia,Dinomyidae,Dinomys,branickii,Dinomys branickii,Dinomys_branickii,0,0,1,1,12500,Nonfibrous/Fibrous,12.5,Herbivore
+Rodentia,Dipodidae,Allactaga,tetradactyla,Allactaga tetradactyla,Allactaga_tetradactyla,0,0,0,1,52,Nonfibrous,0.052,Herbivore
+Rodentia,Dipodidae,Dipus,sagitta,Dipus sagitta,Dipus_sagitta,0,0,1,1,89,Nonfibrous/Fibrous,0.089,Herbivore
+Rodentia,Dipodidae,Paradipus,ctenodactylus,Paradipus ctenodactylus,Paradipus_ctenodactylus,0,0,1,1,140,Nonfibrous/Fibrous,0.14,Herbivore
+Rodentia,Dipodidae,Pygeretmus,pumilio,Pygeretmus pumilio,Pygeretmus_pumilio,0,0,1,1,52,Nonfibrous/Fibrous,0.052,Herbivore
+Rodentia,Dipodidae,Stylodipus,telum,Stylodipus telum,Stylodipus_telum,0,0,1,1,65,Nonfibrous/Fibrous,0.065,Herbivore
+Rodentia,Echimyidae,Dactylomys,boliviensis,Dactylomys boliviensis,Dactylomys_boliviensis,0,0,1,1,728.8,Nonfibrous/Fibrous,0.7288,Herbivore
+Rodentia,Echimyidae,Dactylomys,dactylinus,Dactylomys dactylinus,Dactylomys_dactylinus,0,0,1,0,650,Fibrous,0.65,Herbivore
+Rodentia,Echimyidae,Echimys,chrysurus,Echimys chrysurus,Echimys_chrysurus,0,0,1,1,652.5,Nonfibrous/Fibrous,0.6525,Herbivore
+Rodentia,Echimyidae,Kannabateomys,amblyonyx,Kannabateomys amblyonyx,Kannabateomys_amblyonyx,0,0,1,1,600,Nonfibrous/Fibrous,0.6,Herbivore
+Rodentia,Echimyidae,Makalata,didelphoides,Makalata didelphoides,Makalata_didelphoides,0,0,0,1,108,Nonfibrous,0.108,Herbivore
+Rodentia,Echimyidae,Phyllomys,blainvillii,Phyllomys blainvillii,Phyllomys_blainvillii,0,0,0,1,243.3,Nonfibrous,0.2433,Herbivore
+Rodentia,Erethizontidae,Coendou,prehensilis,Coendou prehensilis,Coendou_prehensilis,0,0,0,1,4400,Nonfibrous,4.4,Herbivore
+Rodentia,Erethizontidae,Coendou,rothschildi,Coendou rothschildi,Coendou_rothschildi,0,0,1,1,2000,Nonfibrous/Fibrous,2,Herbivore
+Rodentia,Erethizontidae,Erethizon,dorsatum,Erethizon dorsatum,Erethizon_dorsatum,0,0,1,1,7085.3,Nonfibrous/Fibrous,7.0853,Herbivore
+Rodentia,Erethizontidae,Sphiggurus,mexicanus,Sphiggurus mexicanus,Sphiggurus_mexicanus,0,0,0,1,2000,Nonfibrous,2,Herbivore
+Rodentia,Geomyidae,Cratogeomys,castanops,Cratogeomys castanops,Cratogeomys_castanops,0,0,1,1,251.8,Nonfibrous/Fibrous,0.2518,Herbivore
+Rodentia,Geomyidae,Geomys,bursarius,Geomys bursarius,Geomys_bursarius,0,0,1,1,203.8,Nonfibrous/Fibrous,0.2038,Herbivore
+Rodentia,Geomyidae,Geomys,personatus,Geomys personatus,Geomys_personatus,0,0,1,1,397,Nonfibrous/Fibrous,0.397,Herbivore
+Rodentia,Geomyidae,Thomomys,bottae,Thomomys bottae,Thomomys_bottae,0,0,1,1,114.7,Nonfibrous/Fibrous,0.1147,Herbivore
+Rodentia,Geomyidae,Thomomys,bulbivorus,Thomomys bulbivorus,Thomomys_bulbivorus,0,0,1,1,359.9,Nonfibrous/Fibrous,0.3599,Herbivore
+Rodentia,Geomyidae,Thomomys,mazama,Thomomys mazama,Thomomys_mazama,0,0,1,1,75,Nonfibrous/Fibrous,0.075,Herbivore
+Rodentia,Geomyidae,Thomomys,talpoides,Thomomys talpoides,Thomomys_talpoides,0,0,1,1,130.1,Nonfibrous/Fibrous,0.1301,Herbivore
+Rodentia,Geomyidae,Thomomys,townsendii,Thomomys townsendii,Thomomys_townsendii,0,0,1,1,263.4,Nonfibrous/Fibrous,0.2634,Herbivore
+Rodentia,Gliridae,Glis,glis,Glis glis,Glis_glis,0,0,0,1,125,Nonfibrous,0.125,Herbivore
+Rodentia,Gliridae,Graphiurus,murinus,Graphiurus murinus,Graphiurus_murinus,0,0,1,0,20.2,Fibrous,0.0202,Herbivore
+Rodentia,Heteromyidae,Chaetodipus,californicus,Chaetodipus californicus,Chaetodipus_californicus,0,0,1,1,22,Nonfibrous/Fibrous,0.022,Herbivore
+Rodentia,Heteromyidae,Chaetodipus,fallax,Chaetodipus fallax,Chaetodipus_fallax,0,0,1,1,18.7,Nonfibrous/Fibrous,0.0187,Herbivore
+Rodentia,Heteromyidae,Chaetodipus,pernix,Chaetodipus pernix,Chaetodipus_pernix,0,0,0,1,17,Nonfibrous,0.017,Herbivore
+Rodentia,Heteromyidae,Dipodomys,californicus,Dipodomys californicus,Dipodomys_californicus,0,0,1,1,85,Nonfibrous/Fibrous,0.085,Herbivore
+Rodentia,Heteromyidae,Dipodomys,deserti,Dipodomys deserti,Dipodomys_deserti,0,0,1,1,104.5,Nonfibrous/Fibrous,0.1045,Herbivore
+Rodentia,Heteromyidae,Dipodomys,elator,Dipodomys elator,Dipodomys_elator,0,0,1,1,77.5,Nonfibrous/Fibrous,0.0775,Herbivore
+Rodentia,Heteromyidae,Dipodomys,heermanni,Dipodomys heermanni,Dipodomys_heermanni,0,0,1,1,72,Nonfibrous/Fibrous,0.072,Herbivore
+Rodentia,Heteromyidae,Dipodomys,microps,Dipodomys microps,Dipodomys_microps,0,0,1,1,54.6,Nonfibrous/Fibrous,0.0546,Herbivore
+Rodentia,Heteromyidae,Dipodomys,nelsoni,Dipodomys nelsoni,Dipodomys_nelsoni,0,0,1,1,88.6,Nonfibrous/Fibrous,0.0886,Herbivore
+Rodentia,Heteromyidae,Dipodomys,nitratoides,Dipodomys nitratoides,Dipodomys_nitratoides,0,0,0,1,43.9,Nonfibrous,0.0439,Herbivore
+Rodentia,Heteromyidae,Dipodomys,ordii,Dipodomys ordii,Dipodomys_ordii,0,0,1,1,60.4,Nonfibrous/Fibrous,0.0604,Herbivore
+Rodentia,Heteromyidae,Dipodomys,panamintinus,Dipodomys panamintinus,Dipodomys_panamintinus,0,0,1,1,74.7,Nonfibrous/Fibrous,0.0747,Herbivore
+Rodentia,Heteromyidae,Dipodomys,phillipsii,Dipodomys phillipsii,Dipodomys_phillipsii,0,0,1,1,41,Nonfibrous/Fibrous,0.041,Herbivore
+Rodentia,Heteromyidae,Dipodomys,venustus,Dipodomys venustus,Dipodomys_venustus,0,0,0,1,72,Nonfibrous,0.072,Herbivore
+Rodentia,Heteromyidae,Heteromys,anomalus,Heteromys anomalus,Heteromys_anomalus,0,0,0,1,70,Nonfibrous,0.07,Herbivore
+Rodentia,Heteromyidae,Heteromys,oresterus,Heteromys oresterus,Heteromys_oresterus,0,0,0,1,74.8,Nonfibrous,0.0748,Herbivore
+Rodentia,Heteromyidae,Perognathus,alticolus,Perognathus alticolus,Perognathus_alticolus,0,0,1,1,24,Nonfibrous/Fibrous,0.024,Herbivore
+Rodentia,Heteromyidae,Perognathus,flavescens,Perognathus flavescens,Perognathus_flavescens,0,0,0,1,8.8,Nonfibrous,0.0088,Herbivore
+Rodentia,Heteromyidae,Perognathus,flavus,Perognathus flavus,Perognathus_flavus,0,0,1,1,7.7,Nonfibrous/Fibrous,0.0077,Herbivore
+Rodentia,Heteromyidae,Perognathus,inornatus,Perognathus inornatus,Perognathus_inornatus,0,0,0,1,10.9,Nonfibrous,0.0109,Herbivore
+Rodentia,Hystricidae,Atherurus,africanus,Atherurus africanus,Atherurus_africanus,0,0,1,1,1934,Nonfibrous/Fibrous,1.934,Herbivore
+Rodentia,Hystricidae,Hystrix,africaeaustralis,Hystrix africaeaustralis,Hystrix_africaeaustralis,0,0,1,1,14936,Nonfibrous/Fibrous,14.936,Herbivore
+Rodentia,Hystricidae,Hystrix,brachyura,Hystrix brachyura,Hystrix_brachyura,0,0,1,1,8000,Nonfibrous/Fibrous,8,Herbivore
+Rodentia,Hystricidae,Trichys,fasciculata,Trichys fasciculata,Trichys_fasciculata,0,0,1,1,1655,Nonfibrous/Fibrous,1.655,Herbivore
+Rodentia,Muridae,Bandicota,bengalensis,Bandicota bengalensis,Bandicota_bengalensis,0,0,1,1,188.5,Nonfibrous/Fibrous,0.1885,Herbivore
+Rodentia,Muridae,Desmodillus,auricularis,Desmodillus auricularis,Desmodillus_auricularis,0,0,0,1,53.3,Nonfibrous,0.0533,Herbivore
+Rodentia,Muridae,Desmomys,harringtoni,Desmomys harringtoni,Desmomys_harringtoni,0,0,1,0,90,Fibrous,0.09,Herbivore
+Rodentia,Muridae,Gerbillus,andersoni,Gerbillus andersoni,Gerbillus_andersoni,0,0,0,1,35.3,Nonfibrous,0.0353,Herbivore
+Rodentia,Muridae,Gerbillus,cheesmani,Gerbillus cheesmani,Gerbillus_cheesmani,0,0,0,1,28,Nonfibrous,0.028,Herbivore
+Rodentia,Muridae,Gerbillus,henleyi,Gerbillus henleyi,Gerbillus_henleyi,0,0,0,1,8,Nonfibrous,0.008,Herbivore
+Rodentia,Muridae,Gerbillus,pyramidum,Gerbillus pyramidum,Gerbillus_pyramidum,0,0,0,1,49.4,Nonfibrous,0.0494,Herbivore
+Rodentia,Muridae,Heimyscus,fumosus,Heimyscus fumosus,Heimyscus_fumosus,0,0,0,1,14.2,Nonfibrous,0.0142,Herbivore
+Rodentia,Muridae,Hybomys,univittatus,Hybomys univittatus,Hybomys_univittatus,0,0,0,1,47.6,Nonfibrous,0.0476,Herbivore
+Rodentia,Muridae,Hylomyscus,aeta,Hylomyscus aeta,Hylomyscus_aeta,0,0,0,1,20,Nonfibrous,0.02,Herbivore
+Rodentia,Muridae,Hylomyscus,stella,Hylomyscus stella,Hylomyscus_stella,0,0,0,1,19.1,Nonfibrous,0.0191,Herbivore
+Rodentia,Muridae,Lemniscomys,rosalia,Lemniscomys rosalia,Lemniscomys_rosalia,0,0,1,1,49.5,Nonfibrous/Fibrous,0.0495,Herbivore
+Rodentia,Muridae,Leporillus,conditor,Leporillus conditor,Leporillus_conditor,0,0,1,1,350,Nonfibrous/Fibrous,0.35,Herbivore
+Rodentia,Muridae,Malacomys,longipes,Malacomys longipes,Malacomys_longipes,0,0,0,1,95.6,Nonfibrous,0.0956,Herbivore
+Rodentia,Muridae,Mastomys,natalensis,Mastomys natalensis,Mastomys_natalensis,0,0,1,1,60.3,Nonfibrous/Fibrous,0.0603,Herbivore
+Rodentia,Muridae,Meriones,libycus,Meriones libycus,Meriones_libycus,0,0,1,1,91.3,Nonfibrous/Fibrous,0.0913,Herbivore
+Rodentia,Muridae,Meriones,shawi,Meriones shawi,Meriones_shawi,0,0,1,1,90.6,Nonfibrous/Fibrous,0.0906,Herbivore
+Rodentia,Muridae,Meriones,unguiculatus,Meriones unguiculatus,Meriones_unguiculatus,0,0,1,1,53.3,Nonfibrous/Fibrous,0.0533,Herbivore
+Rodentia,Muridae,Mus,setulosus,Mus setulosus,Mus_setulosus,0,0,0,1,9.4,Nonfibrous,0.0094,Herbivore
+Rodentia,Muridae,Mylomys,dybowskii,Mylomys dybowskii,Mylomys_dybowskii,0,0,1,0,114.4,Fibrous,0.1144,Herbivore
+Rodentia,Muridae,Notomys,fuscus,Notomys fuscus,Notomys_fuscus,0,0,1,1,35,Nonfibrous/Fibrous,0.035,Herbivore
+Rodentia,Muridae,Oenomys,hypoxanthus,Oenomys hypoxanthus,Oenomys_hypoxanthus,0,0,0,1,90,Nonfibrous,0.09,Herbivore
+Rodentia,Muridae,Otomys,angoniensis,Otomys angoniensis,Otomys_angoniensis,0,0,1,1,191.5,Nonfibrous/Fibrous,0.1915,Herbivore
+Rodentia,Muridae,Otomys,irroratus,Otomys irroratus,Otomys_irroratus,0,0,1,1,101.8,Nonfibrous/Fibrous,0.1018,Herbivore
+Rodentia,Muridae,Pachyuromys,duprasi,Pachyuromys duprasi,Pachyuromys_duprasi,0,0,0,1,47.5,Nonfibrous,0.0475,Herbivore
+Rodentia,Muridae,Praomys,tullbergi,Praomys tullbergi,Praomys_tullbergi,0,0,0,1,33.7,Nonfibrous,0.0337,Herbivore
+Rodentia,Muridae,Psammomys,obesus,Psammomys obesus,Psammomys_obesus,0,0,1,0,149.6,Fibrous,0.1496,Herbivore
+Rodentia,Muridae,Pseudomys,fieldi,Pseudomys fieldi,Pseudomys_fieldi,0,0,1,1,45,Nonfibrous/Fibrous,0.045,Herbivore
+Rodentia,Muridae,Pseudomys,occidentalis,Pseudomys occidentalis,Pseudomys_occidentalis,0,0,1,1,34,Nonfibrous/Fibrous,0.034,Herbivore
+Rodentia,Muridae,Pseudomys,pilligaensis,Pseudomys pilligaensis,Pseudomys_pilligaensis,0,0,1,1,11,Nonfibrous/Fibrous,0.011,Herbivore
+Rodentia,Muridae,Rattus,rattus,Rattus rattus,Rattus_rattus,0,0,1,1,229.15,Nonfibrous/Fibrous,0.22915,Herbivore
+Rodentia,Muridae,Stochomys,longicaudatus,Stochomys longicaudatus,Stochomys_longicaudatus,0,0,0,1,71,Nonfibrous,0.071,Herbivore
+Rodentia,Muridae,Zyzomys,pedunculatus,Zyzomys pedunculatus,Zyzomys_pedunculatus,0,0,1,1,100,Nonfibrous/Fibrous,0.1,Herbivore
+Rodentia,Myocastoridae,Myocastor,coypus,Myocastor coypus,Myocastor_coypus,0,0,1,1,6937.5,Nonfibrous/Fibrous,6.9375,Herbivore
+Rodentia,Nesomyidae,Beamys,hindei,Beamys hindei,Beamys_hindei,0,0,0,1,75.8,Nonfibrous,0.0758,Herbivore
+Rodentia,Nesomyidae,Cricetomys,emini,Cricetomys emini,Cricetomys_emini,0,0,0,1,1300,Nonfibrous,1.3,Herbivore
+Rodentia,Nesomyidae,Delanymys,brooksi,Delanymys brooksi,Delanymys_brooksi,0,0,0,1,5,Nonfibrous,0.005,Herbivore
+Rodentia,Nesomyidae,Dendromus,mesomelas,Dendromus mesomelas,Dendromus_mesomelas,0,0,1,1,10.2,Nonfibrous/Fibrous,0.0102,Herbivore
+Rodentia,Nesomyidae,Eliurus,webbi,Eliurus webbi,Eliurus_webbi,0,0,0,1,75,Nonfibrous,0.075,Herbivore
+Rodentia,Nesomyidae,Malacothrix,typica,Malacothrix typica,Malacothrix_typica,0,0,1,1,13.4,Nonfibrous/Fibrous,0.0134,Herbivore
+Rodentia,Nesomyidae,Saccostomus,campestris,Saccostomus campestris,Saccostomus_campestris,0,0,1,1,51.2,Nonfibrous/Fibrous,0.0512,Herbivore
+Rodentia,Nesomyidae,Steatomys,pratensis,Steatomys pratensis,Steatomys_pratensis,0,0,1,1,25,Nonfibrous/Fibrous,0.025,Herbivore
+Rodentia,Octodontidae,Octodon,degus,Octodon degus,Octodon_degus,0,0,1,1,210,Nonfibrous/Fibrous,0.21,Herbivore
+Rodentia,Octodontidae,Spalacopus,cyanus,Spalacopus cyanus,Spalacopus_cyanus,0,0,0,1,127.5,Nonfibrous,0.1275,Herbivore
+Rodentia,Octodontidae,Tympanoctomys,barrerae,Tympanoctomys barrerae,Tympanoctomys_barrerae,0,0,1,1,70,Nonfibrous/Fibrous,0.07,Herbivore
+Rodentia,Pedetidae,Pedetes,capensis,Pedetes capensis,Pedetes_capensis,0,0,1,1,3155,Nonfibrous/Fibrous,3.155,Herbivore
+Rodentia,Petromuridae,Petromus,typicus,Petromus typicus,Petromus_typicus,0,0,1,1,224,Nonfibrous/Fibrous,0.224,Herbivore
+Rodentia,Sciuridae,Aeromys,thomasi,Aeromys thomasi,Aeromys_thomasi,0,0,0,1,1435,Nonfibrous,1.435,Herbivore
+Rodentia,Sciuridae,Ammospermophilus,harrisii,Ammospermophilus harrisii,Ammospermophilus_harrisii,0,0,0,1,122,Nonfibrous,0.122,Herbivore
+Rodentia,Sciuridae,Atlantoxerus,getulus,Atlantoxerus getulus,Atlantoxerus_getulus,0,0,0,1,251,Nonfibrous,0.251,Herbivore
+Rodentia,Sciuridae,Cynomys,leucurus,Cynomys leucurus,Cynomys_leucurus,0,0,1,0,908.5,Fibrous,0.9085,Herbivore
+Rodentia,Sciuridae,Cynomys,ludovicianus,Cynomys ludovicianus,Cynomys_ludovicianus,0,0,1,1,1364,Nonfibrous/Fibrous,1.364,Herbivore
+Rodentia,Sciuridae,Cynomys,parvidens,Cynomys parvidens,Cynomys_parvidens,0,0,1,0,900,Fibrous,0.9,Herbivore
+Rodentia,Sciuridae,Epixerus,ebii,Epixerus ebii,Epixerus_ebii,0,0,0,1,592,Nonfibrous,0.592,Herbivore
+Rodentia,Sciuridae,Eupetaurus,cinereus,Eupetaurus cinereus,Eupetaurus_cinereus,0,0,1,0,25000,Fibrous,25,Herbivore
+Rodentia,Sciuridae,Exilisciurus,whiteheadi,Exilisciurus whiteheadi,Exilisciurus_whiteheadi,0,0,0,1,25.2,Nonfibrous,0.0252,Herbivore
+Rodentia,Sciuridae,Funisciurus,carruthersi,Funisciurus carruthersi,Funisciurus_carruthersi,0,0,0,1,286,Nonfibrous,0.286,Herbivore
+Rodentia,Sciuridae,Marmota,flaviventris,Marmota flaviventris,Marmota_flaviventris,0,0,1,1,3350,Nonfibrous/Fibrous,3.35,Herbivore
+Rodentia,Sciuridae,Marmota,olympus,Marmota olympus,Marmota_olympus,0,0,1,1,6300,Nonfibrous/Fibrous,6.3,Herbivore
+Rodentia,Sciuridae,Petaurista,leucogenys,Petaurista leucogenys,Petaurista_leucogenys,0,0,1,1,1179,Nonfibrous/Fibrous,1.179,Herbivore
+Rodentia,Sciuridae,Petaurista,petaurista,Petaurista petaurista,Petaurista_petaurista,0,0,1,1,1660,Nonfibrous/Fibrous,1.66,Herbivore
+Rodentia,Sciuridae,Protoxerus,stangeri,Protoxerus stangeri,Protoxerus_stangeri,0,0,1,1,621.5,Nonfibrous/Fibrous,0.6215,Herbivore
+Rodentia,Sciuridae,Pteromys,volans,Pteromys volans,Pteromys_volans,0,0,1,1,143.75,Nonfibrous/Fibrous,0.14375,Herbivore
+Rodentia,Sciuridae,Ratufa,affinis,Ratufa affinis,Ratufa_affinis,0,0,1,1,1156.5,Nonfibrous/Fibrous,1.1565,Herbivore
+Rodentia,Sciuridae,Ratufa,bicolor,Ratufa bicolor,Ratufa_bicolor,0,0,0,1,2050,Nonfibrous,2.05,Herbivore
+Rodentia,Sciuridae,Rheithrosciurus,macrotis,Rheithrosciurus macrotis,Rheithrosciurus_macrotis,0,0,0,1,1225,Nonfibrous,1.225,Herbivore
+Rodentia,Sciuridae,Sciurillus,pusillus,Sciurillus pusillus,Sciurillus_pusillus,0,0,0,1,39,Nonfibrous,0.039,Herbivore
+Rodentia,Sciuridae,Sciurus,aestuans,Sciurus aestuans,Sciurus_aestuans,0,0,0,1,185,Nonfibrous,0.185,Herbivore
+Rodentia,Sciuridae,Sciurus,anomalus,Sciurus anomalus,Sciurus_anomalus,0,0,0,1,342.35,Nonfibrous,0.34235,Herbivore
+Rodentia,Sciuridae,Sciurus,aureogaster,Sciurus aureogaster,Sciurus_aureogaster,0,0,0,1,595,Nonfibrous,0.595,Herbivore
+Rodentia,Sciuridae,Sciurus,colliaei,Sciurus colliaei,Sciurus_colliaei,0,0,1,1,498,Nonfibrous/Fibrous,0.498,Herbivore
+Rodentia,Sciuridae,Sciurus,deppei,Sciurus deppei,Sciurus_deppei,0,0,1,1,190,Nonfibrous/Fibrous,0.19,Herbivore
+Rodentia,Sciuridae,Sciurus,granatensis,Sciurus granatensis,Sciurus_granatensis,0,0,0,1,250,Nonfibrous,0.25,Herbivore
+Rodentia,Sciuridae,Sciurus,griseus,Sciurus griseus,Sciurus_griseus,0,0,0,1,731,Nonfibrous,0.731,Herbivore
+Rodentia,Sciuridae,Sciurus,igniventris,Sciurus igniventris,Sciurus_igniventris,0,0,0,1,700,Nonfibrous,0.7,Herbivore
+Rodentia,Sciuridae,Sciurus,nayaritensis,Sciurus nayaritensis,Sciurus_nayaritensis,0,0,0,1,697,Nonfibrous,0.697,Herbivore
+Rodentia,Sciuridae,Sciurus,niger,Sciurus niger,Sciurus_niger,0,0,0,1,761.9,Nonfibrous,0.7619,Herbivore
+Rodentia,Sciuridae,Sciurus,spadiceus,Sciurus spadiceus,Sciurus_spadiceus,0,0,0,1,403.3,Nonfibrous,0.4033,Herbivore
+Rodentia,Sciuridae,Sciurus,variegatoides,Sciurus variegatoides,Sciurus_variegatoides,0,0,0,1,485,Nonfibrous,0.485,Herbivore
+Rodentia,Sciuridae,Sciurus,yucatanensis,Sciurus yucatanensis,Sciurus_yucatanensis,0,0,0,1,225,Nonfibrous,0.225,Herbivore
+Rodentia,Sciuridae,Spermophilopsis,leptodactylus,Spermophilopsis leptodactylus,Spermophilopsis_leptodactylus,0,0,0,1,582,Nonfibrous,0.582,Herbivore
+Rodentia,Sciuridae,Spermophilus,adocetus,Spermophilus adocetus,Spermophilus_adocetus,0,0,0,1,125,Nonfibrous,0.125,Herbivore
+Rodentia,Sciuridae,Spermophilus,annulatus,Spermophilus annulatus,Spermophilus_annulatus,0,0,0,1,500,Nonfibrous,0.5,Herbivore
+Rodentia,Sciuridae,Spermophilus,armatus,Spermophilus armatus,Spermophilus_armatus,0,0,1,1,313,Nonfibrous/Fibrous,0.313,Herbivore
+Rodentia,Sciuridae,Spermophilus,brunneus,Spermophilus brunneus,Spermophilus_brunneus,0,0,1,1,300,Nonfibrous/Fibrous,0.3,Herbivore
+Rodentia,Sciuridae,Spermophilus,saturatus,Spermophilus saturatus,Spermophilus_saturatus,0,0,1,1,220,Nonfibrous/Fibrous,0.22,Herbivore
+Rodentia,Sciuridae,Spermophilus,townsendii,Spermophilus townsendii,Spermophilus_townsendii,0,0,1,1,213,Nonfibrous/Fibrous,0.213,Herbivore
+Rodentia,Sciuridae,Tamias,alpinus,Tamias alpinus,Tamias_alpinus,0,0,0,1,36.6,Nonfibrous,0.0366,Herbivore
+Rodentia,Sciuridae,Tamias,bulleri,Tamias bulleri,Tamias_bulleri,0,0,0,1,100,Nonfibrous,0.1,Herbivore
+Rodentia,Sciuridae,Tamias,cinereicollis,Tamias cinereicollis,Tamias_cinereicollis,0,0,0,1,61.7,Nonfibrous,0.0617,Herbivore
+Rodentia,Sciuridae,Tamias,durangae,Tamias durangae,Tamias_durangae,0,0,0,1,85,Nonfibrous,0.085,Herbivore
+Rodentia,Sciuridae,Tamias,obscurus,Tamias obscurus,Tamias_obscurus,0,0,0,1,73,Nonfibrous,0.073,Herbivore
+Rodentia,Sciuridae,Tamias,ochrogenys,Tamias ochrogenys,Tamias_ochrogenys,0,0,0,1,91.7,Nonfibrous,0.0917,Herbivore
+Rodentia,Sciuridae,Tamias,ruficaudus,Tamias ruficaudus,Tamias_ruficaudus,0,0,1,1,68,Nonfibrous/Fibrous,0.068,Herbivore
+Rodentia,Sciuridae,Tamiasciurus,douglasii,Tamiasciurus douglasii,Tamiasciurus_douglasii,0,0,0,1,225,Nonfibrous,0.225,Herbivore
+Rodentia,Sciuridae,Tamiasciurus,hudsonicus,Tamiasciurus hudsonicus,Tamiasciurus_hudsonicus,0,0,1,1,201.2,Nonfibrous/Fibrous,0.2012,Herbivore
+Rodentia,Sciuridae,Xerus,erythropus,Xerus erythropus,Xerus_erythropus,0,0,0,1,722.5,Nonfibrous,0.7225,Herbivore
+Rodentia,Spalacidae,Spalax,ehrenbergi,Spalax ehrenbergi,Spalax_ehrenbergi,0,0,1,1,176,Nonfibrous/Fibrous,0.176,Herbivore
+Rodentia,Spalacidae,Spalax,microphthalmus,Spalax microphthalmus,Spalax_microphthalmus,0,0,0,1,470,Nonfibrous,0.47,Herbivore
+Rodentia,Spalacidae,Tachyoryctes,macrocephalus,Tachyoryctes macrocephalus,Tachyoryctes_macrocephalus,0,0,1,1,597,Nonfibrous/Fibrous,0.597,Herbivore
+Rodentia,Spalacidae,Tachyoryctes,splendens,Tachyoryctes splendens,Tachyoryctes_splendens,0,0,1,1,212.3,Nonfibrous/Fibrous,0.2123,Herbivore
+Rodentia,Thryonomyidae,Thryonomys,gregorianus,Thryonomys gregorianus,Thryonomys_gregorianus,0,0,1,1,2707.1,Nonfibrous/Fibrous,2.7071,Herbivore
+Rodentia,Thryonomyidae,Thryonomys,swinderianus,Thryonomys swinderianus,Thryonomys_swinderianus,0,0,1,0,4060,Fibrous,4.06,Herbivore
+Afrosoricida,Chrysochloridae,Amblysomus,hottentotus,Amblysomus hottentotus,Amblysomus_hottentotus,0,1,0,0,67.9,Invert,0.0679,Invert
+Afrosoricida,Chrysochloridae,Chrysochloris,stuhlmanni,Chrysochloris stuhlmanni,Chrysochloris_stuhlmanni,0,1,0,0,39.8,Invert,0.0398,Invert
+Afrosoricida,Tenrecidae,Echinops,telfairi,Echinops telfairi,Echinops_telfairi,0,1,0,0,132.75,Invert,0.13275,Invert
+Afrosoricida,Tenrecidae,Hemicentetes,semispinosus,Hemicentetes semispinosus,Hemicentetes_semispinosus,0,1,0,0,135.9,Invert,0.1359,Invert
+Afrosoricida,Tenrecidae,Setifer,setosus,Setifer setosus,Setifer_setosus,0,1,0,0,253.4,Invert,0.2534,Invert
+Carnivora,Eupleridae,Eupleres,goudotii,Eupleres goudotii,Eupleres_goudotii,0,1,0,0,2763.34,Invert,2.76334,Invert
+Carnivora,Herpestidae,Helogale,parvula,Helogale parvula,Helogale_parvula,0,1,0,0,281.83,Invert,0.28183,Invert
+Carnivora,Herpestidae,Liberiictis,kuhni,Liberiictis kuhni,Liberiictis_kuhni,0,1,0,0,2150,Invert,2.15,Invert
+Carnivora,Herpestidae,Rhynchogale,melleri,Rhynchogale melleri,Rhynchogale_melleri,0,1,0,0,2240.33,Invert,2.24033,Invert
+Carnivora,Hyaenidae,Proteles,cristata,Proteles cristata,Proteles_cristata,0,1,0,0,10000,Invert,10,Invert
+Carnivora,Mustelidae,Enhydra,lutris,Enhydra lutris,Enhydra_lutris,0,1,0,0,23500,Invert,23.5,Invert
+Carnivora,Viverridae,Hemigalus,derbyanus,Hemigalus derbyanus,Hemigalus_derbyanus,0,1,0,0,1262.7,Invert,1.2627,Invert
+Chiroptera,Craseonycteridae,Craseonycteris,thonglongyai,Craseonycteris thonglongyai,Craseonycteris_thonglongyai,0,1,0,0,2.2,Invert,0.0022,Invert
+Chiroptera,Emballonuridae,Balantiopteryx,plicata,Balantiopteryx plicata,Balantiopteryx_plicata,0,1,0,0,6.4,Invert,0.0064,Invert
+Chiroptera,Emballonuridae,Centronycteris,maximiliani,Centronycteris maximiliani,Centronycteris_maximiliani,0,1,0,0,5.7,Invert,0.0057,Invert
+Chiroptera,Emballonuridae,Coleura,seychellensis,Coleura seychellensis,Coleura_seychellensis,0,1,0,0,10.6,Invert,0.0106,Invert
+Chiroptera,Emballonuridae,Cormura,brevirostris,Cormura brevirostris,Cormura_brevirostris,0,1,0,0,9.2,Invert,0.0092,Invert
+Chiroptera,Emballonuridae,Diclidurus,albus,Diclidurus albus,Diclidurus_albus,0,1,0,0,15.6,Invert,0.0156,Invert
+Chiroptera,Emballonuridae,Emballonura,beccarii,Emballonura beccarii,Emballonura_beccarii,0,1,0,0,4.2,Invert,0.0042,Invert
+Chiroptera,Emballonuridae,Emballonura,raffrayana,Emballonura raffrayana,Emballonura_raffrayana,0,1,0,0,5.6,Invert,0.0056,Invert
+Chiroptera,Emballonuridae,Mosia,nigrescens,Mosia nigrescens,Mosia_nigrescens,0,1,0,0,3.3,Invert,0.0033,Invert
+Chiroptera,Emballonuridae,Peropteryx,kappleri,Peropteryx kappleri,Peropteryx_kappleri,0,1,0,0,9.4,Invert,0.0094,Invert
+Chiroptera,Emballonuridae,Peropteryx,macrotis,Peropteryx macrotis,Peropteryx_macrotis,0,1,0,0,5.4,Invert,0.0054,Invert
+Chiroptera,Emballonuridae,Rhynchonycteris,naso,Rhynchonycteris naso,Rhynchonycteris_naso,0,1,0,0,4.2,Invert,0.0042,Invert
+Chiroptera,Emballonuridae,Saccolaimus,flaviventris,Saccolaimus flaviventris,Saccolaimus_flaviventris,0,1,0,0,45,Invert,0.045,Invert
+Chiroptera,Emballonuridae,Saccolaimus,mixtus,Saccolaimus mixtus,Saccolaimus_mixtus,0,1,0,0,23.9,Invert,0.0239,Invert
+Chiroptera,Emballonuridae,Saccolaimus,saccolaimus,Saccolaimus saccolaimus,Saccolaimus_saccolaimus,0,1,0,0,43.7,Invert,0.0437,Invert
+Chiroptera,Emballonuridae,Saccopteryx,bilineata,Saccopteryx bilineata,Saccopteryx_bilineata,0,1,0,0,8.1,Invert,0.0081,Invert
+Chiroptera,Emballonuridae,Saccopteryx,leptura,Saccopteryx leptura,Saccopteryx_leptura,0,1,0,0,4.9,Invert,0.0049,Invert
+Chiroptera,Emballonuridae,Taphozous,australis,Taphozous australis,Taphozous_australis,0,1,0,0,22.9,Invert,0.0229,Invert
+Chiroptera,Emballonuridae,Taphozous,hildegardeae,Taphozous hildegardeae,Taphozous_hildegardeae,0,1,0,0,29.6,Invert,0.0296,Invert
+Chiroptera,Emballonuridae,Taphozous,mauritianus,Taphozous mauritianus,Taphozous_mauritianus,0,1,0,0,27.3,Invert,0.0273,Invert
+Chiroptera,Emballonuridae,Taphozous,melanopogon,Taphozous melanopogon,Taphozous_melanopogon,0,1,0,0,27.6,Invert,0.0276,Invert
+Chiroptera,Emballonuridae,Taphozous,perforatus,Taphozous perforatus,Taphozous_perforatus,0,1,0,0,27.3,Invert,0.0273,Invert
+Chiroptera,Hipposideridae,Cloeotis,percivali,Cloeotis percivali,Cloeotis_percivali,0,1,0,0,4.1,Invert,0.0041,Invert
+Chiroptera,Hipposideridae,Hipposideros,ater,Hipposideros ater,Hipposideros_ater,0,1,0,0,5.8,Invert,0.0058,Invert
+Chiroptera,Hipposideridae,Hipposideros,caffer,Hipposideros caffer,Hipposideros_caffer,0,1,0,0,9.4,Invert,0.0094,Invert
+Chiroptera,Hipposideridae,Hipposideros,cervinus,Hipposideros cervinus,Hipposideros_cervinus,0,1,0,0,9.3,Invert,0.0093,Invert
+Chiroptera,Hipposideridae,Hipposideros,diadema,Hipposideros diadema,Hipposideros_diadema,0,1,0,0,43.8,Invert,0.0438,Invert
+Chiroptera,Hipposideridae,Hipposideros,dinops,Hipposideros dinops,Hipposideros_dinops,0,1,0,0,72.5,Invert,0.0725,Invert
+Chiroptera,Hipposideridae,Hipposideros,maggietaylorae,Hipposideros maggietaylorae,Hipposideros_maggietaylorae,0,1,0,0,18.5,Invert,0.0185,Invert
+Chiroptera,Hipposideridae,Hipposideros,semoni,Hipposideros semoni,Hipposideros_semoni,0,1,0,0,14,Invert,0.014,Invert
+Chiroptera,Hipposideridae,Hipposideros,speoris,Hipposideros speoris,Hipposideros_speoris,0,1,0,0,10.4,Invert,0.0104,Invert
+Chiroptera,Megadermatidae,Lavia,frons,Lavia frons,Lavia_frons,0,1,0,0,23.9,Invert,0.0239,Invert
+Chiroptera,Molossidae,Cheiromeles,torquatus,Cheiromeles torquatus,Cheiromeles_torquatus,0,1,0,0,163.5,Invert,0.1635,Invert
+Chiroptera,Molossidae,Cynomops,abrasus,Cynomops abrasus,Cynomops_abrasus,0,1,0,0,41,Invert,0.041,Invert
+Chiroptera,Molossidae,Cynomops,planirostris,Cynomops planirostris,Cynomops_planirostris,0,1,0,0,12.4,Invert,0.0124,Invert
+Chiroptera,Molossidae,Eumops,auripendulus,Eumops auripendulus,Eumops_auripendulus,0,1,0,0,28.5,Invert,0.0285,Invert
+Chiroptera,Molossidae,Eumops,bonariensis,Eumops bonariensis,Eumops_bonariensis,0,1,0,0,11.9,Invert,0.0119,Invert
+Chiroptera,Molossidae,Eumops,dabbenei,Eumops dabbenei,Eumops_dabbenei,0,1,0,0,104.4,Invert,0.1044,Invert
+Chiroptera,Molossidae,Eumops,glaucinus,Eumops glaucinus,Eumops_glaucinus,0,1,0,0,35.4,Invert,0.0354,Invert
+Chiroptera,Molossidae,Eumops,hansae,Eumops hansae,Eumops_hansae,0,1,0,0,15.1,Invert,0.0151,Invert
+Chiroptera,Molossidae,Eumops,perotis,Eumops perotis,Eumops_perotis,0,1,0,0,51.1,Invert,0.0511,Invert
+Chiroptera,Molossidae,Eumops,underwoodi,Eumops underwoodi,Eumops_underwoodi,0,1,0,0,54.7,Invert,0.0547,Invert
+Chiroptera,Molossidae,Molossops,mattogrossensis,Molossops mattogrossensis,Molossops_mattogrossensis,0,1,0,0,6.8,Invert,0.0068,Invert
+Chiroptera,Molossidae,Molossops,temminckii,Molossops temminckii,Molossops_temminckii,0,1,0,0,5.9,Invert,0.0059,Invert
+Chiroptera,Molossidae,Molossus,currentium,Molossus currentium,Molossus_currentium,0,1,0,0,17.8,Invert,0.0178,Invert
+Chiroptera,Molossidae,Molossus,molossus,Molossus molossus,Molossus_molossus,0,1,0,0,13.6,Invert,0.0136,Invert
+Chiroptera,Molossidae,Molossus,pretiosus,Molossus pretiosus,Molossus_pretiosus,0,1,0,0,27,Invert,0.027,Invert
+Chiroptera,Molossidae,Molossus,rufus,Molossus rufus,Molossus_rufus,0,1,0,0,31.7,Invert,0.0317,Invert
+Chiroptera,Molossidae,Molossus,sinaloae,Molossus sinaloae,Molossus_sinaloae,0,1,0,0,22.6,Invert,0.0226,Invert
+Chiroptera,Molossidae,Mormopterus,beccarii,Mormopterus beccarii,Mormopterus_beccarii,0,1,0,0,14.9,Invert,0.0149,Invert
+Chiroptera,Molossidae,Mormopterus,planiceps,Mormopterus planiceps,Mormopterus_planiceps,0,1,0,0,8.8,Invert,0.0088,Invert
+Chiroptera,Molossidae,Nyctinomops,femorosaccus,Nyctinomops femorosaccus,Nyctinomops_femorosaccus,0,1,0,0,14.6,Invert,0.0146,Invert
+Chiroptera,Molossidae,Nyctinomops,laticaudatus,Nyctinomops laticaudatus,Nyctinomops_laticaudatus,0,1,0,0,12.2,Invert,0.0122,Invert
+Chiroptera,Molossidae,Nyctinomops,macrotis,Nyctinomops macrotis,Nyctinomops_macrotis,0,1,0,0,18.4,Invert,0.0184,Invert
+Chiroptera,Molossidae,Otomops,papuensis,Otomops papuensis,Otomops_papuensis,0,1,0,0,16.5,Invert,0.0165,Invert
+Chiroptera,Molossidae,Promops,centralis,Promops centralis,Promops_centralis,0,1,0,0,26.4,Invert,0.0264,Invert
+Chiroptera,Molossidae,Promops,nasutus,Promops nasutus,Promops_nasutus,0,1,0,0,15.2,Invert,0.0152,Invert
+Chiroptera,Molossidae,Sauromys,petrophilus,Sauromys petrophilus,Sauromys_petrophilus,0,1,0,0,13.9,Invert,0.0139,Invert
+Chiroptera,Molossidae,Tadarida,australis,Tadarida australis,Tadarida_australis,0,1,0,0,31.8,Invert,0.0318,Invert
+Chiroptera,Molossidae,Tadarida,brasiliensis,Tadarida brasiliensis,Tadarida_brasiliensis,0,1,0,0,12.5,Invert,0.0125,Invert
+Chiroptera,Molossidae,Tadarida,teniotis,Tadarida teniotis,Tadarida_teniotis,0,1,0,0,27,Invert,0.027,Invert
+Chiroptera,Mormoopidae,Mormoops,blainvillei,Mormoops blainvillei,Mormoops_blainvillei,0,1,0,0,8.6,Invert,0.0086,Invert
+Chiroptera,Mormoopidae,Mormoops,megalophylla,Mormoops megalophylla,Mormoops_megalophylla,0,1,0,0,16,Invert,0.016,Invert
+Chiroptera,Mormoopidae,Pteronotus,davyi,Pteronotus davyi,Pteronotus_davyi,0,1,0,0,9.2,Invert,0.0092,Invert
+Chiroptera,Mormoopidae,Pteronotus,parnellii,Pteronotus parnellii,Pteronotus_parnellii,0,1,0,0,19.7,Invert,0.0197,Invert
+Chiroptera,Mormoopidae,Pteronotus,quadridens,Pteronotus quadridens,Pteronotus_quadridens,0,1,0,0,5.2,Invert,0.0052,Invert
+Chiroptera,Natalidae,Natalus,stramineus,Natalus stramineus,Natalus_stramineus,0,1,0,0,5.5,Invert,0.0055,Invert
+Chiroptera,Nycteridae,Nycteris,macrotis,Nycteris macrotis,Nycteris_macrotis,0,1,0,0,14.5,Invert,0.0145,Invert
+Chiroptera,Nycteridae,Nycteris,thebaica,Nycteris thebaica,Nycteris_thebaica,0,1,0,0,9.8,Invert,0.0098,Invert
+Chiroptera,Nycteridae,Nycteris,woodi,Nycteris woodi,Nycteris_woodi,0,1,0,0,7.6,Invert,0.0076,Invert
+Chiroptera,Phyllostomidae,Anoura,geoffroyi,Anoura geoffroyi,Anoura_geoffroyi,0,1,0,0,14.7,Invert,0.0147,Invert
+Chiroptera,Phyllostomidae,Lonchorhina,aurita,Lonchorhina aurita,Lonchorhina_aurita,0,1,0,0,15.7,Invert,0.0157,Invert
+Chiroptera,Phyllostomidae,Lonchorhina,marinkellei,Lonchorhina marinkellei,Lonchorhina_marinkellei,0,1,0,0,17,Invert,0.017,Invert
+Chiroptera,Phyllostomidae,Lophostoma,carrikeri,Lophostoma carrikeri,Lophostoma_carrikeri,0,1,0,0,20.9,Invert,0.0209,Invert
+Chiroptera,Phyllostomidae,Lophostoma,evotis,Lophostoma evotis,Lophostoma_evotis,0,1,0,0,19.8,Invert,0.0198,Invert
+Chiroptera,Phyllostomidae,Macrophyllum,macrophyllum,Macrophyllum macrophyllum,Macrophyllum_macrophyllum,0,1,0,0,8.1,Invert,0.0081,Invert
+Chiroptera,Phyllostomidae,Micronycteris,schmidtorum,Micronycteris schmidtorum,Micronycteris_schmidtorum,0,1,0,0,7.5,Invert,0.0075,Invert
+Chiroptera,Phyllostomidae,Phyllostomus,elongatus,Phyllostomus elongatus,Phyllostomus_elongatus,0,1,0,0,40.4,Invert,0.0404,Invert
+Chiroptera,Pteropodidae,Paranyctimene,raptor,Paranyctimene raptor,Paranyctimene_raptor,0,1,0,0,24.3,Invert,0.0243,Invert
+Chiroptera,Rhinolophidae,Rhinolophus,arcuatus,Rhinolophus arcuatus,Rhinolophus_arcuatus,0,1,0,0,8.8,Invert,0.0088,Invert
+Chiroptera,Rhinolophidae,Rhinolophus,blasii,Rhinolophus blasii,Rhinolophus_blasii,0,1,0,0,9.7,Invert,0.0097,Invert
+Chiroptera,Rhinolophidae,Rhinolophus,ferrumequinum,Rhinolophus ferrumequinum,Rhinolophus_ferrumequinum,0,1,0,0,21.1,Invert,0.0211,Invert
+Chiroptera,Rhinolophidae,Rhinolophus,hipposideros,Rhinolophus hipposideros,Rhinolophus_hipposideros,0,1,0,0,4.7,Invert,0.0047,Invert
+Chiroptera,Rhinolophidae,Rhinolophus,megaphyllus,Rhinolophus megaphyllus,Rhinolophus_megaphyllus,0,1,0,0,10.1,Invert,0.0101,Invert
+Chiroptera,Rhinolophidae,Rhinolophus,mehelyi,Rhinolophus mehelyi,Rhinolophus_mehelyi,0,1,0,0,12.3,Invert,0.0123,Invert
+Chiroptera,Rhinolophidae,Rhinolophus,philippinensis,Rhinolophus philippinensis,Rhinolophus_philippinensis,0,1,0,0,10.7,Invert,0.0107,Invert
+Chiroptera,Rhinolophidae,Rhinolophus,simulator,Rhinolophus simulator,Rhinolophus_simulator,0,1,0,0,8.1,Invert,0.0081,Invert
+Chiroptera,Rhinolophidae,Rhinolophus,swinnyi,Rhinolophus swinnyi,Rhinolophus_swinnyi,0,1,0,0,7.1,Invert,0.0071,Invert
+Chiroptera,Rhinopomatidae,Rhinopoma,hardwickii,Rhinopoma hardwickii,Rhinopoma_hardwickii,0,1,0,0,14.2,Invert,0.0142,Invert
+Chiroptera,Rhinopomatidae,Rhinopoma,microphyllum,Rhinopoma microphyllum,Rhinopoma_microphyllum,0,1,0,0,27.9,Invert,0.0279,Invert
+Chiroptera,Rhinopomatidae,Rhinopoma,muscatellum,Rhinopoma muscatellum,Rhinopoma_muscatellum,0,1,0,0,9.1,Invert,0.0091,Invert
+Chiroptera,Vespertilionidae,Antrozous,pallidus,Antrozous pallidus,Antrozous_pallidus,0,1,0,0,20.8,Invert,0.0208,Invert
+Chiroptera,Vespertilionidae,Barbastella,barbastellus,Barbastella barbastellus,Barbastella_barbastellus,0,1,0,0,8,Invert,0.008,Invert
+Chiroptera,Vespertilionidae,Bauerus,dubiaquercus,Bauerus dubiaquercus,Bauerus_dubiaquercus,0,1,0,0,22.9,Invert,0.0229,Invert
+Chiroptera,Vespertilionidae,Chalinolobus,nigrogriseus,Chalinolobus nigrogriseus,Chalinolobus_nigrogriseus,0,1,0,0,8.8,Invert,0.0088,Invert
+Chiroptera,Vespertilionidae,Corynorhinus,rafinesquii,Corynorhinus rafinesquii,Corynorhinus_rafinesquii,0,1,0,0,9.1,Invert,0.0091,Invert
+Chiroptera,Vespertilionidae,Corynorhinus,townsendii,Corynorhinus townsendii,Corynorhinus_townsendii,0,1,0,0,9.9,Invert,0.0099,Invert
+Chiroptera,Vespertilionidae,Eptesicus,brasiliensis,Eptesicus brasiliensis,Eptesicus_brasiliensis,0,1,0,0,9.5,Invert,0.0095,Invert
+Chiroptera,Vespertilionidae,Eptesicus,diminutus,Eptesicus diminutus,Eptesicus_diminutus,0,1,0,0,6,Invert,0.006,Invert
+Chiroptera,Vespertilionidae,Eptesicus,furinalis,Eptesicus furinalis,Eptesicus_furinalis,0,1,0,0,7.7,Invert,0.0077,Invert
+Chiroptera,Vespertilionidae,Eptesicus,fuscus,Eptesicus fuscus,Eptesicus_fuscus,0,1,0,0,16.5,Invert,0.0165,Invert
+Chiroptera,Vespertilionidae,Eptesicus,nilssonii,Eptesicus nilssonii,Eptesicus_nilssonii,0,1,0,0,10.4,Invert,0.0104,Invert
+Chiroptera,Vespertilionidae,Eptesicus,serotinus,Eptesicus serotinus,Eptesicus_serotinus,0,1,0,0,22.9,Invert,0.0229,Invert
+Chiroptera,Vespertilionidae,Euderma,maculatum,Euderma maculatum,Euderma_maculatum,0,1,0,0,15.7,Invert,0.0157,Invert
+Chiroptera,Vespertilionidae,Histiotus,macrotus,Histiotus macrotus,Histiotus_macrotus,0,1,0,0,11,Invert,0.011,Invert
+Chiroptera,Vespertilionidae,Idionycteris,phyllotis,Idionycteris phyllotis,Idionycteris_phyllotis,0,1,0,0,12,Invert,0.012,Invert
+Chiroptera,Vespertilionidae,Laephotis,wintoni,Laephotis wintoni,Laephotis_wintoni,0,1,0,0,6,Invert,0.006,Invert
+Chiroptera,Vespertilionidae,Lasionycteris,noctivagans,Lasionycteris noctivagans,Lasionycteris_noctivagans,0,1,0,0,10.5,Invert,0.0105,Invert
+Chiroptera,Vespertilionidae,Lasiurus,borealis,Lasiurus borealis,Lasiurus_borealis,0,1,0,0,10.7,Invert,0.0107,Invert
+Chiroptera,Vespertilionidae,Lasiurus,cinereus,Lasiurus cinereus,Lasiurus_cinereus,0,1,0,0,25.3,Invert,0.0253,Invert
+Chiroptera,Vespertilionidae,Lasiurus,ega,Lasiurus ega,Lasiurus_ega,0,1,0,0,13.2,Invert,0.0132,Invert
+Chiroptera,Vespertilionidae,Lasiurus,intermedius,Lasiurus intermedius,Lasiurus_intermedius,0,1,0,0,23,Invert,0.023,Invert
+Chiroptera,Vespertilionidae,Lasiurus,seminolus,Lasiurus seminolus,Lasiurus_seminolus,0,1,0,0,9.9,Invert,0.0099,Invert
+Chiroptera,Vespertilionidae,Mimetillus,moloneyi,Mimetillus moloneyi,Mimetillus_moloneyi,0,1,0,0,8.8,Invert,0.0088,Invert
+Chiroptera,Vespertilionidae,Miniopterus,australis,Miniopterus australis,Miniopterus_australis,0,1,0,0,7.3,Invert,0.0073,Invert
+Chiroptera,Vespertilionidae,Miniopterus,fuscus,Miniopterus fuscus,Miniopterus_fuscus,0,1,0,0,10.7,Invert,0.0107,Invert
+Chiroptera,Vespertilionidae,Miniopterus,magnater,Miniopterus magnater,Miniopterus_magnater,0,1,0,0,14.1,Invert,0.0141,Invert
+Chiroptera,Vespertilionidae,Miniopterus,pusillus,Miniopterus pusillus,Miniopterus_pusillus,0,1,0,0,8.6,Invert,0.0086,Invert
+Chiroptera,Vespertilionidae,Miniopterus,schreibersii,Miniopterus schreibersii,Miniopterus_schreibersii,0,1,0,0,11.5,Invert,0.0115,Invert
+Chiroptera,Vespertilionidae,Miniopterus,tristis,Miniopterus tristis,Miniopterus_tristis,0,1,0,0,15.8,Invert,0.0158,Invert
+Chiroptera,Vespertilionidae,Murina,florium,Murina florium,Murina_florium,0,1,0,0,4.3,Invert,0.0043,Invert
+Chiroptera,Vespertilionidae,Myotis,albescens,Myotis albescens,Myotis_albescens,0,1,0,0,5.3,Invert,0.0053,Invert
+Chiroptera,Vespertilionidae,Myotis,auriculus,Myotis auriculus,Myotis_auriculus,0,1,0,0,37,Invert,0.037,Invert
+Chiroptera,Vespertilionidae,Myotis,bechsteinii,Myotis bechsteinii,Myotis_bechsteinii,0,1,0,0,8.5,Invert,0.0085,Invert
+Chiroptera,Vespertilionidae,Myotis,blythii,Myotis blythii,Myotis_blythii,0,1,0,0,22.5,Invert,0.0225,Invert
+Chiroptera,Vespertilionidae,Myotis,californicus,Myotis californicus,Myotis_californicus,0,1,0,0,4.6,Invert,0.0046,Invert
+Chiroptera,Vespertilionidae,Myotis,capaccinii,Myotis capaccinii,Myotis_capaccinii,0,1,0,0,7.4,Invert,0.0074,Invert
+Chiroptera,Vespertilionidae,Myotis,daubentonii,Myotis daubentonii,Myotis_daubentonii,0,1,0,0,7.4,Invert,0.0074,Invert
+Chiroptera,Vespertilionidae,Myotis,emarginatus,Myotis emarginatus,Myotis_emarginatus,0,1,0,0,7.7,Invert,0.0077,Invert
+Chiroptera,Vespertilionidae,Myotis,evotis,Myotis evotis,Myotis_evotis,0,1,0,0,6.7,Invert,0.0067,Invert
+Chiroptera,Vespertilionidae,Myotis,grisescens,Myotis grisescens,Myotis_grisescens,0,1,0,0,10.5,Invert,0.0105,Invert
+Chiroptera,Vespertilionidae,Myotis,keenii,Myotis keenii,Myotis_keenii,0,1,0,0,6.3,Invert,0.0063,Invert
+Chiroptera,Vespertilionidae,Myotis,leibii,Myotis leibii,Myotis_leibii,0,1,0,0,5.1,Invert,0.0051,Invert
+Chiroptera,Vespertilionidae,Myotis,lucifugus,Myotis lucifugus,Myotis_lucifugus,0,1,0,0,7.6,Invert,0.0076,Invert
+Chiroptera,Vespertilionidae,Myotis,myotis,Myotis myotis,Myotis_myotis,0,1,0,0,24.8,Invert,0.0248,Invert
+Chiroptera,Vespertilionidae,Myotis,mystacinus,Myotis mystacinus,Myotis_mystacinus,0,1,0,0,5,Invert,0.005,Invert
+Chiroptera,Vespertilionidae,Myotis,nattereri,Myotis nattereri,Myotis_nattereri,0,1,0,0,7.1,Invert,0.0071,Invert
+Chiroptera,Vespertilionidae,Myotis,nigricans,Myotis nigricans,Myotis_nigricans,0,1,0,0,4.2,Invert,0.0042,Invert
+Chiroptera,Vespertilionidae,Myotis,ruber,Myotis ruber,Myotis_ruber,0,1,0,0,5,Invert,0.005,Invert
+Chiroptera,Vespertilionidae,Myotis,simus,Myotis simus,Myotis_simus,0,1,0,0,10,Invert,0.01,Invert
+Chiroptera,Vespertilionidae,Myotis,sodalis,Myotis sodalis,Myotis_sodalis,0,1,0,0,6.9,Invert,0.0069,Invert
+Chiroptera,Vespertilionidae,Myotis,thysanodes,Myotis thysanodes,Myotis_thysanodes,0,1,0,0,8.1,Invert,0.0081,Invert
+Chiroptera,Vespertilionidae,Myotis,velifer,Myotis velifer,Myotis_velifer,0,1,0,0,10.1,Invert,0.0101,Invert
+Chiroptera,Vespertilionidae,Myotis,volans,Myotis volans,Myotis_volans,0,1,0,0,8.5,Invert,0.0085,Invert
+Chiroptera,Vespertilionidae,Nyctalus,leisleri,Nyctalus leisleri,Nyctalus_leisleri,0,1,0,0,13.3,Invert,0.0133,Invert
+Chiroptera,Vespertilionidae,Nyctalus,noctula,Nyctalus noctula,Nyctalus_noctula,0,1,0,0,28,Invert,0.028,Invert
+Chiroptera,Vespertilionidae,Nyctophilus,gouldi,Nyctophilus gouldi,Nyctophilus_gouldi,0,1,0,0,10,Invert,0.01,Invert
+Chiroptera,Vespertilionidae,Nyctophilus,timoriensis,Nyctophilus timoriensis,Nyctophilus_timoriensis,0,1,0,0,11.7,Invert,0.0117,Invert
+Chiroptera,Vespertilionidae,Otonycteris,hemprichii,Otonycteris hemprichii,Otonycteris_hemprichii,0,1,0,0,23.8,Invert,0.0238,Invert
+Chiroptera,Vespertilionidae,Philetor,brachypterus,Philetor brachypterus,Philetor_brachypterus,0,1,0,0,11.6,Invert,0.0116,Invert
+Chiroptera,Vespertilionidae,Phoniscus,papuensis,Phoniscus papuensis,Phoniscus_papuensis,0,1,0,0,6.2,Invert,0.0062,Invert
+Chiroptera,Vespertilionidae,Pipistrellus,coromandra,Pipistrellus coromandra,Pipistrellus_coromandra,0,1,0,0,4.6,Invert,0.0046,Invert
+Chiroptera,Vespertilionidae,Pipistrellus,kuhlii,Pipistrellus kuhlii,Pipistrellus_kuhlii,0,1,0,0,5.9,Invert,0.0059,Invert
+Chiroptera,Vespertilionidae,Pipistrellus,nathusii,Pipistrellus nathusii,Pipistrellus_nathusii,0,1,0,0,7.3,Invert,0.0073,Invert
+Chiroptera,Vespertilionidae,Pipistrellus,subflavus,Pipistrellus subflavus,Pipistrellus_subflavus,0,1,0,0,5.8,Invert,0.0058,Invert
+Chiroptera,Vespertilionidae,Plecotus,auritus,Plecotus auritus,Plecotus_auritus,0,1,0,0,7.8,Invert,0.0078,Invert
+Chiroptera,Vespertilionidae,Plecotus,austriacus,Plecotus austriacus,Plecotus_austriacus,0,1,0,0,7.3,Invert,0.0073,Invert
+Chiroptera,Vespertilionidae,Rhogeessa,genowaysi,Rhogeessa genowaysi,Rhogeessa_genowaysi,0,1,0,0,5,Invert,0.005,Invert
+Chiroptera,Vespertilionidae,Scoteanax,rueppellii,Scoteanax rueppellii,Scoteanax_rueppellii,0,1,0,0,26.5,Invert,0.0265,Invert
+Chiroptera,Vespertilionidae,Scotophilus,leucogaster,Scotophilus leucogaster,Scotophilus_leucogaster,0,1,0,0,20.2,Invert,0.0202,Invert
+Chiroptera,Vespertilionidae,Scotorepens,sanborni,Scotorepens sanborni,Scotorepens_sanborni,0,1,0,0,8,Invert,0.008,Invert
+Chiroptera,Vespertilionidae,Vespertilio,murinus,Vespertilio murinus,Vespertilio_murinus,0,1,0,0,18.7,Invert,0.0187,Invert
+Cingulata,Dasypodidae,Dasypus,sabanicola,Dasypus sabanicola,Dasypus_sabanicola,0,1,0,0,1150,Invert,1.15,Invert
+Cingulata,Dasypodidae,Tolypeutes,matacus,Tolypeutes matacus,Tolypeutes_matacus,0,1,0,0,1200,Invert,1.2,Invert
+Dasyuromorphia,Dasyuridae,Antechinomys,laniger,Antechinomys laniger,Antechinomys_laniger,0,1,0,0,25,Invert,0.025,Invert
+Dasyuromorphia,Dasyuridae,Antechinus,bellus,Antechinus bellus,Antechinus_bellus,0,1,0,0,44.5,Invert,0.0445,Invert
+Dasyuromorphia,Dasyuridae,Antechinus,leo,Antechinus leo,Antechinus_leo,0,1,0,0,74,Invert,0.074,Invert
+Dasyuromorphia,Dasyuridae,Antechinus,minimus,Antechinus minimus,Antechinus_minimus,0,1,0,0,53.5,Invert,0.0535,Invert
+Dasyuromorphia,Dasyuridae,Dasycercus,cristicauda,Dasycercus cristicauda,Dasycercus_cristicauda,0,1,0,0,100,Invert,0.1,Invert
+Dasyuromorphia,Dasyuridae,Ningaui,ridei,Ningaui ridei,Ningaui_ridei,0,1,0,0,8.5,Invert,0.0085,Invert
+Dasyuromorphia,Dasyuridae,Ningaui,timealeyi,Ningaui timealeyi,Ningaui_timealeyi,0,1,0,0,5.7,Invert,0.0057,Invert
+Dasyuromorphia,Dasyuridae,Planigale,tenuirostris,Planigale tenuirostris,Planigale_tenuirostris,0,1,0,0,6.1,Invert,0.0061,Invert
+Dasyuromorphia,Dasyuridae,Pseudantechinus,macdonnellensis,Pseudantechinus macdonnellensis,Pseudantechinus_macdonnellensis,0,1,0,0,32.5,Invert,0.0325,Invert
+Dasyuromorphia,Dasyuridae,Sminthopsis,crassicaudata,Sminthopsis crassicaudata,Sminthopsis_crassicaudata,0,1,0,0,15,Invert,0.015,Invert
+Dasyuromorphia,Dasyuridae,Sminthopsis,gilberti,Sminthopsis gilberti,Sminthopsis_gilberti,0,1,0,0,19.5,Invert,0.0195,Invert
+Dasyuromorphia,Dasyuridae,Sminthopsis,granulipes,Sminthopsis granulipes,Sminthopsis_granulipes,0,1,0,0,25,Invert,0.025,Invert
+Dasyuromorphia,Dasyuridae,Sminthopsis,griseoventer,Sminthopsis griseoventer,Sminthopsis_griseoventer,0,1,0,0,17.5,Invert,0.0175,Invert
+Dasyuromorphia,Dasyuridae,Sminthopsis,leucopus,Sminthopsis leucopus,Sminthopsis_leucopus,0,1,0,0,26,Invert,0.026,Invert
+Dasyuromorphia,Dasyuridae,Sminthopsis,longicaudata,Sminthopsis longicaudata,Sminthopsis_longicaudata,0,1,0,0,18,Invert,0.018,Invert
+Dasyuromorphia,Dasyuridae,Sminthopsis,macroura,Sminthopsis macroura,Sminthopsis_macroura,0,1,0,0,20,Invert,0.02,Invert
+Dasyuromorphia,Dasyuridae,Sminthopsis,murina,Sminthopsis murina,Sminthopsis_murina,0,1,0,0,17,Invert,0.017,Invert
+Dasyuromorphia,Dasyuridae,Sminthopsis,ooldea,Sminthopsis ooldea,Sminthopsis_ooldea,0,1,0,0,11,Invert,0.011,Invert
+Dasyuromorphia,Dasyuridae,Sminthopsis,psammophila,Sminthopsis psammophila,Sminthopsis_psammophila,0,1,0,0,33.5,Invert,0.0335,Invert
+Dasyuromorphia,Myrmecobiidae,Myrmecobius,fasciatus,Myrmecobius fasciatus,Myrmecobius_fasciatus,0,1,0,0,471.5,Invert,0.4715,Invert
+Erinaceomorpha,Erinaceidae,Erinaceus,concolor,Erinaceus concolor,Erinaceus_concolor,0,1,0,0,719,Invert,0.719,Invert
+Erinaceomorpha,Erinaceidae,Paraechinus,hypomelas,Paraechinus hypomelas,Paraechinus_hypomelas,0,1,0,0,213,Invert,0.213,Invert
+Erinaceomorpha,Erinaceidae,Podogymnura,truei,Podogymnura truei,Podogymnura_truei,0,1,0,0,114,Invert,0.114,Invert
+Macroscelidea,Macroscelididae,Elephantulus,rufescens,Elephantulus rufescens,Elephantulus_rufescens,0,1,0,0,37.5,Invert,0.0375,Invert
+Macroscelidea,Macroscelididae,Petrodromus,tetradactylus,Petrodromus tetradactylus,Petrodromus_tetradactylus,0,1,0,0,187.5,Invert,0.1875,Invert
+Macroscelidea,Macroscelididae,Rhynchocyon,chrysopygus,Rhynchocyon chrysopygus,Rhynchocyon_chrysopygus,0,1,0,0,540,Invert,0.54,Invert
+Macroscelidea,Macroscelididae,Rhynchocyon,cirnei,Rhynchocyon cirnei,Rhynchocyon_cirnei,0,1,0,0,490,Invert,0.49,Invert
+Monotremata,Ornithorhynchidae,Ornithorhynchus,anatinus,Ornithorhynchus anatinus,Ornithorhynchus_anatinus,0,1,0,0,1484.3,Invert,1.4843,Invert
+Monotremata,Tachyglossidae,Tachyglossus,aculeatus,Tachyglossus aculeatus,Tachyglossus_aculeatus,0,1,0,0,3025,Invert,3.025,Invert
+Notoryctemorphia,Notoryctidae,Notoryctes,typhlops,Notoryctes typhlops,Notoryctes_typhlops,0,1,0,0,55,Invert,0.055,Invert
+Pholidota,Manidae,Manis,crassicaudata,Manis crassicaudata,Manis_crassicaudata,0,1,0,0,13014.7,Invert,13.0147,Invert
+Pholidota,Manidae,Manis,pentadactyla,Manis pentadactyla,Manis_pentadactyla,0,1,0,0,4675,Invert,4.675,Invert
+Pilosa,Cyclopedidae,Cyclopes,didactylus,Cyclopes didactylus,Cyclopes_didactylus,0,1,0,0,329.5,Invert,0.3295,Invert
+Pilosa,Myrmecophagidae,Myrmecophaga,tridactyla,Myrmecophaga tridactyla,Myrmecophaga_tridactyla,0,1,0,0,22333.2,Invert,22.3332,Invert
+Pilosa,Myrmecophagidae,Tamandua,mexicana,Tamandua mexicana,Tamandua_mexicana,0,1,0,0,4210,Invert,4.21,Invert
+Pilosa,Myrmecophagidae,Tamandua,tetradactyla,Tamandua tetradactyla,Tamandua_tetradactyla,0,1,0,0,5515.1,Invert,5.5151,Invert
+Rodentia,Cricetidae,Anotomys,leander,Anotomys leander,Anotomys_leander,0,1,0,0,66.4,Invert,0.0664,Invert
+Rodentia,Cricetidae,Chibchanomys,trichotis,Chibchanomys trichotis,Chibchanomys_trichotis,0,1,0,0,50,Invert,0.05,Invert
+Rodentia,Cricetidae,Deltamys,kempi,Deltamys kempi,Deltamys_kempi,0,1,0,0,26.4,Invert,0.0264,Invert
+Rodentia,Cricetidae,Ichthyomys,hydrobates,Ichthyomys hydrobates,Ichthyomys_hydrobates,0,1,0,0,66.4,Invert,0.0664,Invert
+Rodentia,Cricetidae,Ichthyomys,pittieri,Ichthyomys pittieri,Ichthyomys_pittieri,0,1,0,0,69.1,Invert,0.0691,Invert
+Rodentia,Cricetidae,Ichthyomys,tweedii,Ichthyomys tweedii,Ichthyomys_tweedii,0,1,0,0,118.5,Invert,0.1185,Invert
+Rodentia,Cricetidae,Neusticomys,monticolus,Neusticomys monticolus,Neusticomys_monticolus,0,1,0,0,39.5,Invert,0.0395,Invert
+Rodentia,Cricetidae,Neusticomys,venezuelae,Neusticomys venezuelae,Neusticomys_venezuelae,0,1,0,0,47.1,Invert,0.0471,Invert
+Rodentia,Cricetidae,Rheomys,raptor,Rheomys raptor,Rheomys_raptor,0,1,0,0,38,Invert,0.038,Invert
+Rodentia,Cricetidae,Scotinomys,xerampelinus,Scotinomys xerampelinus,Scotinomys_xerampelinus,0,1,0,0,15,Invert,0.015,Invert
+Rodentia,Muridae,Archboldomys,luzonensis,Archboldomys luzonensis,Archboldomys_luzonensis,0,1,0,0,35.4,Invert,0.0354,Invert
+Rodentia,Muridae,Chrotomys,gonzalesi,Chrotomys gonzalesi,Chrotomys_gonzalesi,0,1,0,0,140.2,Invert,0.1402,Invert
+Rodentia,Muridae,Colomys,goslingi,Colomys goslingi,Colomys_goslingi,0,1,0,0,62.5,Invert,0.0625,Invert
+Rodentia,Muridae,Lophuromys,sikapusi,Lophuromys sikapusi,Lophuromys_sikapusi,0,1,0,0,79.6,Invert,0.0796,Invert
+Rodentia,Muridae,Maxomys,alticola,Maxomys alticola,Maxomys_alticola,0,1,0,0,111,Invert,0.111,Invert
+Rodentia,Muridae,Maxomys,whiteheadi,Maxomys whiteheadi,Maxomys_whiteheadi,0,1,0,0,56,Invert,0.056,Invert
+Rodentia,Muridae,Rhynchomys,isarogensis,Rhynchomys isarogensis,Rhynchomys_isarogensis,0,1,0,0,122.5,Invert,0.1225,Invert
+Rodentia,Sciuridae,Rhinosciurus,laticaudatus,Rhinosciurus laticaudatus,Rhinosciurus_laticaudatus,0,1,0,0,221,Invert,0.221,Invert
+Scandentia,Tupaiidae,Dendrogale,melanura,Dendrogale melanura,Dendrogale_melanura,0,1,0,0,60,Invert,0.06,Invert
+Soricomorpha,Soricidae,Crocidura,cyanea,Crocidura cyanea,Crocidura_cyanea,0,1,0,0,9.1,Invert,0.0091,Invert
+Soricomorpha,Soricidae,Crocidura,dsinezumi,Crocidura dsinezumi,Crocidura_dsinezumi,0,1,0,0,9.315,Invert,0.009315,Invert
+Soricomorpha,Soricidae,Crocidura,flavescens,Crocidura flavescens,Crocidura_flavescens,0,1,0,0,28.5,Invert,0.0285,Invert
+Soricomorpha,Soricidae,Crocidura,fumosa,Crocidura fumosa,Crocidura_fumosa,0,1,0,0,14.5,Invert,0.0145,Invert
+Soricomorpha,Soricidae,Crocidura,grayi,Crocidura grayi,Crocidura_grayi,0,1,0,0,10.3,Invert,0.0103,Invert
+Soricomorpha,Soricidae,Crocidura,mariquensis,Crocidura mariquensis,Crocidura_mariquensis,0,1,0,0,10.3,Invert,0.0103,Invert
+Soricomorpha,Soricidae,Crocidura,suaveolens,Crocidura suaveolens,Crocidura_suaveolens,0,1,0,0,5,Invert,0.005,Invert
+Soricomorpha,Soricidae,Myosorex,varius,Myosorex varius,Myosorex_varius,0,1,0,0,11.4,Invert,0.0114,Invert
+Soricomorpha,Soricidae,Neomys,anomalus,Neomys anomalus,Neomys_anomalus,0,1,0,0,16,Invert,0.016,Invert
+Soricomorpha,Soricidae,Sorex,alpinus,Sorex alpinus,Sorex_alpinus,0,1,0,0,7.8,Invert,0.0078,Invert
+Soricomorpha,Soricidae,Sorex,araneus,Sorex araneus,Sorex_araneus,0,1,0,0,10,Invert,0.01,Invert
+Soricomorpha,Soricidae,Sorex,arcticus,Sorex arcticus,Sorex_arcticus,0,1,0,0,8.2,Invert,0.0082,Invert
+Soricomorpha,Soricidae,Sorex,bendirii,Sorex bendirii,Sorex_bendirii,0,1,0,0,16.1,Invert,0.0161,Invert
+Soricomorpha,Soricidae,Sorex,caecutiens,Sorex caecutiens,Sorex_caecutiens,0,1,0,0,5.4,Invert,0.0054,Invert
+Soricomorpha,Soricidae,Sorex,dispar,Sorex dispar,Sorex_dispar,0,1,0,0,5,Invert,0.005,Invert
+Soricomorpha,Soricidae,Sorex,fumeus,Sorex fumeus,Sorex_fumeus,0,1,0,0,7.7,Invert,0.0077,Invert
+Soricomorpha,Soricidae,Sorex,isodon,Sorex isodon,Sorex_isodon,0,1,0,0,10.5,Invert,0.0105,Invert
+Soricomorpha,Soricidae,Sorex,merriami,Sorex merriami,Sorex_merriami,0,1,0,0,5.9,Invert,0.0059,Invert
+Soricomorpha,Soricidae,Sorex,minutissimus,Sorex minutissimus,Sorex_minutissimus,0,1,0,0,2.55,Invert,0.00255,Invert
+Soricomorpha,Soricidae,Sorex,minutus,Sorex minutus,Sorex_minutus,0,1,0,0,4.5,Invert,0.0045,Invert
+Soricomorpha,Soricidae,Sorex,ornatus,Sorex ornatus,Sorex_ornatus,0,1,0,0,5,Invert,0.005,Invert
+Soricomorpha,Soricidae,Surdisorex,norae,Surdisorex norae,Surdisorex_norae,0,1,0,0,9,Invert,0.009,Invert
+Soricomorpha,Soricidae,Surdisorex,polulus,Surdisorex polulus,Surdisorex_polulus,0,1,0,0,9,Invert,0.009,Invert
+Soricomorpha,Talpidae,Condylura,cristata,Condylura cristata,Condylura_cristata,0,1,0,0,84,Invert,0.084,Invert
+Soricomorpha,Talpidae,Galemys,pyrenaicus,Galemys pyrenaicus,Galemys_pyrenaicus,0,1,0,0,60.2,Invert,0.0602,Invert
+Soricomorpha,Talpidae,Parascalops,breweri,Parascalops breweri,Parascalops_breweri,0,1,0,0,51,Invert,0.051,Invert
+Soricomorpha,Talpidae,Scalopus,aquaticus,Scalopus aquaticus,Scalopus_aquaticus,0,1,0,0,91.3,Invert,0.0913,Invert
+Soricomorpha,Talpidae,Scapanus,latimanus,Scapanus latimanus,Scapanus_latimanus,0,1,0,0,55,Invert,0.055,Invert
+Soricomorpha,Talpidae,Scapanus,orarius,Scapanus orarius,Scapanus_orarius,0,1,0,0,61.2,Invert,0.0612,Invert
+Soricomorpha,Talpidae,Talpa,europaea,Talpa europaea,Talpa_europaea,0,1,0,0,77,Invert,0.077,Invert
+Soricomorpha,Talpidae,Talpa,romana,Talpa romana,Talpa_romana,0,1,0,0,92.5,Invert,0.0925,Invert
+Soricomorpha,Talpidae,Urotrichus,talpoides,Urotrichus talpoides,Urotrichus_talpoides,0,1,0,0,45,Invert,0.045,Invert
+Carnivora,Canidae,Vulpes,cana,Vulpes cana,Vulpes_cana,0,1,0,1,1000,Invert/Nonfibrous,1,Invert Omnivore
+Carnivora,Mustelidae,Martes,flavigula,Martes flavigula,Martes_flavigula,0,1,0,1,2504.64,Invert/Nonfibrous,2.50464,Invert Omnivore
+Carnivora,Procyonidae,Procyon,pygmaeus,Procyon pygmaeus,Procyon_pygmaeus,0,1,1,1,2500,Invert/Nonfibrous/Fibrous,2.5,Invert Omnivore
+Carnivora,Ursidae,Melursus,ursinus,Melursus ursinus,Melursus_ursinus,0,1,0,1,93130,Invert/Nonfibrous,93.13,Invert Omnivore
+Chiroptera,Mystacinidae,Mystacina,tuberculata,Mystacina tuberculata,Mystacina_tuberculata,0,1,1,1,12.6,Invert/Nonfibrous/Fibrous,0.0126,Invert Omnivore
+Chiroptera,Noctilionidae,Noctilio,albiventris,Noctilio albiventris,Noctilio_albiventris,0,1,0,1,30.8,Invert/Nonfibrous,0.0308,Invert Omnivore
+Chiroptera,Phyllostomidae,Anoura,cultrata,Anoura cultrata,Anoura_cultrata,0,1,0,1,16.9,Invert/Nonfibrous,0.0169,Invert Omnivore
+Chiroptera,Phyllostomidae,Brachyphylla,cavernarum,Brachyphylla cavernarum,Brachyphylla_cavernarum,0,1,0,1,46.2,Invert/Nonfibrous,0.0462,Invert Omnivore
+Chiroptera,Phyllostomidae,Brachyphylla,nana,Brachyphylla nana,Brachyphylla_nana,0,1,0,1,35.8,Invert/Nonfibrous,0.0358,Invert Omnivore
+Chiroptera,Phyllostomidae,Carollia,perspicillata,Carollia perspicillata,Carollia_perspicillata,0,1,0,1,18.9,Invert/Nonfibrous,0.0189,Invert Omnivore
+Chiroptera,Phyllostomidae,Erophylla,sezekorni,Erophylla sezekorni,Erophylla_sezekorni,0,1,0,1,15.8,Invert/Nonfibrous,0.0158,Invert Omnivore
+Chiroptera,Phyllostomidae,Glossophaga,commissarisi,Glossophaga commissarisi,Glossophaga_commissarisi,0,1,0,1,8.9,Invert/Nonfibrous,0.0089,Invert Omnivore
+Chiroptera,Phyllostomidae,Glossophaga,soricina,Glossophaga soricina,Glossophaga_soricina,0,1,0,1,10,Invert/Nonfibrous,0.01,Invert Omnivore
+Chiroptera,Phyllostomidae,Lampronycteris,brachyotis,Lampronycteris brachyotis,Lampronycteris_brachyotis,0,1,0,1,10.5,Invert/Nonfibrous,0.0105,Invert Omnivore
+Chiroptera,Phyllostomidae,Leptonycteris,nivalis,Leptonycteris nivalis,Leptonycteris_nivalis,0,1,0,1,25.6,Invert/Nonfibrous,0.0256,Invert Omnivore
+Chiroptera,Phyllostomidae,Lophostoma,silvicolum,Lophostoma silvicolum,Lophostoma_silvicolum,0,1,0,1,29.7,Invert/Nonfibrous,0.0297,Invert Omnivore
+Chiroptera,Phyllostomidae,Micronycteris,megalotis,Micronycteris megalotis,Micronycteris_megalotis,0,1,0,1,6.3,Invert/Nonfibrous,0.0063,Invert Omnivore
+Chiroptera,Phyllostomidae,Micronycteris,minuta,Micronycteris minuta,Micronycteris_minuta,0,1,0,1,6.5,Invert/Nonfibrous,0.0065,Invert Omnivore
+Chiroptera,Phyllostomidae,Mimon,bennettii,Mimon bennettii,Mimon_bennettii,0,1,0,1,25,Invert/Nonfibrous,0.025,Invert Omnivore
+Chiroptera,Phyllostomidae,Monophyllus,redmani,Monophyllus redmani,Monophyllus_redmani,0,1,0,1,8.7,Invert/Nonfibrous,0.0087,Invert Omnivore
+Chiroptera,Phyllostomidae,Phylloderma,stenops,Phylloderma stenops,Phylloderma_stenops,0,1,0,1,53.7,Invert/Nonfibrous,0.0537,Invert Omnivore
+Chiroptera,Phyllostomidae,Phyllostomus,discolor,Phyllostomus discolor,Phyllostomus_discolor,0,1,0,1,37.2,Invert/Nonfibrous,0.0372,Invert Omnivore
+Chiroptera,Phyllostomidae,Phyllostomus,hastatus,Phyllostomus hastatus,Phyllostomus_hastatus,0,1,0,1,92.5,Invert/Nonfibrous,0.0925,Invert Omnivore
+Chiroptera,Phyllostomidae,Platyrrhinus,helleri,Platyrrhinus helleri,Platyrrhinus_helleri,0,1,0,1,13.5,Invert/Nonfibrous,0.0135,Invert Omnivore
+Chiroptera,Phyllostomidae,Sturnira,lilium,Sturnira lilium,Sturnira_lilium,0,1,0,1,19.1,Invert/Nonfibrous,0.0191,Invert Omnivore
+Chiroptera,Phyllostomidae,Trinycteris,nicefori,Trinycteris nicefori,Trinycteris_nicefori,0,1,0,1,8.2,Invert/Nonfibrous,0.0082,Invert Omnivore
+Chiroptera,Pteropodidae,Epomophorus,wahlbergi,Epomophorus wahlbergi,Epomophorus_wahlbergi,0,1,0,1,91.6,Invert/Nonfibrous,0.0916,Invert Omnivore
+Chiroptera,Pteropodidae,Macroglossus,minimus,Macroglossus minimus,Macroglossus_minimus,0,1,0,1,15.9,Invert/Nonfibrous,0.0159,Invert Omnivore
+Chiroptera,Pteropodidae,Nyctimene,albiventer,Nyctimene albiventer,Nyctimene_albiventer,0,1,0,1,29.9,Invert/Nonfibrous,0.0299,Invert Omnivore
+Chiroptera,Pteropodidae,Pteropus,dasymallus,Pteropus dasymallus,Pteropus_dasymallus,0,1,1,1,435,Invert/Nonfibrous/Fibrous,0.435,Invert Omnivore
+Cingulata,Dasypodidae,Priodontes,maximus,Priodontes maximus,Priodontes_maximus,0,1,1,1,45359.7,Invert/Nonfibrous/Fibrous,45.3597,Invert Omnivore
+Dasyuromorphia,Dasyuridae,Antechinus,stuartii,Antechinus stuartii,Antechinus_stuartii,0,1,0,1,27.5,Invert/Nonfibrous,0.0275,Invert Omnivore
+Dasyuromorphia,Dasyuridae,Antechinus,swainsonii,Antechinus swainsonii,Antechinus_swainsonii,0,1,0,1,53,Invert/Nonfibrous,0.053,Invert Omnivore
+Didelphimorphia,Didelphidae,Caluromys,derbianus,Caluromys derbianus,Caluromys_derbianus,0,1,0,1,297,Invert/Nonfibrous,0.297,Invert Omnivore
+Didelphimorphia,Didelphidae,Didelphis,marsupialis,Didelphis marsupialis,Didelphis_marsupialis,0,1,0,1,1091.2,Invert/Nonfibrous,1.0912,Invert Omnivore
+Didelphimorphia,Didelphidae,Marmosa,murina,Marmosa murina,Marmosa_murina,0,1,0,1,26,Invert/Nonfibrous,0.026,Invert Omnivore
+Didelphimorphia,Didelphidae,Micoureus,demerarae,Micoureus demerarae,Micoureus_demerarae,0,1,0,1,75.8,Invert/Nonfibrous,0.0758,Invert Omnivore
+Didelphimorphia,Didelphidae,Thylamys,elegans,Thylamys elegans,Thylamys_elegans,0,1,0,1,28.9,Invert/Nonfibrous,0.0289,Invert Omnivore
+Didelphimorphia,Didelphidae,Thylamys,pusillus,Thylamys pusillus,Thylamys_pusillus,0,1,1,1,41,Invert/Nonfibrous/Fibrous,0.041,Invert Omnivore
+Diprotodontia,Acrobatidae,Acrobates,pygmaeus,Acrobates pygmaeus,Acrobates_pygmaeus,0,1,0,1,12,Invert/Nonfibrous,0.012,Invert Omnivore
+Diprotodontia,Burramyidae,Burramys,parvus,Burramys parvus,Burramys_parvus,0,1,0,1,41.5,Invert/Nonfibrous,0.0415,Invert Omnivore
+Diprotodontia,Burramyidae,Cercartetus,caudatus,Cercartetus caudatus,Cercartetus_caudatus,0,1,0,1,25,Invert/Nonfibrous,0.025,Invert Omnivore
+Diprotodontia,Burramyidae,Cercartetus,lepidus,Cercartetus lepidus,Cercartetus_lepidus,0,1,0,1,7,Invert/Nonfibrous,0.007,Invert Omnivore
+Diprotodontia,Burramyidae,Cercartetus,nanus,Cercartetus nanus,Cercartetus_nanus,0,1,0,1,24,Invert/Nonfibrous,0.024,Invert Omnivore
+Diprotodontia,Hypsiprymnodontidae,Hypsiprymnodon,moschatus,Hypsiprymnodon moschatus,Hypsiprymnodon_moschatus,0,1,0,1,520,Invert/Nonfibrous,0.52,Invert Omnivore
+Diprotodontia,Petauridae,Gymnobelideus,leadbeateri,Gymnobelideus leadbeateri,Gymnobelideus_leadbeateri,0,1,0,1,127,Invert/Nonfibrous,0.127,Invert Omnivore
+Diprotodontia,Petauridae,Petaurus,australis,Petaurus australis,Petaurus_australis,0,1,0,1,575,Invert/Nonfibrous,0.575,Invert Omnivore
+Diprotodontia,Petauridae,Petaurus,norfolcensis,Petaurus norfolcensis,Petaurus_norfolcensis,0,1,0,1,230,Invert/Nonfibrous,0.23,Invert Omnivore
+Diprotodontia,Potoroidae,Bettongia,gaimardi,Bettongia gaimardi,Bettongia_gaimardi,0,1,1,1,1660,Invert/Nonfibrous/Fibrous,1.66,Invert Omnivore
+Diprotodontia,Potoroidae,Potorous,longipes,Potorous longipes,Potorous_longipes,0,1,1,1,1900,Invert/Nonfibrous/Fibrous,1.9,Invert Omnivore
+Diprotodontia,Potoroidae,Potorous,tridactylus,Potorous tridactylus,Potorous_tridactylus,0,1,0,1,1100,Invert/Nonfibrous,1.1,Invert Omnivore
+Erinaceomorpha,Erinaceidae,Erinaceus,europaeus,Erinaceus europaeus,Erinaceus_europaeus,0,1,1,1,771,Invert/Nonfibrous/Fibrous,0.771,Invert Omnivore
+Erinaceomorpha,Erinaceidae,Hemiechinus,auritus,Hemiechinus auritus,Hemiechinus_auritus,0,1,0,1,342,Invert/Nonfibrous,0.342,Invert Omnivore
+Erinaceomorpha,Erinaceidae,Hylomys,suillus,Hylomys suillus,Hylomys_suillus,0,1,0,1,64,Invert/Nonfibrous,0.064,Invert Omnivore
+Macroscelidea,Macroscelididae,Elephantulus,brachyrhynchus,Elephantulus brachyrhynchus,Elephantulus_brachyrhynchus,0,1,1,1,47.5,Invert/Nonfibrous/Fibrous,0.0475,Invert Omnivore
+Macroscelidea,Macroscelididae,Elephantulus,myurus,Elephantulus myurus,Elephantulus_myurus,0,1,1,1,52.4,Invert/Nonfibrous/Fibrous,0.0524,Invert Omnivore
+Macroscelidea,Macroscelididae,Macroscelides,proboscideus,Macroscelides proboscideus,Macroscelides_proboscideus,0,1,1,0,38.2,Invert/Fibrous,0.0382,Invert Omnivore
+Paucituberculata,Caenolestidae,Rhyncholestes,raphanurus,Rhyncholestes raphanurus,Rhyncholestes_raphanurus,0,1,0,1,21,Invert/Nonfibrous,0.021,Invert Omnivore
+Peramelemorphia,Peramelidae,Perameles,bougainville,Perameles bougainville,Perameles_bougainville,0,1,0,1,226,Invert/Nonfibrous,0.226,Invert Omnivore
+Peramelemorphia,Peramelidae,Perameles,gunnii,Perameles gunnii,Perameles_gunnii,0,1,0,1,870,Invert/Nonfibrous,0.87,Invert Omnivore
+Peramelemorphia,Peramelidae,Perameles,nasuta,Perameles nasuta,Perameles_nasuta,0,1,0,1,975,Invert/Nonfibrous,0.975,Invert Omnivore
+Peramelemorphia,Thylacomyidae,Macrotis,lagotis,Macrotis lagotis,Macrotis_lagotis,0,1,0,1,1350,Invert/Nonfibrous,1.35,Invert Omnivore
+Primates,Aotidae,Aotus,trivirgatus,Aotus trivirgatus,Aotus_trivirgatus,0,1,1,1,900,Invert/Nonfibrous/Fibrous,0.9,Invert Omnivore
+Primates,Atelidae,Lagothrix,lagotricha,Lagothrix lagotricha,Lagothrix_lagotricha,0,1,1,1,6300,Invert/Nonfibrous/Fibrous,6.3,Invert Omnivore
+Primates,Cebidae,Callimico,goeldii,Callimico goeldii,Callimico_goeldii,0,1,0,1,480,Invert/Nonfibrous,0.48,Invert Omnivore
+Primates,Cebidae,Callithrix,kuhlii,Callithrix kuhlii,Callithrix_kuhlii,0,1,0,1,342,Invert/Nonfibrous,0.342,Invert Omnivore
+Primates,Cebidae,Cebus,albifrons,Cebus albifrons,Cebus_albifrons,0,1,0,1,2629,Invert/Nonfibrous,2.629,Invert Omnivore
+Primates,Cebidae,Cebus,apella,Cebus apella,Cebus_apella,0,1,1,1,2500,Invert/Nonfibrous/Fibrous,2.5,Invert Omnivore
+Primates,Cebidae,Cebus,olivaceus,Cebus olivaceus,Cebus_olivaceus,0,1,0,1,2600,Invert/Nonfibrous,2.6,Invert Omnivore
+Primates,Cebidae,Saguinus,fuscicollis,Saguinus fuscicollis,Saguinus_fuscicollis,0,1,0,1,387,Invert/Nonfibrous,0.387,Invert Omnivore
+Primates,Cebidae,Saguinus,geoffroyi,Saguinus geoffroyi,Saguinus_geoffroyi,0,1,1,1,486.5,Invert/Nonfibrous/Fibrous,0.4865,Invert Omnivore
+Primates,Cebidae,Saguinus,imperator,Saguinus imperator,Saguinus_imperator,0,1,0,1,400,Invert/Nonfibrous,0.4,Invert Omnivore
+Primates,Cebidae,Saguinus,midas,Saguinus midas,Saguinus_midas,0,1,0,1,540,Invert/Nonfibrous,0.54,Invert Omnivore
+Primates,Cebidae,Saguinus,mystax,Saguinus mystax,Saguinus_mystax,0,1,0,1,618,Invert/Nonfibrous,0.618,Invert Omnivore
+Primates,Cebidae,Saguinus,tripartitus,Saguinus tripartitus,Saguinus_tripartitus,0,1,0,1,393.5,Invert/Nonfibrous,0.3935,Invert Omnivore
+Primates,Cebidae,Saimiri,oerstedii,Saimiri oerstedii,Saimiri_oerstedii,0,1,1,1,278.5,Invert/Nonfibrous/Fibrous,0.2785,Invert Omnivore
+Primates,Cebidae,Saimiri,sciureus,Saimiri sciureus,Saimiri_sciureus,0,1,0,1,743.2,Invert/Nonfibrous,0.7432,Invert Omnivore
+Primates,Cebidae,Saimiri,vanzolinii,Saimiri vanzolinii,Saimiri_vanzolinii,0,1,0,1,769.6,Invert/Nonfibrous,0.7696,Invert Omnivore
+Primates,Cercopithecidae,Allenopithecus,nigroviridis,Allenopithecus nigroviridis,Allenopithecus_nigroviridis,0,1,0,1,4750,Invert/Nonfibrous,4.75,Invert Omnivore
+Primates,Cercopithecidae,Cercocebus,agilis,Cercocebus agilis,Cercocebus_agilis,0,1,1,1,8000,Invert/Nonfibrous/Fibrous,8,Invert Omnivore
+Primates,Cercopithecidae,Cercopithecus,ascanius,Cercopithecus ascanius,Cercopithecus_ascanius,0,1,1,1,3550,Invert/Nonfibrous/Fibrous,3.55,Invert Omnivore
+Primates,Cercopithecidae,Cercopithecus,campbelli,Cercopithecus campbelli,Cercopithecus_campbelli,0,1,1,1,4100,Invert/Nonfibrous/Fibrous,4.1,Invert Omnivore
+Primates,Cercopithecidae,Cercopithecus,mitis,Cercopithecus mitis,Cercopithecus_mitis,0,1,1,1,5000,Invert/Nonfibrous/Fibrous,5,Invert Omnivore
+Primates,Cercopithecidae,Cercopithecus,mona,Cercopithecus mona,Cercopithecus_mona,0,1,1,1,4625,Invert/Nonfibrous/Fibrous,4.625,Invert Omnivore
+Primates,Cercopithecidae,Cercopithecus,neglectus,Cercopithecus neglectus,Cercopithecus_neglectus,0,1,1,1,5480,Invert/Nonfibrous/Fibrous,5.48,Invert Omnivore
+Primates,Cercopithecidae,Cercopithecus,nictitans,Cercopithecus nictitans,Cercopithecus_nictitans,0,1,1,1,5410,Invert/Nonfibrous/Fibrous,5.41,Invert Omnivore
+Primates,Cercopithecidae,Chlorocebus,aethiops,Chlorocebus aethiops,Chlorocebus_aethiops,0,1,1,1,4155,Invert/Nonfibrous/Fibrous,4.155,Invert Omnivore
+Primates,Cercopithecidae,Erythrocebus,patas,Erythrocebus patas,Erythrocebus_patas,0,1,0,1,7269.9,Invert/Nonfibrous,7.2699,Invert Omnivore
+Primates,Cercopithecidae,Macaca,cyclopis,Macaca cyclopis,Macaca_cyclopis,0,1,1,1,6000,Invert/Nonfibrous/Fibrous,6,Invert Omnivore
+Primates,Cercopithecidae,Macaca,fuscata,Macaca fuscata,Macaca_fuscata,0,1,1,1,10400,Invert/Nonfibrous/Fibrous,10.4,Invert Omnivore
+Primates,Cercopithecidae,Macaca,maura,Macaca maura,Macaca_maura,0,1,0,1,7300,Invert/Nonfibrous,7.3,Invert Omnivore
+Primates,Cercopithecidae,Macaca,mulatta,Macaca mulatta,Macaca_mulatta,0,1,1,1,3713,Invert/Nonfibrous/Fibrous,3.713,Invert Omnivore
+Primates,Cercopithecidae,Macaca,nemestrina,Macaca nemestrina,Macaca_nemestrina,0,1,1,1,6296.5,Invert/Nonfibrous/Fibrous,6.2965,Invert Omnivore
+Primates,Cercopithecidae,Macaca,radiata,Macaca radiata,Macaca_radiata,0,1,0,1,3690,Invert/Nonfibrous,3.69,Invert Omnivore
+Primates,Cercopithecidae,Macaca,silenus,Macaca silenus,Macaca_silenus,0,1,0,1,4750,Invert/Nonfibrous,4.75,Invert Omnivore
+Primates,Cercopithecidae,Macaca,sylvanus,Macaca sylvanus,Macaca_sylvanus,0,1,1,1,7000,Invert/Nonfibrous/Fibrous,7,Invert Omnivore
+Primates,Cercopithecidae,Mandrillus,leucophaeus,Mandrillus leucophaeus,Mandrillus_leucophaeus,0,1,0,1,15000,Invert/Nonfibrous,15,Invert Omnivore
+Primates,Cercopithecidae,Mandrillus,sphinx,Mandrillus sphinx,Mandrillus_sphinx,0,1,1,1,18249.9,Invert/Nonfibrous/Fibrous,18.2499,Invert Omnivore
+Primates,Cercopithecidae,Theropithecus,gelada,Theropithecus gelada,Theropithecus_gelada,0,1,1,1,17049.8,Invert/Nonfibrous/Fibrous,17.0498,Invert Omnivore
+Primates,Cheirogaleidae,Cheirogaleus,major,Cheirogaleus major,Cheirogaleus_major,0,1,0,1,450,Invert/Nonfibrous,0.45,Invert Omnivore
+Primates,Cheirogaleidae,Cheirogaleus,medius,Cheirogaleus medius,Cheirogaleus_medius,0,1,0,1,181,Invert/Nonfibrous,0.181,Invert Omnivore
+Primates,Cheirogaleidae,Microcebus,murinus,Microcebus murinus,Microcebus_murinus,0,1,0,1,69,Invert/Nonfibrous,0.069,Invert Omnivore
+Primates,Cheirogaleidae,Mirza,coquereli,Mirza coquereli,Mirza_coquereli,0,1,1,1,308,Invert/Nonfibrous/Fibrous,0.308,Invert Omnivore
+Primates,Cheirogaleidae,Phaner,furcifer,Phaner furcifer,Phaner_furcifer,0,1,1,1,400,Invert/Nonfibrous/Fibrous,0.4,Invert Omnivore
+Primates,Daubentoniidae,Daubentonia,madagascariensis,Daubentonia madagascariensis,Daubentonia_madagascariensis,0,1,0,1,2500,Invert/Nonfibrous,2.5,Invert Omnivore
+Primates,Galagidae,Euoticus,elegantulus,Euoticus elegantulus,Euoticus_elegantulus,0,1,1,1,300,Invert/Nonfibrous/Fibrous,0.3,Invert Omnivore
+Primates,Galagidae,Galago,moholi,Galago moholi,Galago_moholi,0,1,0,1,160,Invert/Nonfibrous,0.16,Invert Omnivore
+Primates,Galagidae,Galago,senegalensis,Galago senegalensis,Galago_senegalensis,0,1,0,1,153,Invert/Nonfibrous,0.153,Invert Omnivore
+Primates,Galagidae,Otolemur,crassicaudatus,Otolemur crassicaudatus,Otolemur_crassicaudatus,0,1,0,1,1500,Invert/Nonfibrous,1.5,Invert Omnivore
+Primates,Galagidae,Otolemur,garnettii,Otolemur garnettii,Otolemur_garnettii,0,1,0,1,760,Invert/Nonfibrous,0.76,Invert Omnivore
+Primates,Hylobatidae,Hylobates,lar,Hylobates lar,Hylobates_lar,0,1,0,1,4892,Invert/Nonfibrous,4.892,Invert Omnivore
+Primates,Hylobatidae,Symphalangus,syndactylus,Symphalangus syndactylus,Symphalangus_syndactylus,0,1,1,1,10000,Invert/Nonfibrous/Fibrous,10,Invert Omnivore
+Primates,Lorisidae,Arctocebus,calabarensis,Arctocebus calabarensis,Arctocebus_calabarensis,0,1,1,1,210,Invert/Nonfibrous/Fibrous,0.21,Invert Omnivore
+Primates,Pitheciidae,Cacajao,calvus,Cacajao calvus,Cacajao_calvus,0,1,0,1,5796,Invert/Nonfibrous,5.796,Invert Omnivore
+Primates,Pitheciidae,Callicebus,cupreus,Callicebus cupreus,Callicebus_cupreus,0,1,1,1,915,Invert/Nonfibrous/Fibrous,0.915,Invert Omnivore
+Primates,Pitheciidae,Callicebus,torquatus,Callicebus torquatus,Callicebus_torquatus,0,1,1,1,1050,Invert/Nonfibrous/Fibrous,1.05,Invert Omnivore
+Rodentia,Anomaluridae,Anomalurus,derbianus,Anomalurus derbianus,Anomalurus_derbianus,0,1,1,1,650,Invert/Nonfibrous/Fibrous,0.65,Invert Omnivore
+Rodentia,Bathyergidae,Cryptomys,zechi,Cryptomys zechi,Cryptomys_zechi,0,1,0,1,192.5,Invert/Nonfibrous,0.1925,Invert Omnivore
+Rodentia,Cricetidae,Abrothrix,olivaceus,Abrothrix olivaceus,Abrothrix_olivaceus,0,1,1,1,21.3,Invert/Nonfibrous/Fibrous,0.0213,Invert Omnivore
+Rodentia,Cricetidae,Akodon,cursor,Akodon cursor,Akodon_cursor,0,1,0,1,39.9,Invert/Nonfibrous,0.0399,Invert Omnivore
+Rodentia,Cricetidae,Baiomys,taylori,Baiomys taylori,Baiomys_taylori,0,1,1,1,8,Invert/Nonfibrous/Fibrous,0.008,Invert Omnivore
+Rodentia,Cricetidae,Cricetulus,barabensis,Cricetulus barabensis,Cricetulus_barabensis,0,1,1,1,31.4,Invert/Nonfibrous/Fibrous,0.0314,Invert Omnivore
+Rodentia,Cricetidae,Cricetulus,migratorius,Cricetulus migratorius,Cricetulus_migratorius,0,1,1,1,30.8,Invert/Nonfibrous/Fibrous,0.0308,Invert Omnivore
+Rodentia,Cricetidae,Cricetus,cricetus,Cricetus cricetus,Cricetus_cricetus,0,1,1,1,510,Invert/Nonfibrous/Fibrous,0.51,Invert Omnivore
+Rodentia,Cricetidae,Delomys,dorsalis,Delomys dorsalis,Delomys_dorsalis,0,1,0,1,67.5,Invert/Nonfibrous,0.0675,Invert Omnivore
+Rodentia,Cricetidae,Lophiomys,imhausi,Lophiomys imhausi,Lophiomys_imhausi,0,1,1,1,755,Invert/Nonfibrous/Fibrous,0.755,Invert Omnivore
+Rodentia,Cricetidae,Melanomys,caliginosus,Melanomys caliginosus,Melanomys_caliginosus,0,1,0,1,41,Invert/Nonfibrous,0.041,Invert Omnivore
+Rodentia,Cricetidae,Microtus,ochrogaster,Microtus ochrogaster,Microtus_ochrogaster,0,1,1,1,38,Invert/Nonfibrous/Fibrous,0.038,Invert Omnivore
+Rodentia,Cricetidae,Microtus,pennsylvanicus,Microtus pennsylvanicus,Microtus_pennsylvanicus,0,1,1,1,36.8,Invert/Nonfibrous/Fibrous,0.0368,Invert Omnivore
+Rodentia,Cricetidae,Microtus,richardsoni,Microtus richardsoni,Microtus_richardsoni,0,1,1,1,85,Invert/Nonfibrous/Fibrous,0.085,Invert Omnivore
+Rodentia,Cricetidae,Myodes,gapperi,Myodes gapperi,Myodes_gapperi,0,1,1,1,19,Invert/Nonfibrous/Fibrous,0.019,Invert Omnivore
+Rodentia,Cricetidae,Neacomys,guianae,Neacomys guianae,Neacomys_guianae,0,1,1,1,14.2,Invert/Nonfibrous/Fibrous,0.0142,Invert Omnivore
+Rodentia,Cricetidae,Nyctomys,sumichrasti,Nyctomys sumichrasti,Nyctomys_sumichrasti,0,1,1,1,60,Invert/Nonfibrous/Fibrous,0.06,Invert Omnivore
+Rodentia,Cricetidae,Ochrotomys,nuttalli,Ochrotomys nuttalli,Ochrotomys_nuttalli,0,1,0,1,22.4,Invert/Nonfibrous,0.0224,Invert Omnivore
+Rodentia,Cricetidae,Oecomys,trinitatis,Oecomys trinitatis,Oecomys_trinitatis,0,1,0,1,73.4,Invert/Nonfibrous,0.0734,Invert Omnivore
+Rodentia,Cricetidae,Oligoryzomys,flavescens,Oligoryzomys flavescens,Oligoryzomys_flavescens,0,1,1,0,21.3,Invert/Fibrous,0.0213,Invert Omnivore
+Rodentia,Cricetidae,Oligoryzomys,nigripes,Oligoryzomys nigripes,Oligoryzomys_nigripes,0,1,0,1,20.5,Invert/Nonfibrous,0.0205,Invert Omnivore
+Rodentia,Cricetidae,Oryzomys,couesi,Oryzomys couesi,Oryzomys_couesi,0,1,1,1,69.3,Invert/Nonfibrous/Fibrous,0.0693,Invert Omnivore
+Rodentia,Cricetidae,Peromyscus,attwateri,Peromyscus attwateri,Peromyscus_attwateri,0,1,1,1,27.9,Invert/Nonfibrous/Fibrous,0.0279,Invert Omnivore
+Rodentia,Cricetidae,Peromyscus,aztecus,Peromyscus aztecus,Peromyscus_aztecus,0,1,1,1,40,Invert/Nonfibrous/Fibrous,0.04,Invert Omnivore
+Rodentia,Cricetidae,Peromyscus,boylii,Peromyscus boylii,Peromyscus_boylii,0,1,0,1,21.4,Invert/Nonfibrous,0.0214,Invert Omnivore
+Rodentia,Cricetidae,Peromyscus,californicus,Peromyscus californicus,Peromyscus_californicus,0,1,1,1,43.5,Invert/Nonfibrous/Fibrous,0.0435,Invert Omnivore
+Rodentia,Cricetidae,Peromyscus,crinitus,Peromyscus crinitus,Peromyscus_crinitus,0,1,1,1,18,Invert/Nonfibrous/Fibrous,0.018,Invert Omnivore
+Rodentia,Cricetidae,Peromyscus,eremicus,Peromyscus eremicus,Peromyscus_eremicus,0,1,1,1,23.6,Invert/Nonfibrous/Fibrous,0.0236,Invert Omnivore
+Rodentia,Cricetidae,Peromyscus,leucopus,Peromyscus leucopus,Peromyscus_leucopus,0,1,1,1,21.2,Invert/Nonfibrous/Fibrous,0.0212,Invert Omnivore
+Rodentia,Cricetidae,Peromyscus,levipes,Peromyscus levipes,Peromyscus_levipes,0,1,0,1,29,Invert/Nonfibrous,0.029,Invert Omnivore
+Rodentia,Cricetidae,Peromyscus,maniculatus,Peromyscus maniculatus,Peromyscus_maniculatus,0,1,1,1,21.3,Invert/Nonfibrous/Fibrous,0.0213,Invert Omnivore
+Rodentia,Cricetidae,Peromyscus,melanotis,Peromyscus melanotis,Peromyscus_melanotis,0,1,0,1,39.6,Invert/Nonfibrous,0.0396,Invert Omnivore
+Rodentia,Cricetidae,Peromyscus,mexicanus,Peromyscus mexicanus,Peromyscus_mexicanus,0,1,1,1,32.6,Invert/Nonfibrous/Fibrous,0.0326,Invert Omnivore
+Rodentia,Cricetidae,Peromyscus,polionotus,Peromyscus polionotus,Peromyscus_polionotus,0,1,0,1,13,Invert/Nonfibrous,0.013,Invert Omnivore
+Rodentia,Cricetidae,Phodopus,roborovskii,Phodopus roborovskii,Phodopus_roborovskii,0,1,0,1,18.1,Invert/Nonfibrous,0.0181,Invert Omnivore
+Rodentia,Cricetidae,Phodopus,sungorus,Phodopus sungorus,Phodopus_sungorus,0,1,0,1,23.4,Invert/Nonfibrous,0.0234,Invert Omnivore
+Rodentia,Cricetidae,Phyllotis,xanthopygus,Phyllotis xanthopygus,Phyllotis_xanthopygus,0,1,1,1,56.3,Invert/Nonfibrous/Fibrous,0.0563,Invert Omnivore
+Rodentia,Cricetidae,Podomys,floridanus,Podomys floridanus,Podomys_floridanus,0,1,1,1,30.8,Invert/Nonfibrous/Fibrous,0.0308,Invert Omnivore
+Rodentia,Cricetidae,Reithrodontomys,fulvescens,Reithrodontomys fulvescens,Reithrodontomys_fulvescens,0,1,1,1,11.4,Invert/Nonfibrous/Fibrous,0.0114,Invert Omnivore
+Rodentia,Cricetidae,Reithrodontomys,gracilis,Reithrodontomys gracilis,Reithrodontomys_gracilis,0,1,0,1,12.3,Invert/Nonfibrous,0.0123,Invert Omnivore
+Rodentia,Cricetidae,Reithrodontomys,humulis,Reithrodontomys humulis,Reithrodontomys_humulis,0,1,1,1,8.3,Invert/Nonfibrous/Fibrous,0.0083,Invert Omnivore
+Rodentia,Cricetidae,Reithrodontomys,megalotis,Reithrodontomys megalotis,Reithrodontomys_megalotis,0,1,1,1,9.4,Invert/Nonfibrous/Fibrous,0.0094,Invert Omnivore
+Rodentia,Cricetidae,Reithrodontomys,montanus,Reithrodontomys montanus,Reithrodontomys_montanus,0,1,0,1,10.9,Invert/Nonfibrous,0.0109,Invert Omnivore
+Rodentia,Cricetidae,Scapteromys,tumidus,Scapteromys tumidus,Scapteromys_tumidus,0,1,0,1,146,Invert/Nonfibrous,0.146,Invert Omnivore
+Rodentia,Cricetidae,Scotinomys,teguina,Scotinomys teguina,Scotinomys_teguina,0,1,0,1,11.2,Invert/Nonfibrous,0.0112,Invert Omnivore
+Rodentia,Cricetidae,Sigmodon,hispidus,Sigmodon hispidus,Sigmodon_hispidus,0,1,1,0,92.4,Invert/Fibrous,0.0924,Invert Omnivore
+Rodentia,Dipodidae,Allactaga,elater,Allactaga elater,Allactaga_elater,0,1,1,1,59,Invert/Nonfibrous/Fibrous,0.059,Invert Omnivore
+Rodentia,Dipodidae,Allactaga,euphratica,Allactaga euphratica,Allactaga_euphratica,0,1,1,1,232,Invert/Nonfibrous/Fibrous,0.232,Invert Omnivore
+Rodentia,Dipodidae,Napaeozapus,insignis,Napaeozapus insignis,Napaeozapus_insignis,0,1,1,1,22.3,Invert/Nonfibrous/Fibrous,0.0223,Invert Omnivore
+Rodentia,Dipodidae,Sicista,betulina,Sicista betulina,Sicista_betulina,0,1,0,1,8,Invert/Nonfibrous,0.008,Invert Omnivore
+Rodentia,Dipodidae,Zapus,hudsonius,Zapus hudsonius,Zapus_hudsonius,0,1,0,1,17.1,Invert/Nonfibrous,0.0171,Invert Omnivore
+Rodentia,Dipodidae,Zapus,princeps,Zapus princeps,Zapus_princeps,0,1,0,1,29,Invert/Nonfibrous,0.029,Invert Omnivore
+Rodentia,Dipodidae,Zapus,trinotatus,Zapus trinotatus,Zapus_trinotatus,0,1,0,1,27.5,Invert/Nonfibrous,0.0275,Invert Omnivore
+Rodentia,Echimyidae,Hoplomys,gymnurus,Hoplomys gymnurus,Hoplomys_gymnurus,0,1,1,1,240,Invert/Nonfibrous/Fibrous,0.24,Invert Omnivore
+Rodentia,Echimyidae,Mesomys,hispidus,Mesomys hispidus,Mesomys_hispidus,0,1,1,1,175,Invert/Nonfibrous/Fibrous,0.175,Invert Omnivore
+Rodentia,Echimyidae,Proechimys,semispinosus,Proechimys semispinosus,Proechimys_semispinosus,0,1,1,1,360.5,Invert/Nonfibrous/Fibrous,0.3605,Invert Omnivore
+Rodentia,Gliridae,Eliomys,melanurus,Eliomys melanurus,Eliomys_melanurus,0,1,0,1,122.5,Invert/Nonfibrous,0.1225,Invert Omnivore
+Rodentia,Heteromyidae,Chaetodipus,baileyi,Chaetodipus baileyi,Chaetodipus_baileyi,0,1,1,1,26.3,Invert/Nonfibrous/Fibrous,0.0263,Invert Omnivore
+Rodentia,Heteromyidae,Chaetodipus,hispidus,Chaetodipus hispidus,Chaetodipus_hispidus,0,1,0,1,32,Invert/Nonfibrous,0.032,Invert Omnivore
+Rodentia,Heteromyidae,Chaetodipus,nelsoni,Chaetodipus nelsoni,Chaetodipus_nelsoni,0,1,1,1,15.7,Invert/Nonfibrous/Fibrous,0.0157,Invert Omnivore
+Rodentia,Heteromyidae,Chaetodipus,penicillatus,Chaetodipus penicillatus,Chaetodipus_penicillatus,0,1,0,1,15,Invert/Nonfibrous,0.015,Invert Omnivore
+Rodentia,Heteromyidae,Dipodomys,ingens,Dipodomys ingens,Dipodomys_ingens,0,1,1,1,133.9,Invert/Nonfibrous/Fibrous,0.1339,Invert Omnivore
+Rodentia,Heteromyidae,Liomys,adspersus,Liomys adspersus,Liomys_adspersus,0,1,1,1,65,Invert/Nonfibrous/Fibrous,0.065,Invert Omnivore
+Rodentia,Heteromyidae,Liomys,pictus,Liomys pictus,Liomys_pictus,0,1,1,1,40,Invert/Nonfibrous/Fibrous,0.04,Invert Omnivore
+Rodentia,Heteromyidae,Liomys,salvini,Liomys salvini,Liomys_salvini,0,1,0,1,42,Invert/Nonfibrous,0.042,Invert Omnivore
+Rodentia,Heteromyidae,Microdipodops,megacephalus,Microdipodops megacephalus,Microdipodops_megacephalus,0,1,0,1,10.5,Invert/Nonfibrous,0.0105,Invert Omnivore
+Rodentia,Heteromyidae,Microdipodops,pallidus,Microdipodops pallidus,Microdipodops_pallidus,0,1,0,1,12.5,Invert/Nonfibrous,0.0125,Invert Omnivore
+Rodentia,Heteromyidae,Perognathus,merriami,Perognathus merriami,Perognathus_merriami,0,1,1,1,6.8,Invert/Nonfibrous/Fibrous,0.0068,Invert Omnivore
+Rodentia,Heteromyidae,Perognathus,parvus,Perognathus parvus,Perognathus_parvus,0,1,0,1,21.8,Invert/Nonfibrous,0.0218,Invert Omnivore
+Rodentia,Muridae,Acomys,cahirinus,Acomys cahirinus,Acomys_cahirinus,0,1,1,0,52.5,Invert/Fibrous,0.0525,Invert Omnivore
+Rodentia,Muridae,Aethomys,chrysophilus,Aethomys chrysophilus,Aethomys_chrysophilus,0,1,1,1,72.4,Invert/Nonfibrous/Fibrous,0.0724,Invert Omnivore
+Rodentia,Muridae,Apodemus,sylvaticus,Apodemus sylvaticus,Apodemus_sylvaticus,0,1,0,1,30.45,Invert/Nonfibrous,0.03045,Invert Omnivore
+Rodentia,Muridae,Apomys,musculus,Apomys musculus,Apomys_musculus,0,1,1,1,21.2,Invert/Nonfibrous/Fibrous,0.0212,Invert Omnivore
+Rodentia,Muridae,Arvicanthis,niloticus,Arvicanthis niloticus,Arvicanthis_niloticus,0,1,1,1,138.8,Invert/Nonfibrous/Fibrous,0.1388,Invert Omnivore
+Rodentia,Muridae,Deomys,ferrugineus,Deomys ferrugineus,Deomys_ferrugineus,0,1,0,1,62,Invert/Nonfibrous,0.062,Invert Omnivore
+Rodentia,Muridae,Gerbilliscus,leucogaster,Gerbilliscus leucogaster,Gerbilliscus_leucogaster,0,1,1,1,69.9,Invert/Nonfibrous/Fibrous,0.0699,Invert Omnivore
+Rodentia,Muridae,Gerbilliscus,validus,Gerbilliscus validus,Gerbilliscus_validus,0,1,1,1,121,Invert/Nonfibrous/Fibrous,0.121,Invert Omnivore
+Rodentia,Muridae,Gerbillurus,paeba,Gerbillurus paeba,Gerbillurus_paeba,0,1,1,1,23.3,Invert/Nonfibrous/Fibrous,0.0233,Invert Omnivore
+Rodentia,Muridae,Gerbillurus,setzeri,Gerbillurus setzeri,Gerbillurus_setzeri,0,1,1,1,38.3,Invert/Nonfibrous/Fibrous,0.0383,Invert Omnivore
+Rodentia,Muridae,Gerbillurus,tytonis,Gerbillurus tytonis,Gerbillurus_tytonis,0,1,1,1,31,Invert/Nonfibrous/Fibrous,0.031,Invert Omnivore
+Rodentia,Muridae,Gerbillurus,vallinus,Gerbillurus vallinus,Gerbillurus_vallinus,0,1,1,1,35.3,Invert/Nonfibrous/Fibrous,0.0353,Invert Omnivore
+Rodentia,Muridae,Leggadina,forresti,Leggadina forresti,Leggadina_forresti,0,1,1,1,20,Invert/Nonfibrous/Fibrous,0.02,Invert Omnivore
+Rodentia,Muridae,Leggadina,lakedownensis,Leggadina lakedownensis,Leggadina_lakedownensis,0,1,1,1,17.5,Invert/Nonfibrous/Fibrous,0.0175,Invert Omnivore
+Rodentia,Muridae,Meriones,crassus,Meriones crassus,Meriones_crassus,0,1,1,1,69.9,Invert/Nonfibrous/Fibrous,0.0699,Invert Omnivore
+Rodentia,Muridae,Meriones,hurrianae,Meriones hurrianae,Meriones_hurrianae,0,1,1,1,70,Invert/Nonfibrous/Fibrous,0.07,Invert Omnivore
+Rodentia,Muridae,Meriones,persicus,Meriones persicus,Meriones_persicus,0,1,1,1,100,Invert/Nonfibrous/Fibrous,0.1,Invert Omnivore
+Rodentia,Muridae,Mus,minutoides,Mus minutoides,Mus_minutoides,0,1,1,1,6.2,Invert/Nonfibrous/Fibrous,0.0062,Invert Omnivore
+Rodentia,Muridae,Mus,musculus,Mus musculus,Mus_musculus,0,1,0,1,16.5,Invert/Nonfibrous,0.0165,Invert Omnivore
+Rodentia,Muridae,Notomys,alexis,Notomys alexis,Notomys_alexis,0,1,1,1,35,Invert/Nonfibrous/Fibrous,0.035,Invert Omnivore
+Rodentia,Muridae,Notomys,cervinus,Notomys cervinus,Notomys_cervinus,0,1,1,1,35,Invert/Nonfibrous/Fibrous,0.035,Invert Omnivore
+Rodentia,Muridae,Notomys,mitchellii,Notomys mitchellii,Notomys_mitchellii,0,1,1,1,52,Invert/Nonfibrous/Fibrous,0.052,Invert Omnivore
+Rodentia,Muridae,Pseudomys,albocinereus,Pseudomys albocinereus,Pseudomys_albocinereus,0,1,1,1,30.5,Invert/Nonfibrous/Fibrous,0.0305,Invert Omnivore
+Rodentia,Muridae,Pseudomys,apodemoides,Pseudomys apodemoides,Pseudomys_apodemoides,0,1,0,1,20,Invert/Nonfibrous,0.02,Invert Omnivore
+Rodentia,Muridae,Pseudomys,australis,Pseudomys australis,Pseudomys_australis,0,1,1,1,65,Invert/Nonfibrous/Fibrous,0.065,Invert Omnivore
+Rodentia,Muridae,Pseudomys,bolami,Pseudomys bolami,Pseudomys_bolami,0,1,1,1,15.5,Invert/Nonfibrous/Fibrous,0.0155,Invert Omnivore
+Rodentia,Muridae,Pseudomys,desertor,Pseudomys desertor,Pseudomys_desertor,0,1,1,1,25,Invert/Nonfibrous/Fibrous,0.025,Invert Omnivore
+Rodentia,Muridae,Pseudomys,gracilicaudatus,Pseudomys gracilicaudatus,Pseudomys_gracilicaudatus,0,1,0,1,74.8,Invert/Nonfibrous,0.0748,Invert Omnivore
+Rodentia,Muridae,Pseudomys,hermannsburgensis,Pseudomys hermannsburgensis,Pseudomys_hermannsburgensis,0,1,1,1,12,Invert/Nonfibrous/Fibrous,0.012,Invert Omnivore
+Rodentia,Muridae,Pseudomys,higginsi,Pseudomys higginsi,Pseudomys_higginsi,0,1,1,1,67,Invert/Nonfibrous/Fibrous,0.067,Invert Omnivore
+Rodentia,Muridae,Pseudomys,oralis,Pseudomys oralis,Pseudomys_oralis,0,1,1,1,95,Invert/Nonfibrous/Fibrous,0.095,Invert Omnivore
+Rodentia,Muridae,Rattus,everetti,Rattus everetti,Rattus_everetti,0,1,1,1,255,Invert/Nonfibrous/Fibrous,0.255,Invert Omnivore
+Rodentia,Muridae,Rattus,fuscipes,Rattus fuscipes,Rattus_fuscipes,0,1,1,1,133,Invert/Nonfibrous/Fibrous,0.133,Invert Omnivore
+Rodentia,Muridae,Rattus,lutreolus,Rattus lutreolus,Rattus_lutreolus,0,1,1,1,106,Invert/Nonfibrous/Fibrous,0.106,Invert Omnivore
+Rodentia,Muridae,Rattus,tiomanicus,Rattus tiomanicus,Rattus_tiomanicus,0,1,1,1,131.75,Invert/Nonfibrous/Fibrous,0.13175,Invert Omnivore
+Rodentia,Muridae,Rattus,villosissimus,Rattus villosissimus,Rattus_villosissimus,0,1,1,1,134,Invert/Nonfibrous/Fibrous,0.134,Invert Omnivore
+Rodentia,Muridae,Rhabdomys,pumilio,Rhabdomys pumilio,Rhabdomys_pumilio,0,1,1,1,40.7,Invert/Nonfibrous/Fibrous,0.0407,Invert Omnivore
+Rodentia,Muridae,Sekeetamys,calurus,Sekeetamys calurus,Sekeetamys_calurus,0,1,1,0,55.2,Invert/Fibrous,0.0552,Invert Omnivore
+Rodentia,Muridae,Sundamys,muelleri,Sundamys muelleri,Sundamys_muelleri,0,1,1,1,275.65,Invert/Nonfibrous/Fibrous,0.27565,Invert Omnivore
+Rodentia,Muridae,Tatera,indica,Tatera indica,Tatera_indica,0,1,1,1,166.3,Invert/Nonfibrous/Fibrous,0.1663,Invert Omnivore
+Rodentia,Muridae,Taterillus,gracilis,Taterillus gracilis,Taterillus_gracilis,0,1,0,1,49,Invert/Nonfibrous,0.049,Invert Omnivore
+Rodentia,Muridae,Zelotomys,woosnami,Zelotomys woosnami,Zelotomys_woosnami,0,1,0,1,54.1,Invert/Nonfibrous,0.0541,Invert Omnivore
+Rodentia,Nesomyidae,Dendromus,mystacalis,Dendromus mystacalis,Dendromus_mystacalis,0,1,1,1,7.6,Invert/Nonfibrous/Fibrous,0.0076,Invert Omnivore
+Rodentia,Nesomyidae,Mystromys,albicaudatus,Mystromys albicaudatus,Mystromys_albicaudatus,0,1,1,1,86.9,Invert/Nonfibrous/Fibrous,0.0869,Invert Omnivore
+Rodentia,Nesomyidae,Saccostomus,mearnsi,Saccostomus mearnsi,Saccostomus_mearnsi,0,1,1,1,45.5,Invert/Nonfibrous/Fibrous,0.0455,Invert Omnivore
+Rodentia,Sciuridae,Ammospermophilus,interpres,Ammospermophilus interpres,Ammospermophilus_interpres,0,1,1,1,110.3,Invert/Nonfibrous/Fibrous,0.1103,Invert Omnivore
+Rodentia,Sciuridae,Ammospermophilus,nelsoni,Ammospermophilus nelsoni,Ammospermophilus_nelsoni,0,1,1,1,160.4,Invert/Nonfibrous/Fibrous,0.1604,Invert Omnivore
+Rodentia,Sciuridae,Callosciurus,notatus,Callosciurus notatus,Callosciurus_notatus,0,1,0,1,197.5,Invert/Nonfibrous,0.1975,Invert Omnivore
+Rodentia,Sciuridae,Callosciurus,orestes,Callosciurus orestes,Callosciurus_orestes,0,1,0,1,278,Invert/Nonfibrous,0.278,Invert Omnivore
+Rodentia,Sciuridae,Callosciurus,prevostii,Callosciurus prevostii,Callosciurus_prevostii,0,1,0,1,361.45,Invert/Nonfibrous,0.36145,Invert Omnivore
+Rodentia,Sciuridae,Cynomys,gunnisoni,Cynomys gunnisoni,Cynomys_gunnisoni,0,1,1,1,925,Invert/Nonfibrous/Fibrous,0.925,Invert Omnivore
+Rodentia,Sciuridae,Dremomys,everetti,Dremomys everetti,Dremomys_everetti,0,1,0,1,130,Invert/Nonfibrous,0.13,Invert Omnivore
+Rodentia,Sciuridae,Funisciurus,anerythrus,Funisciurus anerythrus,Funisciurus_anerythrus,0,1,0,1,218,Invert/Nonfibrous,0.218,Invert Omnivore
+Rodentia,Sciuridae,Funisciurus,congicus,Funisciurus congicus,Funisciurus_congicus,0,1,1,1,112,Invert/Nonfibrous/Fibrous,0.112,Invert Omnivore
+Rodentia,Sciuridae,Funisciurus,isabella,Funisciurus isabella,Funisciurus_isabella,0,1,1,1,109,Invert/Nonfibrous/Fibrous,0.109,Invert Omnivore
+Rodentia,Sciuridae,Funisciurus,lemniscatus,Funisciurus lemniscatus,Funisciurus_lemniscatus,0,1,0,1,141,Invert/Nonfibrous,0.141,Invert Omnivore
+Rodentia,Sciuridae,Funisciurus,pyrropus,Funisciurus pyrropus,Funisciurus_pyrropus,0,1,0,1,297,Invert/Nonfibrous,0.297,Invert Omnivore
+Rodentia,Sciuridae,Heliosciurus,rufobrachium,Heliosciurus rufobrachium,Heliosciurus_rufobrachium,0,1,1,1,371.5,Invert/Nonfibrous/Fibrous,0.3715,Invert Omnivore
+Rodentia,Sciuridae,Lariscus,insignis,Lariscus insignis,Lariscus_insignis,0,1,0,1,200,Invert/Nonfibrous,0.2,Invert Omnivore
+Rodentia,Sciuridae,Marmota,monax,Marmota monax,Marmota_monax,0,1,1,0,3801.7,Invert/Fibrous,3.8017,Invert Omnivore
+Rodentia,Sciuridae,Microsciurus,alfari,Microsciurus alfari,Microsciurus_alfari,0,1,1,1,87.5,Invert/Nonfibrous/Fibrous,0.0875,Invert Omnivore
+Rodentia,Sciuridae,Microsciurus,flaviventer,Microsciurus flaviventer,Microsciurus_flaviventer,0,1,0,1,92,Invert/Nonfibrous,0.092,Invert Omnivore
+Rodentia,Sciuridae,Myosciurus,pumilio,Myosciurus pumilio,Myosciurus_pumilio,0,1,0,1,165,Invert/Nonfibrous,0.165,Invert Omnivore
+Rodentia,Sciuridae,Nannosciurus,melanotis,Nannosciurus melanotis,Nannosciurus_melanotis,0,1,1,1,15,Invert/Nonfibrous/Fibrous,0.015,Invert Omnivore
+Rodentia,Sciuridae,Paraxerus,cepapi,Paraxerus cepapi,Paraxerus_cepapi,0,1,1,1,180,Invert/Nonfibrous/Fibrous,0.18,Invert Omnivore
+Rodentia,Sciuridae,Paraxerus,poensis,Paraxerus poensis,Paraxerus_poensis,0,1,0,1,124.5,Invert/Nonfibrous,0.1245,Invert Omnivore
+Rodentia,Sciuridae,Sciurus,alleni,Sciurus alleni,Sciurus_alleni,0,1,0,1,434.5,Invert/Nonfibrous,0.4345,Invert Omnivore
+Rodentia,Sciuridae,Sciurus,vulgaris,Sciurus vulgaris,Sciurus_vulgaris,0,1,0,1,333,Invert/Nonfibrous,0.333,Invert Omnivore
+Rodentia,Sciuridae,Spermophilus,beldingi,Spermophilus beldingi,Spermophilus_beldingi,0,1,1,1,280.5,Invert/Nonfibrous/Fibrous,0.2805,Invert Omnivore
+Rodentia,Sciuridae,Spermophilus,columbianus,Spermophilus columbianus,Spermophilus_columbianus,0,1,1,1,493,Invert/Nonfibrous/Fibrous,0.493,Invert Omnivore
+Rodentia,Sciuridae,Spermophilus,lateralis,Spermophilus lateralis,Spermophilus_lateralis,0,1,1,1,191,Invert/Nonfibrous/Fibrous,0.191,Invert Omnivore
+Rodentia,Sciuridae,Spermophilus,mohavensis,Spermophilus mohavensis,Spermophilus_mohavensis,0,1,1,1,190,Invert/Nonfibrous/Fibrous,0.19,Invert Omnivore
+Rodentia,Sciuridae,Spermophilus,richardsonii,Spermophilus richardsonii,Spermophilus_richardsonii,0,1,1,1,406,Invert/Nonfibrous/Fibrous,0.406,Invert Omnivore
+Rodentia,Sciuridae,Spermophilus,spilosoma,Spermophilus spilosoma,Spermophilus_spilosoma,0,1,1,1,89,Invert/Nonfibrous/Fibrous,0.089,Invert Omnivore
+Rodentia,Sciuridae,Spermophilus,tereticaudus,Spermophilus tereticaudus,Spermophilus_tereticaudus,0,1,1,1,156.5,Invert/Nonfibrous/Fibrous,0.1565,Invert Omnivore
+Rodentia,Sciuridae,Spermophilus,tridecemlineatus,Spermophilus tridecemlineatus,Spermophilus_tridecemlineatus,0,1,1,1,131.7,Invert/Nonfibrous/Fibrous,0.1317,Invert Omnivore
+Rodentia,Sciuridae,Spermophilus,variegatus,Spermophilus variegatus,Spermophilus_variegatus,0,1,1,1,691.6,Invert/Nonfibrous/Fibrous,0.6916,Invert Omnivore
+Rodentia,Sciuridae,Spermophilus,washingtoni,Spermophilus washingtoni,Spermophilus_washingtoni,0,1,1,1,207.5,Invert/Nonfibrous/Fibrous,0.2075,Invert Omnivore
+Rodentia,Sciuridae,Sundasciurus,hippurus,Sundasciurus hippurus,Sundasciurus_hippurus,0,1,0,1,406.25,Invert/Nonfibrous,0.40625,Invert Omnivore
+Rodentia,Sciuridae,Sundasciurus,lowii,Sundasciurus lowii,Sundasciurus_lowii,0,1,0,1,87.5,Invert/Nonfibrous,0.0875,Invert Omnivore
+Rodentia,Sciuridae,Sundasciurus,tenuis,Sundasciurus tenuis,Sundasciurus_tenuis,0,1,1,1,75,Invert/Nonfibrous/Fibrous,0.075,Invert Omnivore
+Rodentia,Sciuridae,Tamias,amoenus,Tamias amoenus,Tamias_amoenus,0,1,1,1,50.5,Invert/Nonfibrous/Fibrous,0.0505,Invert Omnivore
+Rodentia,Sciuridae,Tamias,canipes,Tamias canipes,Tamias_canipes,0,1,1,1,70.4,Invert/Nonfibrous/Fibrous,0.0704,Invert Omnivore
+Rodentia,Sciuridae,Tamias,minimus,Tamias minimus,Tamias_minimus,0,1,1,1,135.3,Invert/Nonfibrous/Fibrous,0.1353,Invert Omnivore
+Rodentia,Sciuridae,Tamias,quadrivittatus,Tamias quadrivittatus,Tamias_quadrivittatus,0,1,1,1,62.2,Invert/Nonfibrous/Fibrous,0.0622,Invert Omnivore
+Rodentia,Sciuridae,Tamias,rufus,Tamias rufus,Tamias_rufus,0,1,1,1,53.6,Invert/Nonfibrous/Fibrous,0.0536,Invert Omnivore
+Rodentia,Sciuridae,Tamias,senex,Tamias senex,Tamias_senex,0,1,0,1,89.3,Invert/Nonfibrous,0.0893,Invert Omnivore
+Rodentia,Sciuridae,Tamias,speciosus,Tamias speciosus,Tamias_speciosus,0,1,1,1,62,Invert/Nonfibrous/Fibrous,0.062,Invert Omnivore
+Rodentia,Sciuridae,Tamias,striatus,Tamias striatus,Tamias_striatus,0,1,0,1,111.9,Invert/Nonfibrous,0.1119,Invert Omnivore
+Rodentia,Sciuridae,Tamias,townsendii,Tamias townsendii,Tamias_townsendii,0,1,0,1,74.8,Invert/Nonfibrous,0.0748,Invert Omnivore
+Rodentia,Sciuridae,Xerus,inauris,Xerus inauris,Xerus_inauris,0,1,1,1,624.5,Invert/Nonfibrous/Fibrous,0.6245,Invert Omnivore
+Rodentia,Sciuridae,Xerus,rutilus,Xerus rutilus,Xerus_rutilus,0,1,1,1,317.5,Invert/Nonfibrous/Fibrous,0.3175,Invert Omnivore
+Scandentia,Tupaiidae,Anathana,ellioti,Anathana ellioti,Anathana_ellioti,0,1,1,1,160,Invert/Nonfibrous/Fibrous,0.16,Invert Omnivore
+Scandentia,Tupaiidae,Tupaia,montana,Tupaia montana,Tupaia_montana,0,1,1,1,283,Invert/Nonfibrous/Fibrous,0.283,Invert Omnivore
+Soricomorpha,Soricidae,Crocidura,montis,Crocidura montis,Crocidura_montis,0,1,1,1,14.5,Invert/Nonfibrous/Fibrous,0.0145,Invert Omnivore
+Soricomorpha,Soricidae,Myosorex,cafer,Myosorex cafer,Myosorex_cafer,0,1,1,0,12.3,Invert/Fibrous,0.0123,Invert Omnivore
+Soricomorpha,Soricidae,Sorex,monticolus,Sorex monticolus,Sorex_monticolus,0,1,0,1,5.3,Invert/Nonfibrous,0.0053,Invert Omnivore
+Soricomorpha,Soricidae,Sorex,palustris,Sorex palustris,Sorex_palustris,0,1,1,0,13.4,Invert/Fibrous,0.0134,Invert Omnivore
+Soricomorpha,Soricidae,Sorex,trowbridgii,Sorex trowbridgii,Sorex_trowbridgii,0,1,0,1,3.8,Invert/Nonfibrous,0.0038,Invert Omnivore
+Soricomorpha,Soricidae,Sorex,vagrans,Sorex vagrans,Sorex_vagrans,0,1,1,1,4.4,Invert/Nonfibrous/Fibrous,0.0044,Invert Omnivore
+Soricomorpha,Talpidae,Neurotrichus,gibbsii,Neurotrichus gibbsii,Neurotrichus_gibbsii,0,1,0,1,8.9,Invert/Nonfibrous,0.0089,Invert Omnivore
+Soricomorpha,Talpidae,Scapanus,townsendii,Scapanus townsendii,Scapanus_townsendii,0,1,0,1,141.7,Invert/Nonfibrous,0.1417,Invert Omnivore
+Tubulidentata,Orycteropodidae,Orycteropus,afer,Orycteropus afer,Orycteropus_afer,0,1,0,1,52350.4,Invert/Nonfibrous,52.3504,Invert Omnivore
+Carnivora,Canidae,Canis,lupus,Canis lupus,Canis_lupus,1,0,0,0,31756.51,Vert,31.75651,Vert
+Carnivora,Canidae,Canis,mesomelas,Canis mesomelas,Canis_mesomelas,1,0,0,0,8500,Vert,8.5,Vert
+Carnivora,Canidae,Canis,simensis,Canis simensis,Canis_simensis,1,0,0,0,10000,Vert,10,Vert
+Carnivora,Canidae,Cuon,alpinus,Cuon alpinus,Cuon_alpinus,1,0,0,0,12760,Vert,12.76,Vert
+Carnivora,Canidae,Lycaon,pictus,Lycaon pictus,Lycaon_pictus,1,0,0,0,22050.1,Vert,22.0501,Vert
+Carnivora,Canidae,Vulpes,macrotis,Vulpes macrotis,Vulpes_macrotis,1,0,0,0,4499.97,Vert,4.49997,Vert
+Carnivora,Eupleridae,Cryptoprocta,ferox,Cryptoprocta ferox,Cryptoprocta_ferox,1,0,0,0,9500,Vert,9.5,Vert
+Carnivora,Felidae,Caracal,caracal,Caracal caracal,Caracal_caracal,1,0,0,0,11964.38,Vert,11.96438,Vert
+Carnivora,Felidae,Felis margarita,margarita,Felis margarita,Felis_margarita,1,0,0,0,2823.36,Vert,2.82336,Vert
+Carnivora,Felidae,Leopardus,pardalis,Leopardus pardalis,Leopardus_pardalis,1,0,0,0,11900.1,Vert,11.9001,Vert
+Carnivora,Felidae,Leopardus,wiedii,Leopardus wiedii,Leopardus_wiedii,1,0,0,0,3250,Vert,3.25,Vert
+Carnivora,Felidae,Lynx,canadensis,Lynx canadensis,Lynx_canadensis,1,0,0,0,9373.2,Vert,9.3732,Vert
+Carnivora,Felidae,Lynx,pardinus,Lynx pardinus,Lynx_pardinus,1,0,0,0,9400,Vert,9.4,Vert
+Carnivora,Felidae,Lynx,rufus,Lynx rufus,Lynx_rufus,1,0,0,0,8904.1,Vert,8.9041,Vert
+Carnivora,Felidae,Neofelis,nebulosa,Neofelis nebulosa,Neofelis_nebulosa,1,0,0,0,19675,Vert,19.675,Vert
+Carnivora,Felidae,Panthera,leo,Panthera leo,Panthera_leo,1,0,0,0,161499.1,Vert,161.4991,Vert
+Carnivora,Felidae,Panthera,onca,Panthera onca,Panthera_onca,1,0,0,0,100000,Vert,100,Vert
+Carnivora,Felidae,Panthera,pardus,Panthera pardus,Panthera_pardus,1,0,0,0,54999.7,Vert,54.9997,Vert
+Carnivora,Felidae,Panthera,tigris,Panthera tigris,Panthera_tigris,1,0,0,0,162564,Vert,162.564,Vert
+Carnivora,Felidae,Puma,yagouaroundi,Puma yagouaroundi,Puma_yagouaroundi,1,0,0,0,7874,Vert,7.874,Vert
+Carnivora,Hyaenidae,Crocuta,crocuta,Crocuta crocuta,Crocuta_crocuta,1,0,0,0,63369.98,Vert,63.36998,Vert
+Carnivora,Mustelidae,Gulo,gulo,Gulo gulo,Gulo_gulo,1,0,0,0,17012,Vert,17.012,Vert
+Carnivora,Mustelidae,Lyncodon,patagonicus,Lyncodon patagonicus,Lyncodon_patagonicus,1,0,0,0,225,Vert,0.225,Vert
+Carnivora,Mustelidae,Martes,pennanti,Martes pennanti,Martes_pennanti,1,0,0,0,4000,Vert,4,Vert
+Carnivora,Mustelidae,Mustela,altaica,Mustela altaica,Mustela_altaica,1,0,0,0,180.24,Vert,0.18024,Vert
+Carnivora,Mustelidae,Mustela,eversmanii,Mustela eversmanii,Mustela_eversmanii,1,0,0,0,1684.21,Vert,1.68421,Vert
+Carnivora,Mustelidae,Mustela,nivalis,Mustela nivalis,Mustela_nivalis,1,0,0,0,77.3,Vert,0.0773,Vert
+Carnivora,Mustelidae,Poecilogale,albinucha,Poecilogale albinucha,Poecilogale_albinucha,1,0,0,0,340,Vert,0.34,Vert
+Carnivora,Mustelidae,Pteronura,brasiliensis,Pteronura brasiliensis,Pteronura_brasiliensis,1,0,0,0,23999.9,Vert,23.9999,Vert
+Carnivora,Ursidae,Ursus,maritimus,Ursus maritimus,Ursus_maritimus,1,0,0,0,388750,Vert,388.75,Vert
+Chiroptera,Phyllostomidae,Desmodus,rotundus,Desmodus rotundus,Desmodus_rotundus,1,0,0,0,33.2,Vert,0.0332,Vert
+Chiroptera,Phyllostomidae,Diaemus,youngi,Diaemus youngi,Diaemus_youngi,1,0,0,0,36.1,Vert,0.0361,Vert
+Chiroptera,Phyllostomidae,Diphylla,ecaudata,Diphylla ecaudata,Diphylla_ecaudata,1,0,0,0,29.3,Vert,0.0293,Vert
+Chiroptera,Phyllostomidae,Vampyrum,spectrum,Vampyrum spectrum,Vampyrum_spectrum,1,0,0,0,169.4,Vert,0.1694,Vert
+Dasyuromorphia,Dasyuridae,Antechinus,flavipes,Antechinus flavipes,Antechinus_flavipes,1,0,0,0,45,Vert,0.045,Vert
+Dasyuromorphia,Dasyuridae,Sarcophilus,harrisii,Sarcophilus harrisii,Sarcophilus_harrisii,1,0,0,0,6000,Vert,6,Vert
+Artiodactyla,Bovidae,Cephalophus,dorsalis,Cephalophus dorsalis,Cephalophus_dorsalis,1,0,1,1,20000,Vert/Nonfibrous/Fibrous,20,Vert Omnivore
+Artiodactyla,Bovidae,Philantomba,monticola,Philantomba monticola,Philantomba_monticola,1,0,1,1,6250,Vert/Nonfibrous/Fibrous,6.25,Vert Omnivore
+Artiodactyla,Suidae,Potamochoerus,porcus,Potamochoerus porcus,Potamochoerus_porcus,1,0,0,1,70000.3,Vert/Nonfibrous,70.0003,Vert Omnivore
+Carnivora,Ailuridae,Ailurus,fulgens,Ailurus fulgens,Ailurus_fulgens,1,0,1,1,4900,Vert/Nonfibrous/Fibrous,4.9,Vert Omnivore
+Carnivora,Canidae,Chrysocyon,brachyurus,Chrysocyon brachyurus,Chrysocyon_brachyurus,1,0,0,1,23249.8,Vert/Nonfibrous,23.2498,Vert Omnivore
+Carnivora,Mustelidae,Eira,barbara,Eira barbara,Eira_barbara,1,0,0,1,3910,Vert/Nonfibrous,3.91,Vert Omnivore
+Carnivora,Ursidae,Ailuropoda,melanoleuca,Ailuropoda melanoleuca,Ailuropoda_melanoleuca,1,0,1,0,108400,Vert/Fibrous,108.4,Vert Omnivore
+Carnivora,Ursidae,Helarctos,malayanus,Helarctos malayanus,Helarctos_malayanus,1,0,0,1,46500,Vert/Nonfibrous,46.5,Vert Omnivore
+Primates,Cebidae,Callithrix,jacchus,Callithrix jacchus,Callithrix_jacchus,1,0,0,1,292,Vert/Nonfibrous,0.292,Vert Omnivore
+Rodentia,Heteromyidae,Dipodomys,spectabilis,Dipodomys spectabilis,Dipodomys_spectabilis,1,0,1,1,135.9,Vert/Nonfibrous/Fibrous,0.1359,Vert Omnivore
+Rodentia,Heteromyidae,Heteromys,desmarestianus,Heteromys desmarestianus,Heteromys_desmarestianus,1,0,0,1,72.5,Vert/Nonfibrous,0.0725,Vert Omnivore
+Rodentia,Hystricidae,Hystrix,cristata,Hystrix cristata,Hystrix_cristata,1,0,1,1,16250,Vert/Nonfibrous/Fibrous,16.25,Vert Omnivore
+Rodentia,Sciuridae,Glaucomys,sabrinus,Glaucomys sabrinus,Glaucomys_sabrinus,1,0,0,1,166,Vert/Nonfibrous,0.166,Vert Omnivore
+Afrosoricida,Tenrecidae,Limnogale,mergulus,Limnogale mergulus,Limnogale_mergulus,1,1,0,0,78.6,Vert/Invert,0.0786,Vert/Invert
+Afrosoricida,Tenrecidae,Tenrec,ecaudatus,Tenrec ecaudatus,Tenrec_ecaudatus,1,1,0,0,684,Vert/Invert,0.684,Vert/Invert
+Carnivora,Canidae,Alopex,lagopus,Alopex lagopus,Alopex_lagopus,1,1,0,0,3584.37,Vert/Invert,3.58437,Vert/Invert
+Carnivora,Canidae,Vulpes,chama,Vulpes chama,Vulpes_chama,1,1,0,0,2955,Vert/Invert,2.955,Vert/Invert
+Carnivora,Eupleridae,Fossa,fossana,Fossa fossana,Fossa_fossana,1,1,0,0,1853.98,Vert/Invert,1.85398,Vert/Invert
+Carnivora,Eupleridae,Mungotictis,decemlineata,Mungotictis decemlineata,Mungotictis_decemlineata,1,1,0,0,657.03,Vert/Invert,0.65703,Vert/Invert
+Carnivora,Eupleridae,Salanoia,concolor,Salanoia concolor,Salanoia_concolor,1,1,0,0,711.49,Vert/Invert,0.71149,Vert/Invert
+Carnivora,Felidae,Felis,chaus,Felis chaus,Felis_chaus,1,1,0,0,7257,Vert/Invert,7.257,Vert/Invert
+Carnivora,Felidae,Felis,nigripes,Felis nigripes,Felis_nigripes,1,1,0,0,1362.77,Vert/Invert,1.36277,Vert/Invert
+Carnivora,Felidae,Leopardus,geoffroyi,Leopardus geoffroyi,Leopardus_geoffroyi,1,1,0,0,3590,Vert/Invert,3.59,Vert/Invert
+Carnivora,Felidae,Prionailurus,bengalensis,Prionailurus bengalensis,Prionailurus_bengalensis,1,1,0,0,3300,Vert/Invert,3.3,Vert/Invert
+Carnivora,Herpestidae,Atilax,paludinosus,Atilax paludinosus,Atilax_paludinosus,1,1,0,0,3600.16,Vert/Invert,3.60016,Vert/Invert
+Carnivora,Herpestidae,Bdeogale,crassicauda,Bdeogale crassicauda,Bdeogale_crassicauda,1,1,0,0,1722.13,Vert/Invert,1.72213,Vert/Invert
+Carnivora,Herpestidae,Bdeogale,jacksoni,Bdeogale jacksoni,Bdeogale_jacksoni,1,1,0,0,2500,Vert/Invert,2.5,Vert/Invert
+Carnivora,Herpestidae,Crossarchus,ansorgei,Crossarchus ansorgei,Crossarchus_ansorgei,1,1,0,0,700,Vert/Invert,0.7,Vert/Invert
+Carnivora,Herpestidae,Cynictis,penicillata,Cynictis penicillata,Cynictis_penicillata,1,1,0,0,694.41,Vert/Invert,0.69441,Vert/Invert
+Carnivora,Herpestidae,Herpestes,ichneumon,Herpestes ichneumon,Herpestes_ichneumon,1,1,0,0,2980.02,Vert/Invert,2.98002,Vert/Invert
+Carnivora,Herpestidae,Herpestes,naso,Herpestes naso,Herpestes_naso,1,1,0,0,3000,Vert/Invert,3,Vert/Invert
+Carnivora,Herpestidae,Herpestes,smithii,Herpestes smithii,Herpestes_smithii,1,1,0,0,1702.5,Vert/Invert,1.7025,Vert/Invert
+Carnivora,Herpestidae,Ichneumia,albicauda,Ichneumia albicauda,Ichneumia_albicauda,1,1,0,0,3628.4,Vert/Invert,3.6284,Vert/Invert
+Carnivora,Herpestidae,Suricata,suricatta,Suricata suricatta,Suricata_suricatta,1,1,0,0,725.5,Vert/Invert,0.7255,Vert/Invert
+Carnivora,Mephitidae,Conepatus,chinga,Conepatus chinga,Conepatus_chinga,1,1,0,0,1917.5,Vert/Invert,1.9175,Vert/Invert
+Carnivora,Mephitidae,Conepatus,humboldtii,Conepatus humboldtii,Conepatus_humboldtii,1,1,0,0,1097.61,Vert/Invert,1.09761,Vert/Invert
+Carnivora,Mephitidae,Conepatus,semistriatus,Conepatus semistriatus,Conepatus_semistriatus,1,1,0,0,1997.34,Vert/Invert,1.99734,Vert/Invert
+Carnivora,Mephitidae,Spilogale,pygmaea,Spilogale pygmaea,Spilogale_pygmaea,1,1,0,0,235,Vert/Invert,0.235,Vert/Invert
+Carnivora,Mustelidae,Aonyx,capensis,Aonyx capensis,Aonyx_capensis,1,1,0,0,18999.8,Vert/Invert,18.9998,Vert/Invert
+Carnivora,Mustelidae,Aonyx,cinerea,Aonyx cinerea,Aonyx_cinerea,1,1,0,0,3527.59,Vert/Invert,3.52759,Vert/Invert
+Carnivora,Mustelidae,Galictis,cuja,Galictis cuja,Galictis_cuja,1,1,0,0,1000,Vert/Invert,1,Vert/Invert
+Carnivora,Mustelidae,Ictonyx,striatus,Ictonyx striatus,Ictonyx_striatus,1,1,0,0,1300,Vert/Invert,1.3,Vert/Invert
+Carnivora,Mustelidae,Lontra,canadensis,Lontra canadensis,Lontra_canadensis,1,1,0,0,8087.4,Vert/Invert,8.0874,Vert/Invert
+Carnivora,Mustelidae,Lontra,felina,Lontra felina,Lontra_felina,1,1,0,0,30600,Vert/Invert,30.6,Vert/Invert
+Carnivora,Mustelidae,Lontra,longicaudis,Lontra longicaudis,Lontra_longicaudis,1,1,0,0,6555,Vert/Invert,6.555,Vert/Invert
+Carnivora,Mustelidae,Lontra,provocax,Lontra provocax,Lontra_provocax,1,1,0,0,7500,Vert/Invert,7.5,Vert/Invert
+Carnivora,Mustelidae,Martes,americana,Martes americana,Martes_americana,1,1,0,0,1250,Vert/Invert,1.25,Vert/Invert
+Carnivora,Mustelidae,Mustela,lutreola,Mustela lutreola,Mustela_lutreola,1,1,0,0,566.44,Vert/Invert,0.56644,Vert/Invert
+Carnivora,Mustelidae,Mustela,lutreolina,Mustela lutreolina,Mustela_lutreolina,1,1,0,0,706.6,Vert/Invert,0.7066,Vert/Invert
+Carnivora,Mustelidae,Mustela,putorius,Mustela putorius,Mustela_putorius,1,1,0,0,915,Vert/Invert,0.915,Vert/Invert
+Carnivora,Mustelidae,Neovison,vison,Neovison vison,Neovison_vison,1,1,0,0,945,Vert/Invert,0.945,Vert/Invert
+Carnivora,Mustelidae,Taxidea,taxus,Taxidea taxus,Taxidea_taxus,1,1,0,0,7107.6,Vert/Invert,7.1076,Vert/Invert
+Carnivora,Procyonidae,Bassariscus,astutus,Bassariscus astutus,Bassariscus_astutus,1,1,0,0,1129.5,Vert/Invert,1.1295,Vert/Invert
+Carnivora,Viverridae,Genetta,servalina,Genetta servalina,Genetta_servalina,1,1,0,0,1055,Vert/Invert,1.055,Vert/Invert
+Carnivora,Viverridae,Prionodon,linsang,Prionodon linsang,Prionodon_linsang,1,1,0,0,684.83,Vert/Invert,0.68483,Vert/Invert
+Chiroptera,Megadermatidae,Cardioderma,cor,Cardioderma cor,Cardioderma_cor,1,1,0,0,27.8,Vert/Invert,0.0278,Vert/Invert
+Chiroptera,Megadermatidae,Macroderma,gigas,Macroderma gigas,Macroderma_gigas,1,1,0,0,126.4,Vert/Invert,0.1264,Vert/Invert
+Chiroptera,Megadermatidae,Megaderma,lyra,Megaderma lyra,Megaderma_lyra,1,1,0,0,45.5,Vert/Invert,0.0455,Vert/Invert
+Chiroptera,Megadermatidae,Megaderma,spasma,Megaderma spasma,Megaderma_spasma,1,1,0,0,24.8,Vert/Invert,0.0248,Vert/Invert
+Chiroptera,Noctilionidae,Noctilio,leporinus,Noctilio leporinus,Noctilio_leporinus,1,1,0,0,60.3,Vert/Invert,0.0603,Vert/Invert
+Chiroptera,Nycteridae,Nycteris,grandis,Nycteris grandis,Nycteris_grandis,1,1,0,0,30.2,Vert/Invert,0.0302,Vert/Invert
+Chiroptera,Phyllostomidae,Mimon,crenulatum,Mimon crenulatum,Mimon_crenulatum,1,1,0,0,13.8,Vert/Invert,0.0138,Vert/Invert
+Chiroptera,Vespertilionidae,Myotis,adversus,Myotis adversus,Myotis_adversus,1,1,0,0,10.6,Vert/Invert,0.0106,Vert/Invert
+Chiroptera,Vespertilionidae,Nyctalus,lasiopterus,Nyctalus lasiopterus,Nyctalus_lasiopterus,1,1,0,0,49.7,Vert/Invert,0.0497,Vert/Invert
+Cingulata,Dasypodidae,Dasypus,kappleri,Dasypus kappleri,Dasypus_kappleri,1,1,0,0,9500,Vert/Invert,9.5,Vert/Invert
+Dasyuromorphia,Dasyuridae,Antechinus,godmani,Antechinus godmani,Antechinus_godmani,1,1,0,0,76.5,Vert/Invert,0.0765,Vert/Invert
+Dasyuromorphia,Dasyuridae,Dasykaluta,rosamondae,Dasykaluta rosamondae,Dasykaluta_rosamondae,1,1,0,0,28.8,Vert/Invert,0.0288,Vert/Invert
+Dasyuromorphia,Dasyuridae,Dasyuroides,byrnei,Dasyuroides byrnei,Dasyuroides_byrnei,1,1,0,0,103.8,Vert/Invert,0.1038,Vert/Invert
+Dasyuromorphia,Dasyuridae,Dasyurus,geoffroii,Dasyurus geoffroii,Dasyurus_geoffroii,1,1,0,0,1100,Vert/Invert,1.1,Vert/Invert
+Dasyuromorphia,Dasyuridae,Dasyurus,hallucatus,Dasyurus hallucatus,Dasyurus_hallucatus,1,1,0,0,525,Vert/Invert,0.525,Vert/Invert
+Dasyuromorphia,Dasyuridae,Dasyurus,maculatus,Dasyurus maculatus,Dasyurus_maculatus,1,1,0,0,5500,Vert/Invert,5.5,Vert/Invert
+Dasyuromorphia,Dasyuridae,Dasyurus,viverrinus,Dasyurus viverrinus,Dasyurus_viverrinus,1,1,0,0,1090,Vert/Invert,1.09,Vert/Invert
+Dasyuromorphia,Dasyuridae,Parantechinus,apicalis,Parantechinus apicalis,Parantechinus_apicalis,1,1,0,0,68.8,Vert/Invert,0.0688,Vert/Invert
+Dasyuromorphia,Dasyuridae,Phascogale,tapoatafa,Phascogale tapoatafa,Phascogale_tapoatafa,1,1,0,0,193.5,Vert/Invert,0.1935,Vert/Invert
+Dasyuromorphia,Dasyuridae,Planigale,gilesi,Planigale gilesi,Planigale_gilesi,1,1,0,0,9.2,Vert/Invert,0.0092,Vert/Invert
+Dasyuromorphia,Dasyuridae,Planigale,ingrami,Planigale ingrami,Planigale_ingrami,1,1,0,0,4.3,Vert/Invert,0.0043,Vert/Invert
+Dasyuromorphia,Dasyuridae,Planigale,maculata,Planigale maculata,Planigale_maculata,1,1,0,0,11,Vert/Invert,0.011,Vert/Invert
+Dasyuromorphia,Dasyuridae,Sminthopsis,dolichura,Sminthopsis dolichura,Sminthopsis_dolichura,1,1,0,0,13.6,Vert/Invert,0.0136,Vert/Invert
+Dasyuromorphia,Dasyuridae,Sminthopsis,hirtipes,Sminthopsis hirtipes,Sminthopsis_hirtipes,1,1,0,0,15,Vert/Invert,0.015,Vert/Invert
+Didelphimorphia,Didelphidae,Chironectes,minimus,Chironectes minimus,Chironectes_minimus,1,1,0,0,946,Vert/Invert,0.946,Vert/Invert
+Erinaceomorpha,Erinaceidae,Atelerix,frontalis,Atelerix frontalis,Atelerix_frontalis,1,1,0,0,309.5,Vert/Invert,0.3095,Vert/Invert
+Erinaceomorpha,Erinaceidae,Echinosorex,gymnura,Echinosorex gymnura,Echinosorex_gymnura,1,1,0,0,957,Vert/Invert,0.957,Vert/Invert
+Erinaceomorpha,Erinaceidae,Hemiechinus,collaris,Hemiechinus collaris,Hemiechinus_collaris,1,1,0,0,141,Vert/Invert,0.141,Vert/Invert
+Erinaceomorpha,Erinaceidae,Paraechinus,micropus,Paraechinus micropus,Paraechinus_micropus,1,1,0,0,171,Vert/Invert,0.171,Vert/Invert
+Rodentia,Cricetidae,Ichthyomys,stolzmanni,Ichthyomys stolzmanni,Ichthyomys_stolzmanni,1,1,0,0,84.7,Vert/Invert,0.0847,Vert/Invert
+Rodentia,Cricetidae,Onychomys,torridus,Onychomys torridus,Onychomys_torridus,1,1,0,0,25,Vert/Invert,0.025,Vert/Invert
+Rodentia,Cricetidae,Rheomys,mexicanus,Rheomys mexicanus,Rheomys_mexicanus,1,1,0,0,40,Vert/Invert,0.04,Vert/Invert
+Rodentia,Cricetidae,Rheomys,thomasi,Rheomys thomasi,Rheomys_thomasi,1,1,0,0,40,Vert/Invert,0.04,Vert/Invert
+Scandentia,Ptilocercidae,Ptilocercus,lowii,Ptilocercus lowii,Ptilocercus_lowii,1,1,0,0,42.5,Vert/Invert,0.0425,Vert/Invert
+Soricomorpha,Solenodontidae,Solenodon,cubanus,Solenodon cubanus,Solenodon_cubanus,1,1,0,0,650,Vert/Invert,0.65,Vert/Invert
+Soricomorpha,Soricidae,Blarina,hylophaga,Blarina hylophaga,Blarina_hylophaga,1,1,0,0,14.5,Vert/Invert,0.0145,Vert/Invert
+Soricomorpha,Soricidae,Cryptotis,meridensis,Cryptotis meridensis,Cryptotis_meridensis,1,1,0,0,12,Vert/Invert,0.012,Vert/Invert
+Soricomorpha,Soricidae,Diplomesodon,pulchellum,Diplomesodon pulchellum,Diplomesodon_pulchellum,1,1,0,0,11,Vert/Invert,0.011,Vert/Invert
+Soricomorpha,Soricidae,Neomys,fodiens,Neomys fodiens,Neomys_fodiens,1,1,0,0,14.3,Vert/Invert,0.0143,Vert/Invert
+Soricomorpha,Soricidae,Notiosorex,crawfordi,Notiosorex crawfordi,Notiosorex_crawfordi,1,1,0,0,4.4,Vert/Invert,0.0044,Vert/Invert
+Soricomorpha,Soricidae,Sorex,cinereus,Sorex cinereus,Sorex_cinereus,1,1,0,0,4.7,Vert/Invert,0.0047,Vert/Invert
+Soricomorpha,Soricidae,Sorex,hoyi,Sorex hoyi,Sorex_hoyi,1,1,0,0,2.6,Vert/Invert,0.0026,Vert/Invert
+Soricomorpha,Soricidae,Sorex,nanus,Sorex nanus,Sorex_nanus,1,1,0,0,2.4,Vert/Invert,0.0024,Vert/Invert
+Soricomorpha,Soricidae,Sorex,tenellus,Sorex tenellus,Sorex_tenellus,1,1,0,0,3.7,Vert/Invert,0.0037,Vert/Invert
+Artiodactyla,Suidae,Sus,scrofa,Sus scrofa,Sus_scrofa,1,1,1,1,86250,Vert/Invert/Nonfibrous/Fibrous,86.25,Vert/Invert Omnivore
+Artiodactyla,Tayassuidae,Pecari,tajacu,Pecari tajacu,Pecari_tajacu,1,1,0,1,21266.7,Vert/Invert/Nonfibrous,21.2667,Vert/Invert Omnivore
+Artiodactyla,Tayassuidae,Tayassu,pecari,Tayassu pecari,Tayassu_pecari,1,1,1,1,32233.7,Vert/Invert/Nonfibrous/Fibrous,32.2337,Vert/Invert Omnivore
+Carnivora,Canidae,Canis,aureus,Canis aureus,Canis_aureus,1,1,1,1,9658.7,Vert/Invert/Nonfibrous/Fibrous,9.6587,Vert/Invert Omnivore
+Carnivora,Canidae,Canis,latrans,Canis latrans,Canis_latrans,1,1,0,1,13406.3,Vert/Invert/Nonfibrous,13.4063,Vert/Invert Omnivore
+Carnivora,Canidae,Cerdocyon,thous,Cerdocyon thous,Cerdocyon_thous,1,1,0,1,5240,Vert/Invert/Nonfibrous,5.24,Vert/Invert Omnivore
+Carnivora,Canidae,Nyctereutes,procyonoides,Nyctereutes procyonoides,Nyctereutes_procyonoides,1,1,1,1,4214.99,Vert/Invert/Nonfibrous/Fibrous,4.21499,Vert/Invert Omnivore
+Carnivora,Canidae,Urocyon,cinereoargenteus,Urocyon cinereoargenteus,Urocyon_cinereoargenteus,1,1,0,1,3833.7,Vert/Invert/Nonfibrous,3.8337,Vert/Invert Omnivore
+Carnivora,Canidae,Urocyon,littoralis,Urocyon littoralis,Urocyon_littoralis,1,1,0,1,1896,Vert/Invert/Nonfibrous,1.896,Vert/Invert Omnivore
+Carnivora,Canidae,Vulpes,rueppellii,Vulpes rueppellii,Vulpes_rueppellii,1,1,1,1,3250,Vert/Invert/Nonfibrous/Fibrous,3.25,Vert/Invert Omnivore
+Carnivora,Canidae,Vulpes,velox,Vulpes velox,Vulpes_velox,1,1,1,0,2197.5,Vert/Invert/Fibrous,2.1975,Vert/Invert Omnivore
+Carnivora,Canidae,Vulpes,vulpes,Vulpes vulpes,Vulpes_vulpes,1,1,0,1,5975,Vert/Invert/Nonfibrous,5.975,Vert/Invert Omnivore
+Carnivora,Canidae,Vulpes,zerda,Vulpes zerda,Vulpes_zerda,1,1,0,1,1100,Vert/Invert/Nonfibrous,1.1,Vert/Invert Omnivore
+Carnivora,Felidae,Felis,silvestris,Felis silvestris,Felis_silvestris,1,1,0,1,4650,Vert/Invert/Nonfibrous,4.65,Vert/Invert Omnivore
+Carnivora,Felidae,Prionailurus,viverrinus,Prionailurus viverrinus,Prionailurus_viverrinus,1,1,1,0,8826.46,Vert/Invert/Fibrous,8.82646,Vert/Invert Omnivore
+Carnivora,Herpestidae,Bdeogale,nigripes,Bdeogale nigripes,Bdeogale_nigripes,1,1,0,1,2623.01,Vert/Invert/Nonfibrous,2.62301,Vert/Invert Omnivore
+Carnivora,Herpestidae,Crossarchus,obscurus,Crossarchus obscurus,Crossarchus_obscurus,1,1,0,1,1250,Vert/Invert/Nonfibrous,1.25,Vert/Invert Omnivore
+Carnivora,Herpestidae,Herpestes,vitticollis,Herpestes vitticollis,Herpestes_vitticollis,1,1,1,0,2380,Vert/Invert/Fibrous,2.38,Vert/Invert Omnivore
+Carnivora,Herpestidae,Mungos,mungo,Mungos mungo,Mungos_mungo,1,1,1,1,1260,Vert/Invert/Nonfibrous/Fibrous,1.26,Vert/Invert Omnivore
+Carnivora,Hyaenidae,Hyaena,brunnea,Hyaena brunnea,Hyaena_brunnea,1,1,0,1,42977.93,Vert/Invert/Nonfibrous,42.97793,Vert/Invert Omnivore
+Carnivora,Hyaenidae,Hyaena,hyaena,Hyaena hyaena,Hyaena_hyaena,1,1,1,1,41705,Vert/Invert/Nonfibrous/Fibrous,41.705,Vert/Invert Omnivore
+Carnivora,Mephitidae,Conepatus,leuconotus,Conepatus leuconotus,Conepatus_leuconotus,1,1,0,1,3293.91,Vert/Invert/Nonfibrous,3.29391,Vert/Invert Omnivore
+Carnivora,Mephitidae,Mephitis,macroura,Mephitis macroura,Mephitis_macroura,1,1,0,1,801.3,Vert/Invert/Nonfibrous,0.8013,Vert/Invert Omnivore
+Carnivora,Mephitidae,Mephitis,mephitis,Mephitis mephitis,Mephitis_mephitis,1,1,0,1,2085,Vert/Invert/Nonfibrous,2.085,Vert/Invert Omnivore
+Carnivora,Mustelidae,Arctonyx,collaris,Arctonyx collaris,Arctonyx_collaris,1,1,1,0,8166.52,Vert/Invert/Fibrous,8.16652,Vert/Invert Omnivore
+Carnivora,Mustelidae,Martes,foina,Martes foina,Martes_foina,1,1,0,1,1675,Vert/Invert/Nonfibrous,1.675,Vert/Invert Omnivore
+Carnivora,Mustelidae,Martes,martes,Martes martes,Martes_martes,1,1,0,1,1300,Vert/Invert/Nonfibrous,1.3,Vert/Invert Omnivore
+Carnivora,Mustelidae,Martes,melampus,Martes melampus,Martes_melampus,1,1,0,1,1000,Vert/Invert/Nonfibrous,1,Vert/Invert Omnivore
+Carnivora,Mustelidae,Martes,zibellina,Martes zibellina,Martes_zibellina,1,1,0,1,1173.91,Vert/Invert/Nonfibrous,1.17391,Vert/Invert Omnivore
+Carnivora,Mustelidae,Meles,meles,Meles meles,Meles_meles,1,1,1,1,13000,Vert/Invert/Nonfibrous/Fibrous,13,Vert/Invert Omnivore
+Carnivora,Mustelidae,Mellivora,capensis,Mellivora capensis,Mellivora_capensis,1,1,0,1,8500,Vert/Invert/Nonfibrous,8.5,Vert/Invert Omnivore
+Carnivora,Mustelidae,Melogale,moschata,Melogale moschata,Melogale_moschata,1,1,0,1,805,Vert/Invert/Nonfibrous,0.805,Vert/Invert Omnivore
+Carnivora,Mustelidae,Mustela,erminea,Mustela erminea,Mustela_erminea,1,1,0,1,284.5,Vert/Invert/Nonfibrous,0.2845,Vert/Invert Omnivore
+Carnivora,Mustelidae,Vormela,peregusna,Vormela peregusna,Vormela_peregusna,1,1,1,1,594.13,Vert/Invert/Nonfibrous/Fibrous,0.59413,Vert/Invert Omnivore
+Carnivora,Nandiniidae,Nandinia,binotata,Nandinia binotata,Nandinia_binotata,1,1,0,1,2000,Vert/Invert/Nonfibrous,2,Vert/Invert Omnivore
+Carnivora,Procyonidae,Bassariscus,sumichrasti,Bassariscus sumichrasti,Bassariscus_sumichrasti,1,1,0,1,906,Vert/Invert/Nonfibrous,0.906,Vert/Invert Omnivore
+Carnivora,Procyonidae,Nasua,narica,Nasua narica,Nasua_narica,1,1,0,1,4030,Vert/Invert/Nonfibrous,4.03,Vert/Invert Omnivore
+Carnivora,Procyonidae,Potos,flavus,Potos flavus,Potos_flavus,1,1,0,1,3000,Vert/Invert/Nonfibrous,3,Vert/Invert Omnivore
+Carnivora,Procyonidae,Procyon,cancrivorus,Procyon cancrivorus,Procyon_cancrivorus,1,1,0,1,6949.9,Vert/Invert/Nonfibrous,6.9499,Vert/Invert Omnivore
+Carnivora,Procyonidae,Procyon,lotor,Procyon lotor,Procyon_lotor,1,1,0,1,5525,Vert/Invert/Nonfibrous,5.525,Vert/Invert Omnivore
+Carnivora,Ursidae,Tremarctos,ornatus,Tremarctos ornatus,Tremarctos_ornatus,1,1,1,1,140000.6,Vert/Invert/Nonfibrous/Fibrous,140.0006,Vert/Invert Omnivore
+Carnivora,Ursidae,Ursus,americanus,Ursus americanus,Ursus_americanus,1,1,0,1,99949.4,Vert/Invert/Nonfibrous,99.9494,Vert/Invert Omnivore
+Carnivora,Ursidae,Ursus,arctos,Ursus arctos,Ursus_arctos,1,1,1,1,172720,Vert/Invert/Nonfibrous/Fibrous,172.72,Vert/Invert Omnivore
+Carnivora,Ursidae,Ursus,thibetanus,Ursus thibetanus,Ursus_thibetanus,1,1,1,1,77500,Vert/Invert/Nonfibrous/Fibrous,77.5,Vert/Invert Omnivore
+Carnivora,Viverridae,Arctictis,binturong,Arctictis binturong,Arctictis_binturong,1,1,1,1,12999.99,Vert/Invert/Nonfibrous/Fibrous,12.99999,Vert/Invert Omnivore
+Carnivora,Viverridae,Arctogalidia,trivirgata,Arctogalidia trivirgata,Arctogalidia_trivirgata,1,1,0,1,2323.79,Vert/Invert/Nonfibrous,2.32379,Vert/Invert Omnivore
+Carnivora,Viverridae,Civettictis,civetta,Civettictis civetta,Civettictis_civetta,1,1,0,1,12000,Vert/Invert/Nonfibrous,12,Vert/Invert Omnivore
+Carnivora,Viverridae,Genetta,abyssinica,Genetta abyssinica,Genetta_abyssinica,1,1,0,1,1405.48,Vert/Invert/Nonfibrous,1.40548,Vert/Invert Omnivore
+Carnivora,Viverridae,Genetta,genetta,Genetta genetta,Genetta_genetta,1,1,0,1,1800,Vert/Invert/Nonfibrous,1.8,Vert/Invert Omnivore
+Carnivora,Viverridae,Genetta,maculata,Genetta maculata,Genetta_maculata,1,1,0,1,2225,Vert/Invert/Nonfibrous,2.225,Vert/Invert Omnivore
+Carnivora,Viverridae,Genetta,piscivora,Genetta piscivora,Genetta_piscivora,1,1,1,0,1648.05,Vert/Invert/Fibrous,1.64805,Vert/Invert Omnivore
+Carnivora,Viverridae,Genetta,tigrina,Genetta tigrina,Genetta_tigrina,1,1,1,0,2225,Vert/Invert/Fibrous,2.225,Vert/Invert Omnivore
+Carnivora,Viverridae,Paguma,larvata,Paguma larvata,Paguma_larvata,1,1,1,1,4300,Vert/Invert/Nonfibrous/Fibrous,4.3,Vert/Invert Omnivore
+Carnivora,Viverridae,Paradoxurus,hermaphroditus,Paradoxurus hermaphroditus,Paradoxurus_hermaphroditus,1,1,0,1,3200,Vert/Invert/Nonfibrous,3.2,Vert/Invert Omnivore
+Carnivora,Viverridae,Paradoxurus,jerdoni,Paradoxurus jerdoni,Paradoxurus_jerdoni,1,1,1,1,3530.33,Vert/Invert/Nonfibrous/Fibrous,3.53033,Vert/Invert Omnivore
+Carnivora,Viverridae,Viverricula,indica,Viverricula indica,Viverricula_indica,1,1,1,1,2918.88,Vert/Invert/Nonfibrous/Fibrous,2.91888,Vert/Invert Omnivore
+Chiroptera,Phyllostomidae,Trachops,cirrhosus,Trachops cirrhosus,Trachops_cirrhosus,1,1,0,1,37.7,Vert/Invert/Nonfibrous,0.0377,Vert/Invert Omnivore
+Chiroptera,Vespertilionidae,Myotis,vivesi,Myotis vivesi,Myotis_vivesi,1,1,0,1,25,Vert/Invert/Nonfibrous,0.025,Vert/Invert Omnivore
+Cingulata,Dasypodidae,Chaetophractus,vellerosus,Chaetophractus vellerosus,Chaetophractus_vellerosus,1,1,0,1,1030,Vert/Invert/Nonfibrous,1.03,Vert/Invert Omnivore
+Cingulata,Dasypodidae,Chaetophractus,villosus,Chaetophractus villosus,Chaetophractus_villosus,1,1,1,1,4540,Vert/Invert/Nonfibrous/Fibrous,4.54,Vert/Invert Omnivore
+Cingulata,Dasypodidae,Dasypus,novemcinctus,Dasypus novemcinctus,Dasypus_novemcinctus,1,1,0,1,4203.8,Vert/Invert/Nonfibrous,4.2038,Vert/Invert Omnivore
+Cingulata,Dasypodidae,Euphractus,sexcinctus,Euphractus sexcinctus,Euphractus_sexcinctus,1,1,0,1,4782.9,Vert/Invert/Nonfibrous,4.7829,Vert/Invert Omnivore
+Didelphimorphia,Didelphidae,Caluromys,lanatus,Caluromys lanatus,Caluromys_lanatus,1,1,0,1,325,Vert/Invert/Nonfibrous,0.325,Vert/Invert Omnivore
+Didelphimorphia,Didelphidae,Didelphis,albiventris,Didelphis albiventris,Didelphis_albiventris,1,1,0,1,904,Vert/Invert/Nonfibrous,0.904,Vert/Invert Omnivore
+Didelphimorphia,Didelphidae,Didelphis,aurita,Didelphis aurita,Didelphis_aurita,1,1,0,1,1164,Vert/Invert/Nonfibrous,1.164,Vert/Invert Omnivore
+Didelphimorphia,Didelphidae,Didelphis,virginiana,Didelphis virginiana,Didelphis_virginiana,1,1,0,1,2195.5,Vert/Invert/Nonfibrous,2.1955,Vert/Invert Omnivore
+Didelphimorphia,Didelphidae,Marmosa,mexicana,Marmosa mexicana,Marmosa_mexicana,1,1,0,1,49.5,Vert/Invert/Nonfibrous,0.0495,Vert/Invert Omnivore
+Didelphimorphia,Didelphidae,Marmosa,robinsoni,Marmosa robinsoni,Marmosa_robinsoni,1,1,0,1,56.7,Vert/Invert/Nonfibrous,0.0567,Vert/Invert Omnivore
+Didelphimorphia,Didelphidae,Marmosops,incanus,Marmosops incanus,Marmosops_incanus,1,1,0,1,62.3,Vert/Invert/Nonfibrous,0.0623,Vert/Invert Omnivore
+Didelphimorphia,Didelphidae,Monodelphis,domestica,Monodelphis domestica,Monodelphis_domestica,1,1,0,1,71.4,Vert/Invert/Nonfibrous,0.0714,Vert/Invert Omnivore
+Didelphimorphia,Didelphidae,Philander,opossum,Philander opossum,Philander_opossum,1,1,0,1,585,Vert/Invert/Nonfibrous,0.585,Vert/Invert Omnivore
+Didelphimorphia,Didelphidae,Tlacuatzin,canescens,Tlacuatzin canescens,Tlacuatzin_canescens,1,1,0,1,60,Vert/Invert/Nonfibrous,0.06,Vert/Invert Omnivore
+Diprotodontia,Petauridae,Dactylopsila,trivirgata,Dactylopsila trivirgata,Dactylopsila_trivirgata,1,1,0,1,413,Vert/Invert/Nonfibrous,0.413,Vert/Invert Omnivore
+Diprotodontia,Petauridae,Petaurus,breviceps,Petaurus breviceps,Petaurus_breviceps,1,1,0,1,106,Vert/Invert/Nonfibrous,0.106,Vert/Invert Omnivore
+Erinaceomorpha,Erinaceidae,Atelerix,algirus,Atelerix algirus,Atelerix_algirus,1,1,1,1,1250,Vert/Invert/Nonfibrous/Fibrous,1.25,Vert/Invert Omnivore
+Peramelemorphia,Peramelidae,Isoodon,auratus,Isoodon auratus,Isoodon_auratus,1,1,0,1,425,Vert/Invert/Nonfibrous,0.425,Vert/Invert Omnivore
+Peramelemorphia,Peramelidae,Isoodon,macrourus,Isoodon macrourus,Isoodon_macrourus,1,1,0,1,1600,Vert/Invert/Nonfibrous,1.6,Vert/Invert Omnivore
+Primates,Cebidae,Cebus,capucinus,Cebus capucinus,Cebus_capucinus,1,1,1,1,2733.3,Vert/Invert/Nonfibrous/Fibrous,2.7333,Vert/Invert Omnivore
+Primates,Cebidae,Leontopithecus,chrysomelas,Leontopithecus chrysomelas,Leontopithecus_chrysomelas,1,1,0,1,700,Vert/Invert/Nonfibrous,0.7,Vert/Invert Omnivore
+Primates,Cebidae,Leontopithecus,rosalia,Leontopithecus rosalia,Leontopithecus_rosalia,1,1,0,1,535.5,Vert/Invert/Nonfibrous,0.5355,Vert/Invert Omnivore
+Primates,Cebidae,Saguinus,oedipus,Saguinus oedipus,Saguinus_oedipus,1,1,0,1,430,Vert/Invert/Nonfibrous,0.43,Vert/Invert Omnivore
+Primates,Cercopithecidae,Cercocebus,galeritus,Cercocebus galeritus,Cercocebus_galeritus,1,1,1,1,7835,Vert/Invert/Nonfibrous/Fibrous,7.835,Vert/Invert Omnivore
+Primates,Cercopithecidae,Cercocebus,torquatus,Cercocebus torquatus,Cercocebus_torquatus,1,1,1,1,7750,Vert/Invert/Nonfibrous/Fibrous,7.75,Vert/Invert Omnivore
+Primates,Cercopithecidae,Cercopithecus,cephus,Cercopithecus cephus,Cercopithecus_cephus,1,1,1,1,3485,Vert/Invert/Nonfibrous/Fibrous,3.485,Vert/Invert Omnivore
+Primates,Cercopithecidae,Cercopithecus,pogonias,Cercopithecus pogonias,Cercopithecus_pogonias,1,1,1,1,3765,Vert/Invert/Nonfibrous/Fibrous,3.765,Vert/Invert Omnivore
+Primates,Cercopithecidae,Macaca,arctoides,Macaca arctoides,Macaca_arctoides,1,1,1,1,5000,Vert/Invert/Nonfibrous/Fibrous,5,Vert/Invert Omnivore
+Primates,Cercopithecidae,Macaca,assamensis,Macaca assamensis,Macaca_assamensis,1,1,0,1,12000,Vert/Invert/Nonfibrous,12,Vert/Invert Omnivore
+Primates,Cercopithecidae,Macaca,sinica,Macaca sinica,Macaca_sinica,1,1,1,1,3590,Vert/Invert/Nonfibrous/Fibrous,3.59,Vert/Invert Omnivore
+Primates,Cercopithecidae,Miopithecus,talapoin,Miopithecus talapoin,Miopithecus_talapoin,1,1,1,1,1250,Vert/Invert/Nonfibrous/Fibrous,1.25,Vert/Invert Omnivore
+Primates,Hominidae,Homo,sapiens,Homo sapiens,Homo_sapiens,1,1,1,1,127000,Vert/Invert/Nonfibrous/Fibrous,127,Vert/Invert Omnivore
+Primates,Hominidae,Pan,troglodytes,Pan troglodytes,Pan_troglodytes,1,1,1,1,44999.7,Vert/Invert/Nonfibrous/Fibrous,44.9997,Vert/Invert Omnivore
+Primates,Hominidae,Pongo,pygmaeus,Pongo pygmaeus,Pongo_pygmaeus,1,1,1,1,37000,Vert/Invert/Nonfibrous/Fibrous,37,Vert/Invert Omnivore
+Primates,Lorisidae,Loris,tardigradus,Loris tardigradus,Loris_tardigradus,1,1,0,1,227.65,Vert/Invert/Nonfibrous,0.22765,Vert/Invert Omnivore
+Primates,Lorisidae,Nycticebus,coucang,Nycticebus coucang,Nycticebus_coucang,1,1,1,1,1187,Vert/Invert/Nonfibrous/Fibrous,1.187,Vert/Invert Omnivore
+Primates,Lorisidae,Nycticebus,pygmaeus,Nycticebus pygmaeus,Nycticebus_pygmaeus,1,1,0,1,900,Vert/Invert/Nonfibrous,0.9,Vert/Invert Omnivore
+Primates,Lorisidae,Perodicticus,potto,Perodicticus potto,Perodicticus_potto,1,1,1,1,1100,Vert/Invert/Nonfibrous/Fibrous,1.1,Vert/Invert Omnivore
+Primates,Tarsiidae,Tarsius,bancanus,Tarsius bancanus,Tarsius_bancanus,1,1,0,1,94.25,Vert/Invert/Nonfibrous,0.09425,Vert/Invert Omnivore
+Rodentia,Bathyergidae,Cryptomys,mechowi,Cryptomys mechowi,Cryptomys_mechowi,1,1,0,1,272,Vert/Invert/Nonfibrous,0.272,Vert/Invert Omnivore
+Rodentia,Cricetidae,Nectomys,squamipes,Nectomys squamipes,Nectomys_squamipes,1,1,1,1,190.7,Vert/Invert/Nonfibrous/Fibrous,0.1907,Vert/Invert Omnivore
+Rodentia,Cricetidae,Onychomys,leucogaster,Onychomys leucogaster,Onychomys_leucogaster,1,1,1,1,27.9,Vert/Invert/Nonfibrous/Fibrous,0.0279,Vert/Invert Omnivore
+Rodentia,Cricetidae,Oryzomys,palustris,Oryzomys palustris,Oryzomys_palustris,1,1,1,1,53.9,Vert/Invert/Nonfibrous/Fibrous,0.0539,Vert/Invert Omnivore
+Rodentia,Cricetidae,Peromyscus,truei,Peromyscus truei,Peromyscus_truei,1,1,0,1,27.4,Vert/Invert/Nonfibrous,0.0274,Vert/Invert Omnivore
+Rodentia,Gliridae,Eliomys,quercinus,Eliomys quercinus,Eliomys_quercinus,1,1,0,1,115,Vert/Invert/Nonfibrous,0.115,Vert/Invert Omnivore
+Rodentia,Gliridae,Muscardinus,avellanarius,Muscardinus avellanarius,Muscardinus_avellanarius,1,1,0,1,27.5,Vert/Invert/Nonfibrous,0.0275,Vert/Invert Omnivore
+Rodentia,Muridae,Meriones,meridianus,Meriones meridianus,Meriones_meridianus,1,1,1,1,53,Vert/Invert/Nonfibrous/Fibrous,0.053,Vert/Invert Omnivore
+Rodentia,Muridae,Meriones,tamariscinus,Meriones tamariscinus,Meriones_tamariscinus,1,1,1,1,105,Vert/Invert/Nonfibrous/Fibrous,0.105,Vert/Invert Omnivore
+Rodentia,Sciuridae,Ammospermophilus,leucurus,Ammospermophilus leucurus,Ammospermophilus_leucurus,1,1,1,1,103.7,Vert/Invert/Nonfibrous/Fibrous,0.1037,Vert/Invert Omnivore
+Rodentia,Sciuridae,Glaucomys,volans,Glaucomys volans,Glaucomys_volans,1,1,1,1,63.9,Vert/Invert/Nonfibrous/Fibrous,0.0639,Vert/Invert Omnivore
+Rodentia,Sciuridae,Spermophilus,elegans,Spermophilus elegans,Spermophilus_elegans,1,1,1,0,453.6,Vert/Invert/Fibrous,0.4536,Vert/Invert Omnivore
+Rodentia,Sciuridae,Spermophilus,mexicanus,Spermophilus mexicanus,Spermophilus_mexicanus,1,1,1,1,189.6,Vert/Invert/Nonfibrous/Fibrous,0.1896,Vert/Invert Omnivore
+Rodentia,Sciuridae,Tamias,panamintinus,Tamias panamintinus,Tamias_panamintinus,1,1,1,1,52.3,Vert/Invert/Nonfibrous/Fibrous,0.0523,Vert/Invert Omnivore
+Rodentia,Sciuridae,Tamias,quadrimaculatus,Tamias quadrimaculatus,Tamias_quadrimaculatus,1,1,1,1,85.2,Vert/Invert/Nonfibrous/Fibrous,0.0852,Vert/Invert Omnivore
+Scandentia,Tupaiidae,Tupaia,glis,Tupaia glis,Tupaia_glis,1,1,0,1,159,Vert/Invert/Nonfibrous,0.159,Vert/Invert Omnivore
+Scandentia,Tupaiidae,Tupaia,minor,Tupaia minor,Tupaia_minor,1,1,0,1,64.3,Vert/Invert/Nonfibrous,0.0643,Vert/Invert Omnivore
+Scandentia,Tupaiidae,Urogale,everetti,Urogale everetti,Urogale_everetti,1,1,0,1,350,Vert/Invert/Nonfibrous,0.35,Vert/Invert Omnivore
+Soricomorpha,Soricidae,Blarina,carolinensis,Blarina carolinensis,Blarina_carolinensis,1,1,0,1,13.5,Vert/Invert/Nonfibrous,0.0135,Vert/Invert Omnivore
+Soricomorpha,Soricidae,Sorex,pacificus,Sorex pacificus,Sorex_pacificus,1,1,0,1,6.7,Vert/Invert/Nonfibrous,0.0067,Vert/Invert Omnivore

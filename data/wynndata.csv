@@ -1,0 +1,227 @@
+Species.Name,Common.Name.or.Group,FaName,Eats_terrestrial_verts,Eats_fruit,Eats_arthropods,Eats_terrestrial_inverts,Eats_leaves,Eats_grains_seeds,Eats_nectar,Eats_eggs,Eats_fungi,Eats_lichen,Eats_molluscs,Eats_fish,Eats_marine_mammals,Meyer.Lab.Classification,BMR_per_mass,Diet_breadth,Trophic_level,Faith_diversity,Shannon_diversity
+Tupaia chinensis,Chinese tree shrew,vs_tupChi1,1,1,1,0,1,1,0,0,0,0,0,0,0,Rare/Ambiguous,NA,NA,NA,NA,NA
+Tupaia tana,Sumatran tree shrew,vs_tupBel1,0,1,1,0,1,1,0,0,0,0,0,0,0,Rare/Ambiguous,NA,4,2,NA,NA
+Acinonyx jubatus,Cheetah,vs_HLaciJub2,1,0,0,0,0,0,0,0,0,0,0,0,0,Carnivore,48900,1,3,10.33790931,3.983976669
+Canis lupus familiaris,Dog,vs_canFam4,1,0,0,0,0,0,0,0,0,0,0,0,0,Carnivore,NA,NA,NA,NA,NA
+Canis lupus familiaris,Dog,vs_canFam5,1,0,0,0,0,0,0,0,0,0,0,0,0,Carnivore,NA,NA,NA,NA,NA
+Cryptoprocta ferox,Fossa,vs_HLcryFer2,1,0,1,0,0,0,0,0,0,0,0,0,0,Carnivore,NA,2,3,7.011356206,3.194726719
+Eschrichtius robustus,Gray Whale,vs_HLescRob1,0,0,1,1,0,0,0,0,0,0,1,1,0,Carnivore,NA,3,2,NA,NA
+Eubalaena japonica,North Atlantic Right Whale,vs_HLeubJap1,0,0,1,0,0,0,0,0,0,0,1,1,0,Carnivore,NA,NA,NA,NA,NA
+Felis catus,Cat,vs_felCat9,1,0,0,0,0,0,0,0,0,0,0,0,0,Carnivore,NA,NA,NA,NA,NA
+Felis nigripes,Black-footed cat,vs_HLfelNig1,1,0,0,0,0,0,0,0,0,0,0,0,0,Carnivore,NA,1,3,NA,NA
+Hyaena hyaena,Striped hyaena,vs_HLhyaHya1,1,1,1,0,0,0,0,0,0,0,0,0,0,Carnivore,26800,6,2,27.03020862,5.378204135
+Kogia breviceps,Dwarf Sperm Whales,vs_HLkogBre1,0,0,1,0,0,0,0,0,0,0,1,1,0,Carnivore,NA,2,3,NA,NA
+Lycaon pictus,African Hunting Dog ,vs_HLlycPic3,1,0,0,0,0,0,0,0,0,0,0,0,0,Carnivore,15375,1,3,17.6012292,4.69848032
+Megaderma lyra,Asian False Vampire Bats,vs_HLmegLyr2,1,0,1,0,0,0,0,0,0,0,0,0,0,Carnivore,NA,2,3,NA,NA
+Mustela putorius,Ferret,vs_HLmusFur2,1,0,0,0,0,0,0,0,0,0,0,0,0,Carnivore,1030,1,3,NA,NA
+Panthera onca,Jaguar,vs_HLpanOnc2,1,0,0,0,0,0,0,0,0,0,0,1,0,Carnivore,86200,1,3,11.42431288,4.085043294
+Panthera pardus,Leopard,vs_HLpanPar1,1,0,1,0,0,0,0,0,0,0,0,0,0,Carnivore,NA,1,3,NA,NA
+Panthera tigris,Tiger,vs_panTig1,1,0,0,0,0,0,0,0,0,0,0,0,0,Carnivore,161000,1,3,NA,NA
+Puma concolor,Puma,vs_HLpumCon1,1,0,0,0,0,0,0,0,0,0,0,0,0,Carnivore,51800,1,3,8.612958554,3.90733759
+Ursus maritimus,Polar Bear,vs_ursMar1,1,0,0,0,1,0,0,0,0,0,0,1,1,Carnivore,365000,3,2,NA,NA
+Vulpes lagopus,Arctic Fox,vs_HLvulLag1,1,0,0,0,0,0,0,1,0,0,1,1,1,Carnivore,3200,1,3,NA,NA
+Ziphius cavirostris,Goose-beaked Whale,vs_HLzipCav1,0,0,0,0,0,0,0,0,0,0,1,1,0,Carnivore,NA,1,3,NA,NA
+Condylura cristata,Star-nosed mole,vs_conCri1,0,0,1,1,0,0,0,0,0,0,0,1,0,Carnivore,NA,2,3,NA,NA
+Orcinus orca,Killer whale,vs_orcOrc1,0,0,0,0,0,0,0,0,0,0,1,1,1,Carnivore,NA,2,3,NA,NA
+Balaenoptera acutorostrata,Minke Whale,vs_balAcu1,0,0,1,0,0,0,0,0,0,0,1,1,0,Planktivore,NA,2,3,NA,NA
+Cricetomys gambianus,African Giant Pouched Rats,vs_HLcriGam1,0,0,1,0,1,0,0,0,0,0,1,0,0,Generalist,1521.4,NA,NA,NA,NA
+Erinaceus europaeus,Hedgehog,vs_eriEur2,1,1,0,1,0,0,0,1,0,0,0,0,0,Generalist,970.6,8,2,NA,NA
+Homo sapiens,Human,vs_REFERENCE,1,1,1,1,1,1,0,0,0,0,0,0,0,Generalist,NA,NA,NA,NA,NA
+Mus caroli,Ryukyu mouse,vs_HLmusCar1,1,1,1,0,1,1,0,0,0,0,0,0,0,Generalist,NA,NA,NA,NA,NA
+Mus musculus,Common mouse,vs_mm39,1,1,1,0,1,1,0,0,0,0,0,0,0,Generalist,35.7,1,3,NA,NA
+Mus pahari,Gairdner's shrewmouse,vs_HLmusPah1,1,1,1,0,1,1,0,0,0,0,0,0,0,Generalist,NA,NA,NA,NA,NA
+Mus spretus,Algerian mouse,vs_HLmusSpr1,1,1,1,0,1,1,0,0,0,0,0,0,0,Generalist,21.8,NA,NA,NA,NA
+Papio anubis,Olive Baboon,vs_HLpapAnu5,1,1,1,0,1,1,0,1,0,0,1,1,0,Generalist,NA,NA,NA,50.00188382,7.129895163
+Rattus norvegicus,Rat,vs_HLratNor7,1,1,1,1,1,1,0,1,0,0,0,1,0,Generalist,NA,1,1,NA,NA
+Sus scrofa,Pig,vs_susScr11,1,0,1,1,1,1,0,1,1,0,0,0,0,Generalist,NA,5,2,NA,NA
+Desmodus rotundus,Common Vampire Bat,vs_HLdesRot2,0,0,0,0,0,0,0,0,0,0,0,0,0,Rare/Ambiguous,29.4,1,3,96.28283989,3.400864902
+Alouatta palliata,Howler Monkey,vs_HLaloPal1,0,1,0,0,1,0,0,0,0,0,0,0,0,Herbivore,4670,2,1,39.70696246,6.645463243
+Ammotragus lervia,Aoudad,vs_HLammLer1,0,0,0,0,1,0,0,0,0,0,0,0,0,Herbivore,NA,2,1,77.95260135,8.158747604
+Antilocapra americana,Pronghorn,vs_HLantAme1,0,0,0,0,1,0,0,0,0,0,0,0,0,Herbivore,32000,2,1,NA,NA
+Aplodontia rufa,Sewellel ,vs_HLaplRuf1,0,0,0,0,1,0,0,0,0,0,0,0,0,Herbivore,793,2,1,NA,NA
+Artibeus jamaicensis,Neotropical Fruit Bats,vs_HLartJam2,0,1,0,0,1,0,0,0,0,0,0,0,0,Herbivore,45.2,4,2,6.274478497,1.770085441
+Beatragus hunteri,Sassabie,vs_HLbeaHun1,0,0,0,0,1,0,0,0,0,0,0,0,0,Herbivore,NA,1,1,NA,NA
+Bison bison,American Bison,vs_bisBis1,0,0,0,0,1,0,0,0,0,0,0,0,0,Herbivore,NA,2,1,NA,NA
+Bos indicus,Zebu,vs_HLbosInd2,0,0,0,0,1,0,0,0,0,0,0,0,0,Herbivore,NA,NA,NA,55.322575,7.3210645
+Bos mutus,Yak,vs_HLbosMut2,0,0,0,0,1,0,0,0,0,1,0,0,0,Herbivore,NA,NA,NA,NA,NA
+Bos taurus,Cow,vs_bosTau9,0,0,0,0,1,0,0,0,0,0,0,0,0,Herbivore,NA,NA,NA,NA,NA
+Bubalus bubalis,Asian Water Buffalo,vs_HLbubBub2,0,1,0,0,1,0,0,0,0,0,0,0,0,Herbivore,NA,2,1,NA,NA
+Capra aegagrus,Wild goat,vs_HLcapAeg1,0,0,0,0,1,0,0,0,0,0,0,0,0,Herbivore,NA,NA,NA,NA,NA
+Capra hircus,Domestic goat,vs_HLcapHir2,0,0,0,0,1,0,0,0,0,0,0,0,0,Herbivore,NA,2,1,NA,NA
+Castor canadensis,Beaver,vs_HLcasCan3,0,0,0,0,1,0,0,0,0,0,0,0,0,Herbivore,NA,3,1,NA,NA
+Cavia aperea,Brazilian guinea pig,vs_cavApe1,0,0,0,0,1,0,0,0,0,0,0,0,0,Herbivore,NA,1,1,NA,NA
+Cavia porcellus,Domestic guinea pig,vs_cavPor3,0,0,0,0,1,0,0,0,0,0,0,0,0,Herbivore,NA,NA,NA,NA,NA
+Cavia tschudii,Montane guinea pig,vs_HLcavTsc1,0,0,0,0,1,0,0,0,0,0,0,0,0,Herbivore,NA,NA,NA,NA,NA
+Ceratotherium simum,White rhinoceros,vs_cerSim1,0,0,0,0,1,0,0,0,0,0,0,0,0,Herbivore,NA,1,1,51.02425754,6.486785927
+Ceratotherium simum cottoni,White rhinoceros (Chad),vs_HLcerSimCot1,0,0,0,0,1,0,0,0,0,0,0,0,0,Herbivore,NA,NA,NA,NA,NA
+Cheirogaleus medius,Dwarf Lemur,vs_HLcheMed1,0,1,1,0,0,0,1,0,0,0,0,0,0,Herbivore,300,5,2,NA,NA
+Chinchilla lanigera,Chinchilla,vs_chiLan1,0,0,0,0,1,1,0,0,0,0,0,0,0,Herbivore,403,6,1,25.47847634,4.780269796
+Colobus angolensis,Black-and-white Colobus Monkey,vs_colAng1,0,1,0,0,1,1,0,0,0,0,0,0,0,Herbivore,NA,1,1,37.20012027,6.527647565
+Cricetulus griseus,Chinese hamster,vs_HLcriGri3,0,0,1,0,1,1,0,0,0,0,0,0,0,Herbivore,NA,NA,NA,NA,NA
+Ctenodactylus gundi,Gundi,vs_HLcteGun1,0,0,0,0,1,0,0,0,0,0,0,0,0,Herbivore,NA,NA,NA,NA,NA
+Ctenomys sociabilis,Tuco tuco,vs_HLcteSoc1,0,0,0,0,1,0,0,0,0,0,0,0,0,Herbivore,NA,NA,NA,NA,NA
+Dicerorhinus sumatrensis,Sumatran Rhinoceros,vs_HLdicSum1,0,1,0,0,1,1,0,0,0,0,0,0,0,Herbivore,NA,2,1,NA,NA
+Diceros bicornis,Black Rhinoceros,vs_HLdicBic1,0,0,0,0,1,0,0,0,0,0,0,0,0,Herbivore,NA,2,1,55.71448308,6.956050937
+Dinomys branickii,Pacarana,vs_HLdinBra1,0,1,0,0,1,0,0,0,0,0,0,0,0,Herbivore,NA,4,1,NA,NA
+Dolichotis patagonum,Patagonian cavy,vs_HLdolPat1,0,0,0,0,1,0,0,0,0,0,0,0,0,Herbivore,NA,2,1,30.87051206,5.153312174
+Eidolon helvum,Straw-colored Fruit Bats,vs_HLeidHel2,0,1,0,0,1,0,1,0,0,0,0,0,0,Herbivore,NA,2,1,NA,NA
+Elaphurus davidianus,Pere David's Deer,vs_HLelaDav1,0,0,0,0,1,0,0,0,0,0,0,0,0,Herbivore,NA,2,1,NA,NA
+Ellobius lutescens,Transcaucasian mole vole,vs_HLellLut1,0,0,0,0,1,0,0,0,0,0,0,0,0,Herbivore,NA,NA,NA,NA,NA
+Ellobius talpinus,Northern Mole Vole,vs_HLellTal1,0,0,0,0,1,0,0,0,0,0,0,0,0,Herbivore,NA,NA,NA,NA,NA
+Equus asinus,Wild Donkey,vs_HLequAsiAsi2,0,0,0,0,1,0,0,0,0,0,0,0,0,Herbivore,NA,NA,NA,75.78172659,7.529978562
+Equus caballus,Horse,vs_equCab3,0,0,0,0,1,0,0,0,0,0,0,0,0,Herbivore,NA,1,1,69.66555,7.619046
+Equus przewalskii,Przewalskii Horse,vs_equPrz1,0,0,0,0,1,0,0,0,0,0,0,0,0,Herbivore,NA,NA,NA,NA,NA
+Eulemur flavifrons,Lemur,vs_HLeulFla1,0,1,0,0,1,0,0,0,0,0,0,0,0,Herbivore,NA,NA,NA,NA,NA
+Eulemur fulvus,Lemur,vs_HLeulFul1,0,1,0,0,1,0,0,0,0,0,0,0,0,Herbivore,2374.5,3,1,NA,NA
+Giraffa tippelskirchi,Giraffe,vs_HLgirTip1,0,0,0,0,1,0,0,0,0,0,0,0,0,Herbivore,NA,NA,NA,NA,NA
+Gorilla gorilla,Gorilla,vs_gorGor6,0,1,1,0,1,1,0,0,0,0,0,0,0,Herbivore,NA,3,2,50.5477277,6.866468649
+Hemitragus hylocrius,Tahr,vs_HLhemHyl1,0,1,0,0,1,1,0,0,0,0,0,0,0,Herbivore,NA,2,1,NA,NA
+Heterocephalus glaber,Naked mole-rat,vs_hetGla2,0,0,0,0,0,0,0,0,0,0,0,0,0,Herbivore,39.25,1,1,23.19209739,4.375184996
+Hydrochoerus hydrochaeris,Capybara,vs_HLhydHyd1,0,1,0,0,1,1,0,0,0,0,0,0,0,Herbivore,26385,5,1,NA,NA
+Indri indri,Indri,vs_HLindInd1,0,1,0,0,1,0,0,0,0,0,0,0,0,Herbivore,NA,4,1,NA,NA
+Jaculus jaculus,Lesser Egyptian jerboa,vs_jacJac1,0,0,0,0,1,1,0,0,0,0,0,0,0,Herbivore,75,NA,NA,NA,NA
+Loxodonta africana,Elephant,vs_HLloxAfr4,0,1,0,0,1,0,0,0,0,0,0,0,0,Herbivore,NA,4,1,57.40535365,7.112780297
+Macroglossus sobrinus,Long-tongued Fruit Bats,vs_HLmacSob1,0,1,0,0,0,0,1,0,0,0,0,0,0,Herbivore,NA,1,1,NA,NA
+Meriones unguiculatus,Jird,vs_HLmerUng1,0,1,1,0,1,1,0,0,0,0,0,0,0,Herbivore,70,NA,NA,NA,NA
+Microtus ochrogaster,Prairie vole,vs_micOch1,0,0,0,0,1,1,0,0,0,0,0,0,0,Herbivore,47.4,4,2,NA,NA
+Moschus moschiferus,Musk Deer,vs_HLmosMos1,0,0,0,0,1,0,0,0,0,1,0,0,0,Herbivore,NA,3,1,NA,NA
+Myocastor coypus,Nutria,vs_HLmyoCoy1,0,0,0,0,1,0,0,0,0,0,0,0,0,Herbivore,NA,6,2,NA,NA
+Nannospalax galili,Mediterranean Blind Mole-rats,vs_nanGal1,0,0,0,0,1,1,0,0,0,0,0,0,0,Herbivore,NA,NA,NA,NA,NA
+Nasalis larvatus,Proboscis Monkey,vs_nasLar1,0,1,0,0,1,1,0,0,0,0,0,0,0,Herbivore,NA,4,1,30.18463422,5.88993882
+Nomascus leucogenys,Gibbon,vs_HLnomLeu4,0,1,1,0,1,0,0,0,0,0,0,0,0,Herbivore,NA,NA,NA,NA,NA
+Ochotona princeps,Pika,vs_ochPri3,0,0,0,0,1,0,0,0,0,0,0,0,0,Herbivore,109,2,1,NA,NA
+Octodon degus,Brush-tailed rat,vs_octDeg1,0,1,0,0,1,1,0,0,0,0,0,0,0,Herbivore,200.7,7,2,21.47085333,4.851273
+Odocoileus virginianus,White-tailed Deer,vs_HLodoVir3,0,0,0,0,1,0,0,0,1,1,0,0,0,Herbivore,NA,4,1,NA,NA
+Okapia johnstoni,Okapia,vs_HLokaJoh2,0,1,0,0,1,1,0,0,0,0,0,0,0,Herbivore,NA,1,1,46.91068681,6.414693676
+Oryctolagus cuniculus,Rabbit,vs_HLoryCunCun4,0,0,0,0,1,0,0,0,0,0,0,0,0,Herbivore,NA,2,1,29.02952516,5.642433022
+Otolemur garnettii,Bushbaby,vs_otoGar3,0,1,1,0,0,0,1,0,0,0,0,0,0,Herbivore,NA,3,2,NA,NA
+Ovis aries,Domestic sheep,vs_HLoviAri5,0,0,0,0,1,0,0,0,0,0,0,0,0,Herbivore,NA,2,1,NA,NA
+Ovis canadensis,Bighorn sheep,vs_HLoviCan1,0,0,0,0,1,0,0,0,0,0,0,0,0,Herbivore,65000,2,1,65.85253547,7.5900663
+Pantholops hodgsonii,Tibetan antelope,vs_panHod1,0,0,0,0,1,0,0,0,0,0,0,0,0,Herbivore,NA,NA,NA,NA,NA
+Petromus typicus,Dassie rat,vs_HLpetTyp1,0,1,0,0,1,1,0,0,0,0,0,0,0,Herbivore,NA,3,1,NA,NA
+Piliocolobus tephrosceles,Red Colobus Monkey,vs_HLpilTep2,0,1,0,0,1,1,0,0,0,0,0,0,0,Herbivore,NA,NA,NA,NA,NA
+Procavia capensis,Hydrax,vs_HLproCap3,0,0,0,0,1,0,0,0,0,0,0,0,0,Herbivore,2325,5,1,27.95833102,5.446953617
+Propithecus coquereli,Sifakas,vs_proCoq1,0,1,0,0,1,0,0,0,0,0,0,0,0,Herbivore,NA,NA,NA,NA,NA
+Psammomys obesus,Fat sand rat,vs_HLpsaObe1,0,0,0,0,1,1,0,0,0,0,0,0,0,Herbivore,NA,NA,NA,NA,NA
+Pteropus alecto,Black flying-fox,vs_pteAle1,0,1,0,0,0,0,0,0,0,0,0,0,0,Herbivore,NA,1,1,NA,NA
+Pteropus vampyrus,Megabat,vs_HLpteVam2,0,1,0,0,0,0,0,0,0,0,0,0,0,Herbivore,NA,2,1,NA,NA
+Pygathrix nemaeus,Douc Langur,vs_HLpygNem1,0,1,0,0,1,0,0,0,0,0,0,0,0,Herbivore,NA,2,1,NA,NA
+Rangifer tarandus,Reindeer,vs_HLranTar1,0,0,0,0,1,0,0,0,0,1,0,0,0,Herbivore,NA,3,1,NA,NA
+Rhinopithecus bieti,Snub-nosed Langur ,vs_rhiBie1,0,1,0,0,1,0,0,0,0,1,0,0,0,Herbivore,NA,5,2,43.45224637,6.592624641
+Rhinopithecus roxellana,Snub-nosed Langur ,vs_HLrhiRox2,0,1,0,0,1,0,0,0,0,1,0,0,0,Herbivore,NA,2,1,39.22672072,6.505367594
+Rousettus aegyptiacus,Rousette Fruit Bats,vs_HLrouAeg4,0,1,0,0,0,0,1,0,0,0,0,0,0,Herbivore,126,3,1,7.956480323,2.621556571
+Saiga tatarica,Saiga,vs_HLsaiTat1,0,0,0,0,1,0,0,0,0,0,0,0,0,Herbivore,NA,2,1,NA,NA
+Semnopithecus entellus,Hanuman Langur,vs_HLsemEnt1,0,1,0,0,1,0,0,0,0,0,0,0,0,Herbivore,NA,2,1,45.74242995,7.190459993
+Tapirus indicus,Malayan Tapir,vs_HLtapInd2,0,0,0,0,1,1,0,0,0,0,0,0,0,Herbivore,NA,3,1,NA,NA
+Tapirus terrestris,South American Tapir,vs_HLtapTer1,0,0,0,0,1,1,0,0,0,0,0,0,0,Herbivore,NA,5,2,44.63353,5.782056
+Thryonomys swinderianus,Cane rat,vs_HLthrSwi1,0,1,0,0,1,1,0,0,0,0,0,0,0,Herbivore,NA,2,1,NA,NA
+Tragulus javanicus,Asiatic Mouse Deer,vs_HLtraJav1,0,1,0,0,1,0,0,0,0,0,0,0,0,Herbivore,1618,3,1,28.88144689,3.008183424
+Trichechus manatus latirostris,Manatee,vs_triMan1,0,0,0,0,1,0,0,0,0,0,0,0,0,Herbivore,NA,NA,NA,30.27016,5.387516
+Vicugna pacos,Alpaca,vs_vicPac2,0,0,0,0,1,0,0,0,0,0,0,0,0,Herbivore,NA,NA,NA,NA,NA
+Chrysochloris asiatica,Cape golden mole,vs_chrAsi1,0,0,0,1,0,0,0,0,0,0,0,0,0,Insectivore,34,2,3,NA,NA
+Craseonycteris thonglongyai,Kitti's Hog-nosed Bat,vs_HLcraTho1,0,0,1,0,0,0,0,0,0,0,0,0,0,Insectivore,NA,1,3,NA,NA
+Elephantulus edwardii,Cape elephant shrew,vs_eleEdw1,0,0,1,0,0,0,0,0,NA,0,0,0,0,Insectivore,49.9,NA,NA,NA,NA
+Eptesicus fuscus,Big brown bat,vs_eptFus1,0,0,1,0,0,0,0,0,0,0,0,0,0,Insectivore,16.9,1,3,NA,NA
+Hipposideros armiger,Old World Leaf-nosed Bats,vs_HLhipArm1,0,0,1,0,0,0,0,0,0,0,0,0,0,Insectivore,NA,1,3,NA,NA
+Hipposideros galeritus,Old World Leaf-nosed Bats,vs_HLhipGal1,0,0,1,0,0,0,0,0,0,0,0,0,0,Insectivore,8.5,2,2,NA,NA
+Lasiurus borealis,Hairy-taled Bats,vs_HLlasBor1,0,0,1,0,0,0,0,0,0,0,0,0,0,Insectivore,12.2,1,3,NA,NA
+Manis javanica,Sunda pangolin,vs_HLmanJav2,0,0,1,0,0,0,0,0,0,0,0,0,0,Insectivore,4220,1,3,NA,NA
+Manis pentadactyla,Chinese pangolin,vs_HLmanPen2,0,0,1,0,0,0,0,0,0,0,0,0,0,Insectivore,NA,1,3,16.98132984,3.00817869
+Micronycteris hirsuta,Little Big-eared Bats,vs_HLmicHir1,0,1,1,0,0,0,0,0,0,0,0,0,0,Insectivore,NA,2,2,NA,NA
+Miniopterus natalensis,Long-winged bats,vs_HLminNat1,0,0,1,0,0,0,0,0,0,0,0,0,0,Insectivore,NA,1,3,NA,NA
+Miniopterus schreibersii,Long-winged bats,vs_HLminSch1,0,0,1,0,0,0,0,0,0,0,0,0,0,Insectivore,NA,1,3,NA,NA
+Mormoops blainvillei,Leaf-chinned Bats,vs_HLmorBla1,0,0,1,0,0,0,0,0,0,0,0,0,0,Insectivore,8.6,1,3,NA,NA
+Murina feae,Tube-nosed Insectivorous Bats,vs_HLmurAurFea1,0,0,1,0,0,0,0,0,0,0,0,0,0,Insectivore,NA,NA,NA,NA,NA
+Pipistrellus pipistrellus,Pipistrelles,vs_HLpipPip2,0,0,1,0,0,0,0,0,0,0,0,0,0,Insectivore,NA,1,3,NA,NA
+Pteronotus parnellii,Mustache Bat,vs_ptePar1,0,0,1,0,0,0,0,0,0,0,0,0,0,Insectivore,19.2,1,3,21.59377907,3.008334798
+Rhinolophus sinicus,Horseshoe Bats,vs_HLrhiSin1,0,0,1,0,0,0,0,0,0,0,0,0,0,Insectivore,NA,NA,NA,NA,NA
+Tadarida brasiliensis,Free-tailed Bats,vs_HLtadBra1,0,0,1,0,0,0,0,0,0,0,0,0,0,Insectivore,11.2,1,3,NA,NA
+Myotis brandtii,Brandt's bat,vs_myoBra1,0,0,1,0,0,0,0,0,0,0,0,0,0,Insectivore,NA,NA,NA,NA,NA
+Myotis davidii,David's myotis bat,vs_myoDav1,0,0,1,0,0,0,0,0,0,0,0,0,0,Insectivore,NA,NA,NA,NA,NA
+Myotis lucifugus,Microbat,vs_HLmyoLuc1,0,0,1,0,0,0,0,0,0,0,0,0,0,Insectivore,6.5,1,3,62.81104667,5.498781
+Myotis myotis,Greater mouse-eared bat,vs_HLmyoMyo6,0,0,1,0,0,0,0,0,0,0,0,0,0,Insectivore,NA,1,3,NA,NA
+Dasypus novemcinctus,Armadillo,vs_dasNov3,1,0,1,0,0,0,0,0,0,0,0,0,0,Insectivore/Carnivore,3510,5,2,38.9948748,5.518621557
+Mungos mungo,Banded mongoose,vs_HLmunMug1,1,0,1,1,0,0,0,1,0,0,0,0,0,Insectivore/Carnivore,NA,1,3,18.23899501,4.412094712
+Allactaga bullata,Gobi jerboa,vs_HLallBul1,0,0,0,0,0,1,0,0,0,0,0,0,0,Insectivore/Herbivore,NA,NA,NA,NA,NA
+Anoura caudifer,Geoffroy's Long-nosed Bats,vs_HLanoCau1,0,1,1,0,0,0,1,0,0,0,0,0,0,Insectivore/Herbivore,11.5,3,2,NA,NA
+Carollia perspicillata,Short-tailed Leaf-nosed Bats,vs_HLcarPer3,0,1,1,0,0,0,1,0,0,0,0,0,0,Insectivore/Herbivore,14.9,3,2,6.272461625,1.885706453
+Daubentonia madagascariensis,Aye-ayes,vs_HLdauMad1,0,1,1,0,1,0,1,0,0,0,0,0,0,Insectivore/Herbivore,NA,6,2,NA,NA
+Dipodomys ordii,Ord Kangaroo Rat,vs_dipOrd2,0,1,1,0,1,1,0,0,0,0,0,0,0,Insectivore/Herbivore,48.8,5,2,NA,NA
+Dipodomys stephensi,Stephens Kangaroo Rat,vs_HLdipSte1,0,1,1,0,1,1,0,0,0,0,0,0,0,Insectivore/Herbivore,NA,1,1,NA,NA
+Fukomys damarensis,Damara mole rat,vs_HLfukDam2,0,0,1,0,1,0,0,0,0,0,0,0,0,Insectivore/Herbivore,NA,NA,NA,NA,NA
+Lemur catta,Ring-tailed Lemur,vs_HLlemCat1,0,1,1,0,1,0,0,0,0,0,0,0,0,Insectivore/Herbivore,NA,4,2,37.17960584,5.78214886
+Marmota marmota,Marmot,vs_HLmarMar1,0,1,1,0,1,1,0,0,0,0,0,0,0,Insectivore/Herbivore,1868,3,1,NA,NA
+Perognathus longimembris,Silky Pocket Mouse,vs_HLperLonPac1,0,0,1,0,1,1,0,0,0,0,0,0,0,Insectivore/Herbivore,8.2,1,1,NA,NA
+Scalopus aquaticus,Eastern American Mole,vs_HLscaAqu1,0,0,1,1,1,0,0,0,0,0,0,0,0,Insectivore/Herbivore,NA,4,2,NA,NA
+Tonatia saurophila,Round-eared Bats,vs_HLtonSau1,0,1,1,0,0,0,0,0,0,0,0,0,0,Insectivore/Herbivore,NA,NA,NA,NA,NA
+Uropsilus gracilis,Asiatic Shrew Mole (Sichuan and Yunnan),vs_HLuroGra1,0,0,0,1,1,0,0,0,0,0,0,0,0,Insectivore/Herbivore,NA,NA,NA,NA,NA
+Zapus hudsonius,Jumping Mouse,vs_HLzapHud1,0,1,1,0,0,1,0,0,1,0,0,0,0,Insectivore/Herbivore,30,3,2,NA,NA
+Noctilio leporinus,Fisherman Bats,vs_HLnocLep1,0,0,1,0,0,0,0,0,0,0,0,1,0,Rare/Ambiguous,NA,NA,NA,4.152892093,0.280923773
+Acomys cahirinus,Spiny mouse,vs_HLacoCah1,1,0,0,0,1,1,0,0,0,0,0,0,0,Omnivore,NA,NA,NA,NA,NA
+Ailuropoda melanoleuca,Panda,vs_HLailMel2,1,0,0,0,1,0,0,0,0,0,0,1,0,Omnivore,NA,3,1,4.83188895,2.231361696
+Ailurus fulgens,Red Panda ,vs_HLailFul2,0,1,1,0,1,1,0,1,0,0,0,0,0,Omnivore,5345,3,1,83.182425,8.2450245
+Aotus nancymaae,Night Monkey,vs_aotNan1,1,1,1,0,1,1,1,0,0,0,0,0,0,Omnivore,NA,2,2,NA,NA
+Ateles geoffroyi,Spider Monkeys,vs_HLateGeo1,0,1,1,0,1,1,0,1,0,0,0,0,0,Omnivore,NA,2,1,39.16526979,6.076630901
+Callicebus donacophilus,Titi Monkey,vs_HLpleDon1,1,1,1,1,1,0,0,1,0,0,0,0,0,Omnivore,NA,NA,NA,NA,NA
+Callithrix jacchus,Marmoset,vs_HLcalJac4,1,1,1,0,1,1,1,0,0,0,0,0,0,Omnivore,190,5,2,NA,NA
+Camelus bactrianus,Bactrian Camel,vs_HLcamBac1,1,0,0,0,1,0,0,0,0,0,0,1,0,Omnivore,NA,2,1,NA,NA
+Camelus dromedarius,One-hump Camel,vs_HLcamDro2,1,0,0,0,1,0,0,0,0,0,0,1,0,Omnivore,407000,3,1,48.38790084,4.926369095
+Camelus ferus,Ferus Camel,vs_HLcamFer3,1,0,0,0,1,0,0,0,0,0,0,1,0,Omnivore,NA,NA,NA,NA,NA
+Catagonus wagneri,Chacoan Peccary,vs_HLcatWag1,1,0,0,0,1,1,0,0,0,0,0,0,0,Omnivore,NA,6,2,NA,NA
+Cercocebus atys,Sooty Mangabey,vs_cerAty1,1,1,0,0,0,0,0,0,0,0,0,0,0,Omnivore,NA,NA,NA,NA,NA
+Cercopithecus neglectus,Guenon,vs_HLcerNeg1,1,1,1,0,1,1,0,1,0,0,0,0,0,Omnivore,NA,3,2,39.1050529,6.44700264
+Chlorocebus sabaeus,Green monkey,vs_chlSab2,1,1,1,0,1,1,0,1,0,0,0,0,0,Omnivore,NA,NA,NA,NA,NA
+Dasyprocta punctata,Agouti,vs_HLdasPun1,0,1,1,0,1,1,0,0,0,0,0,0,0,Omnivore,NA,3,1,NA,NA
+Erythrocebus patas,Red Guenon,vs_HLeryPat1,1,1,1,0,1,1,0,1,1,0,0,0,0,Omnivore,NA,4,2,28.13350665,5.64223864
+Glis glis,Fat dormouse,vs_HLgliGli1,1,1,1,0,0,1,0,0,0,0,0,0,0,Omnivore,NA,NA,NA,NA,NA
+Graphiurus murinus,African dormouse,vs_HLgraMur1,1,1,1,0,0,1,0,1,0,0,0,0,0,Omnivore,NA,4,2,NA,NA
+Helogale parvula,Dwarf Mongoose,vs_HLhelPar1,1,1,1,0,0,0,0,1,0,0,0,0,0,Omnivore,NA,1,3,27.69269,5.860757
+Hystrix cristata,Porcupine,vs_HLhysCri1,1,1,1,0,1,1,0,0,0,0,0,0,0,Omnivore,NA,6,2,NA,NA
+Ictidomys tridecemlineatus,Ground Squirrel ,vs_speTri2,1,0,1,1,1,1,0,1,1,0,0,0,0,Omnivore,NA,NA,NA,NA,NA
+Lepus americanus,Hare,vs_HLlepAme1,1,0,0,0,1,0,0,0,0,0,0,0,0,Omnivore,1562.8,3,1,NA,NA
+Macaca fascicularis,Crab-eating macaque,vs_HLmacFas6,1,1,1,1,1,1,0,1,0,0,1,1,0,Omnivore,NA,3,2,NA,NA
+Macaca mulatta,Rhesus Macaca,vs_rheMac10,1,1,1,1,1,1,0,0,0,0,0,0,0,Omnivore,6225,1,1,NA,NA
+Macaca nemestrina,Southern Pig-tailed Macaca,vs_macNem1,1,1,1,1,1,1,0,0,0,0,0,0,0,Omnivore,NA,2,1,NA,NA
+Mandrillus leucophaeus,Drill,vs_manLeu1,1,1,0,1,1,1,0,0,1,0,0,0,0,Omnivore,NA,3,2,41.98851209,7.108735333
+Mellivora capensis,Honey Badger,vs_HLmelCap1,1,0,1,0,1,0,0,0,0,0,0,0,0,Omnivore,NA,6,2,NA,NA
+Mesocricetus auratus,Golden hamster,vs_mesAur1,1,1,0,0,1,1,0,0,0,0,0,0,0,Omnivore,NA,4,2,NA,NA
+Microcebus murinus,Mouse Lemur,vs_micMur3,1,1,1,0,1,0,1,0,0,0,0,0,0,Omnivore,101.05,5,2,33.21537251,5.97560595
+Mirza coquereli,Coquerel's Dwarf Lemur,vs_HLmirCoq1,1,1,1,0,0,0,1,1,0,0,0,0,0,Omnivore,NA,4,2,NA,NA
+Muscardinus avellanarius,Common dormouse,vs_HLmusAve1,1,1,1,0,0,1,0,1,0,0,0,0,0,Omnivore,NA,8,2,NA,NA
+Nycticebus coucang,Slow Loris,vs_HLnycCou1,1,1,1,0,0,0,0,0,0,0,1,0,0,Omnivore,960,6,2,NA,NA
+Ondatra zibethicus,Muskrat,vs_HLondZib1,1,0,0,0,1,0,0,0,0,0,0,0,0,Omnivore,1067.3,5,2,NA,NA
+Onychomys torridus,Southern grasshopper mouse,vs_HLonyTor1,1,0,1,0,1,0,0,0,0,0,0,0,0,Omnivore,19.1,1,3,NA,NA
+Pan paniscus,Bonobo,vs_panPan3,1,1,0,1,1,1,0,0,0,0,0,0,0,Omnivore,NA,6,2,NA,NA
+Pan troglodytes,Chimp,vs_panTro6,1,1,1,0,1,1,1,1,0,0,0,0,0,Omnivore,34150,6,2,42.83128572,6.481463239
+Paradoxurus hermaphroditus,Palm Civet,vs_HLparHer1,1,1,1,0,0,1,0,0,0,0,0,0,0,Omnivore,3205,6,2,NA,NA
+Peromyscus maniculatus,Deer mouse,vs_HLperManBai2,1,1,1,1,0,1,0,0,0,0,0,0,0,Omnivore,19.2,4,2,NA,NA
+Pithecia pithecia,Saki,vs_HLpitPit1,1,1,0,0,1,0,0,0,0,0,0,0,0,Omnivore,NA,2,1,45.06487509,6.10907188
+Pongo abelii,Orangutan,vs_ponAbe3,1,1,1,0,1,1,0,1,0,0,0,0,0,Omnivore,NA,NA,NA,39.307795,5.252809
+Saguinus imperator,Long-tusked Tamarins,vs_HLsagImp1,1,1,1,0,1,0,1,1,0,0,0,0,0,Omnivore,NA,2,2,15.86756231,4.544678428
+Saimiri boliviensis,Squirrel monkey,vs_HLsaiBol1,1,1,1,0,1,1,1,0,0,0,0,0,0,Omnivore,NA,NA,NA,15.67051581,3.060132662
+Sigmodon hispidus,Cotton Rat,vs_HLsigHis1,1,0,1,0,1,0,0,1,0,0,0,0,0,Omnivore,110.05,5,2,NA,NA
+Solenodon paradoxus,Solenodons,vs_HLsolPar1,1,1,0,1,1,0,0,1,0,0,0,0,0,Omnivore,NA,2,3,NA,NA
+Sorex araneus,Shrew,vs_sorAra2,1,0,1,1,1,0,0,0,0,0,0,0,0,Omnivore,8.05,5,2,NA,NA
+Spermophilus dauricus,Mongolian Ground Squirrel ,vs_HLspeDau1,1,0,1,1,1,1,0,1,1,0,0,0,0,Omnivore,NA,NA,NA,NA,NA
+Spilogale gracilis,Spotted Skunk,vs_HLspiGra1,1,0,1,0,1,0,0,0,0,0,0,0,0,Omnivore,NA,NA,NA,NA,NA
+Suricata suricatta,Slender-tailed Meerkat,vs_HLsurSur2,1,0,1,0,1,0,0,1,0,0,0,0,0,Omnivore,790,1,3,20.6030061,4.741465212
+Xerus inauris,African Ground Squirrel,vs_HLxerIna1,1,1,1,0,1,1,0,1,0,0,0,0,0,Omnivore,515.3,4,1,NA,NA
+Cebus albifrons,Ring-tailed Monkey,vs_HLcebAlb1,1,1,1,0,1,1,1,1,0,0,1,0,0,Generalist,NA,5,2,NA,NA
+Cebus capucinus,Ring-tailed Monkey,vs_cebCap1,1,1,1,0,1,1,1,1,0,0,1,0,0,Generalist,NA,4,2,NA,NA
+Delphinapterus leucas,Beluga Whale,vs_HLdelLeu2,0,0,0,0,0,0,0,0,0,0,1,1,0,Piscivore,NA,2,3,NA,NA
+Enhydra lutris,Sea Otter,vs_enhLutNer1,0,0,1,0,0,0,0,0,0,0,1,1,0,Piscivore,18000,6,2,NA,NA
+Inia geoffrensis,Amazon Dolphin,vs_HLlniGeo1,0,0,0,0,0,0,0,0,0,0,0,1,0,Piscivore,NA,2,3,NA,NA
+Leptonychotes weddellii,Weddell seal,vs_lepWed1,0,0,1,0,0,0,0,0,0,0,1,1,0,Piscivore,368000,6,2,NA,NA
+Lipotes vexillifer,Chinese River Dolphin,vs_lipVex1,0,0,0,0,0,0,0,0,0,0,0,1,0,Piscivore,NA,2,3,NA,NA
+Mesoplodon bidens,Beaked Whale,vs_HLmesBid1,0,0,0,0,0,0,0,0,0,0,1,1,0,Piscivore,NA,NA,NA,NA,NA
+Mirounga angustirostris,Elephant Seal,vs_HLmirAng2,0,0,0,0,0,0,0,0,0,0,1,1,0,Piscivore,NA,6,2,NA,NA
+Monodon monoceros,Narwal,vs_HLmonMon2,0,0,1,0,0,0,0,0,0,0,1,1,0,Piscivore,NA,2,3,NA,NA
+Neomonachus schauinslandi,Hawaiian Monk Seal,vs_neoSch1,0,0,1,0,0,0,0,0,0,0,1,1,0,Piscivore,NA,NA,NA,NA,NA
+Neophocaena asiaeorientalis,Finless Porpoise,vs_HLneoAsi1,0,0,1,0,0,0,0,0,0,0,1,1,0,Piscivore,NA,NA,NA,NA,NA
+Odobenus rosmarus,Pacific walrus,vs_HLodoRos1,0,0,1,0,0,0,0,0,0,0,1,1,0,Piscivore,NA,6,2,NA,NA
+Phocoena phocoena,Common Porpoise,vs_HLphoPho2,0,0,0,0,0,0,0,0,0,0,0,1,0,Piscivore,NA,2,3,NA,NA
+Platanista gangetica,Ganges Dolphin,vs_HLplaMin1,0,0,1,0,0,0,0,0,0,0,0,1,0,Piscivore,NA,2,3,NA,NA
+Pteronura brasiliensis,Giant Otter,vs_HLpteBra2,0,0,1,0,0,0,0,0,0,0,0,1,0,Piscivore,NA,1,3,30.06082062,5.83321107
+Zalophus californianus,California Sea Lion,vs_HLzalCal1,0,0,0,0,0,0,0,0,0,0,1,1,0,Piscivore,NA,6,2,27.198775,4.6522695
+Tursiops truncatus,Bottle-nose Dolphin,vs_HLturTru4,0,0,0,0,0,0,0,0,0,0,1,1,0,Piscivore,NA,2,3,NA,NA
+Balaenoptera bonaerensis,Antartic Minke Whale,vs_HLbalBon1,0,0,1,0,0,0,0,0,0,0,1,0,0,Planktivore,NA,NA,NA,NA,NA
